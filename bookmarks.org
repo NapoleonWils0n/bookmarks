@@ -1,0 +1,1076 @@
+#+STARTUP: overview
+* mystuff
+   :PROPERTIES:
+   :CUSTOM_ID: mystuff
+   :add_date: 1455570596
+   :last_modified: 1481227079
+   :END:
+** [[http://127.0.0.1:9091/transmission/web/][transmission]]
+** [[https://github.com/NapoleonWils0n][github: NapoleonWils0n]]
+** [[https://youtube.com/@NapoleonWils0n][NapoleonWils0n - yt]]
+** [[https://odysee.com/@NapoleonWils0n:6][NapoleonWilson - odysee]]
+** [[http://192.168.1.1/][pfsense]]
+* topsites
+** [[https://www.youtube.com][youtube]]
+** [[https://www.channel4.com][channel4]]
+** [[https://www.bbc.co.uk/iplayer][iplayer]]
+** [[https://www.itv.com][itv]]
+** [[http://www.freeview.co.uk/whats-on/tv-guide][TV Guide]]
+* youtube
+** [[https://www.youtube.com/c/LoiLiangYang/videos][LoiLiangYang]]
+** [[https://www.youtube.com/c/gotbletu/videos][gotbletu]]
+** [[https://www.youtube.com/user/kaihendry/videos][Kai Hendry]]
+** [[https://www.youtube.com/user/mzamansky/videos][Mike Zamansky]]
+** [[https://www.youtube.com/c/ProtesilaosStavrou/videos][Protesilaos Stavrou]]
+** [[https://www.youtube.com/user/koenighaunstetten][Rainer König]]
+** [[https://www.youtube.com/c/SystemCrafters/videos][Systemcrafters]]
+* newcastle
+** [[https://www.nufc.co.uk/][nufc]]
+** [[https://www.nufc.co.uk/nufc-tv/live/live-video/][nufc tv]]
+** [[https://www.chroniclelive.co.uk/all-about/newcastle-united-fc][Chronicle Live]]
+** [[https://theathletic.com/football/team/newcastle-united/][theathletic]]
+** [[https://www.youtube.com/c/AdamPearson1242/videos][Adam Pearson]]
+** [[https://www.youtube.com/c/leelawlernewcastlefanstv/videos][Newcastle Fans TV]]
+** [[https://www.youtube.com/c/NewcastleUnited/videos][Newcastle United]]
+** [[https://www.youtube.com/c/Roobenstein/videos][Roobenstein]]
+** [[https://www.youtube.com/c/TheMagpieChannelTV/videos][The Magpie Channel TV]]
+** [[https://www.youtube.com/c/TheToonReview/videos][The Toon Review]]
+** [[https://www.youtube.com/c/truefaithNUFC/videos][True Faith]]
+** [[https://www.youtube.com/c/EdwardHope/videos][Tyneside Life]]
+* football
+** [[https://footybite.to/][footybite.to]]
+** [[https://daddylivehd.sx/][daddylivehd]]
+** [[https://reddit.footybite.io][reddit.footybite]]
+** [[https://www.soccerstreams.football][soccerstreams]]
+** [[https://footylive.ga/][footylive.ga]]
+** [[https://hesgoals.top/][hesgoals.top]]
+** [[https://supertipz.com][supertipz]]
+** [[https://silverspoon.site][silverspoon]]
+** [[Dzeko11.net][Dzeko11]]
+** [[http://gardener101.work/][Azulito]]
+** [[http://thecyclingentertainment.com/novo/events/][CyclingStreams]]
+** [[https://myoplay.club/oplive/?sport=soccer][Dvaix]]
+** [[hockeyweb.site/daily/news/][hockeyweb]]
+** [[http://bdnewszh.com/soccer/][RainoStream]]
+** [[https://techoreels.com/schedule/soccerstreams/][techoreels]]
+** [[https://techstribes.com/oneetech1/?sport=soccer][techstribes]]
+** [[http://uhdstreams.club/][uhdstreams]]
+* torrents
+  :PROPERTIES:
+  :CUSTOM_ID: torrents
+  :add_date: 1455570596
+  :last_modified: 1479589544
+  :END:
+** [[https://1337x.to/][1337x.to]]
+** [[http://archive.org/details/bittorrent][Archive.org]]
+** [[https://bitsearch.to/][bitsearch.to]]
+** [[https://btdig.com][btdig]]
+** [[https://www.dnoid.to/][Demonoid ]]
+** [[https://eztv.re/][eztv.re]]
+** [[https://www.limetorrents.lol][LimeTorrents.lol]]
+** [[https://www.magnetdl.com/][magnetdl]]
+** [[http://rarbg.to][rarbg]]
+** [[https://showrss.info/][showrss]]
+** [[piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion][The Pirate Bay - tor]] 
+** [[https://thepiratebay.org/][thepiratebay.org]]
+** [[http://torrentfreak.com/][TorrentFreak]]
+** [[https://torrentgalaxy.to][torrentgalaxy]]
+** [[https://torrentgalaxy.to/forums.php?action=viewtopic&topicid=138&page=1][torrentgalaxy - rss]]
+** [[https://zooqle.com][zooqle]]
+* sites
+  :PROPERTIES:
+  :CUSTOM_ID: sites
+  :add_date: 1455570596
+  :last_modified: 1481227497
+  :END:
+** [[https://alternativeto.net/][AlternativeTo]]
+** [[https://developers.google.com/apps-script/][Apps Script Google Developers]]
+** [[http://arstechnica.com/][Ars Technica]]
+** [[https://github.com/Igglybuff/awesome-piracy][awesome-piracy: A curated list of awesome warez and piracy links]]
+** [[https://developer.mozilla.org/en-US/docs/Web/CSS][CSS: Cascading Style Sheets | MDN]]
+** [[https://blog.jim-nielsen.com/2021/css-system-colors/][css system colours]]
+** [[https://web.dev/color-scheme/][css colour scheme]]
+** [[http://dict.org/bin/Dict][dict.org]]
+** [[https://duckduckgo.com/][DuckDuckGo]]
+** [[https://www.tunefind.com/][Find Music From TV and Movies | Tunefind]]
+** [[https://news.ycombinator.com/][hackernews]]
+** [[https://support.mozilla.org/en-US/questions/1150702][How can I disable auto-play for video content]]
+** [[https://medium.com/@ValdikSS/how-to-search-and-download-unpopular-and-old-files-on-the-internet-e5947ef507ba][How to search and download unpopular and old files on the internet]]
+** [[http://www.howtogeek.com/?PageSpeed=noscript][How-To Geek - For Geeks, By Geeks.]]
+** [[https://developer.mozilla.org/en-US/docs/Web/HTML][HTML: HyperText Markup Language | MDN]]
+** [[https://iptv.community/][iptv.community]]
+** [[https://itsfoss.com/][It's FOSS - World's Leading Linux & Open Source Web Portal]]
+** [[http://www.lifehacker.co.uk/][Lifehacker UK]]
+** [[http://www.makeuseof.com/][MakeUseOf - Technology, Simplified]]
+** [[https://m4uhd.tv][m4uhd.tv]]
+** [[https://mycroftproject.com/][Mycroft Project: Search Engine Plugins - Firefox IE Chrome]] 
+** [[https://www.cyberciti.biz/][nixCraft - Linux Tips, Hacks, Tutorials, And Ideas In Blog]]
+** [[http://www.omgubuntu.co.uk/][OMG! Ubuntu! | Ubuntu News, Apps, Reviews and Features]]
+** [[https://www.omglinux.com/][omglinux]]
+** [[https://www.opensourcealternative.to/][opensourcealternative]]
+** [[https://developer.mozilla.org/en-US/docs/Glossary/PHP][PHP - MDN Web Docs Glossary: Definitions of Web-related terms | MDN]]
+** [[https://wiki.servarr.com/prowlarr][Prowlarr | WikiArr]]
+** [[https://www.radio-uk.co.uk/][Radio UK: live internet radio stations in the United Kingdom]]
+** [[http://slashdot.org/][Slashdot: News for nerds, stuff that matters]]
+** [[https://torrentfreak.com][torrentfreak]]
+** [[http://html5doctor.com/video-subtitling-and-webvtt/][Video Subtitling and WebVTT | HTML5 Doctor]]
+** [[https://forum.videohelp.com/][videohelp]]
+** [[https://www.youtube.com/][YouTube]]
+** [[https://www.howtogeek.com/devops/how-to-create-qr-codes-from-the-linux-command-line/][How to Create QR Codes From the Linux Command Line]] 
+** [[https://en.wikipedia.org/wiki/ICalendar][iCalendar - Wikipedia]] 
+* nixos
+** [[https://nixos.org/manual/nix/stable/introduction.html][Introduction]]
+** [[https://discourse.nixos.org/][Nix Discord]]
+** [[https://nixos.org/][NixOS Linux]]
+** [[https://search.nixos.org/packages][NixOS Packages]]
+** [[https://nixos.org/manual/nixos/stable/][Nixos Manual]]
+** [[https://nixos.org/manual/nixpkgs/stable/][Nixpkgs]]
+** [[https://rycee.gitlab.io/home-manager/options.html][home-manager options]]
+* emacs
+   :PROPERTIES:
+   :CUSTOM_ID: emacs
+   :add_date: 1468542021
+   :last_modified: 1472844043
+   :END:
+** [[https://github.com/sachac][sacha chua github]]
+** [[https://www.masteringemacs.org/article/introduction-magit-emacs-mode-git][An introduction to Magit, an Emacs mode for Git - Mastering Emacs]]
+** [[https://joelmccracken.github.io/entries/org-mode-jekyll-plugin/][An Org-Mode Jekyll Plugin]]
+** [[https://stackoverflow.com/questions/20055181/how-to-disable-case-sensitivity-for-filename-auto-completion-in-emacs-24-shell-m][autocomplete - How to disable case-sensitivity for filename auto-completion in Emacs 24 shell-mode? - Stack Overflow]]
+** [[http://orgmode.org/worg/org-contrib/babel/][Babel: active code in Org-mode]]
+** [[https://blog.garage-coding.com/2015/02/07/blog-setup.html][Blog setup using Jekyll and Org-Mode]]
+** [[http://emacs-doctor.com/blogging-from-emacs.html][Blogging from GNU Emacs]]
+** [[https://ogbe.net/blog/blogging_with_org.html][Blogging using org-mode (and nothing else)]]
+** [[https://ogbe.net/blog/blogging_with_org.html][Blogging using org-mode (and nothing else)]]
+** [[http://dashohoxha.fs.al/building-technical-blog-site-with-jekyll-and-emacs/][Building a Technical Blog Site With Jekyll And Emacs -- Dashamir Hoxha]]
+** [[http://orgmode.org/manual/Capture-_002d-Refile-_002d-Archive.html#Capture-_002d-Refile-_002d-Archive][Capture - Refile - Archive - The Org Manual]]
+** [[http://orgmode.org/guide/Capture-templates.html][Capture templates - The compact Org-mode Guide]]
+** [[http://orgmode.org/manual/Capture-templates.html][Capture templates - The Org Manual]]
+** [[http://weblog.zamazal.org/org-mode-firefox/][Capturing Web content from Firefox to Org | Milan Zamazal's Weblog]]
+** [[http://orgmode.org/worg/org-tutorials/orgtutorial_dto.html][David  O'Toole Org tutorial]]
+** [[https://ogbe.net/emacsconfig.html][Dennis' Emacs configuration file]]
+** [[http://anirudhsasikumar.net/blog/2005.01.21.html][Disabling Backup and Auto-save in Emacs]]
+** [[http://orgmode.org/worg/org-contrib/babel/languages/ob-doc-dot.html][Dot Source Code Blocks in Org Mode]]
+** [[https://expoundite.net/guides/dotfile-management][Dotfile Management and Documentation with Org-Mode]]
+** [[http://correl.phoenixinquis.net/2015/07/12/git-graphs.html][Drawing Git Graphs with Graphviz and Org-Mode]]
+** [[http://www.tonyballantyne.com/graphs.html][Drawing Graphs using Dot and Graphviz]]
+** [[http://tonyballantyne.com/graphs.html][Drawing Graphs using Dot and Graphviz]]
+** [[https://emacs.stackexchange.com/questions/12167/emacs-init-pandoc-setup][elisp - Emacs init pandoc setup - Emacs Stack Exchange]]
+** [[https://wiki.archlinux.org/index.php/emacs][Emacs - ArchWiki]]
+** [[https://superuser.com/questions/552888/auto-load-gfm-mode][emacs - Auto-load gfm-mode - Super User]]
+** [[https://stackoverflow.com/questions/29354526/installing-git-auto-commit-mode][emacs - Installing git-auto-commit-mode - Stack Overflow]]
+** [[https://stackoverflow.com/questions/24833964/package-listed-in-melpa-but-not-found-in-package-install][emacs - Package listed in MELPA, but not found]]
+** [[https://stackoverflow.com/questions/22200312/refile-from-one-file-to-other][emacs - Refile from one file to other - Stack Overflow]]
+** [[http://org.ryuslash.org/dotfiles/emacs/init.html][Emacs init]]
+** [[http://mescal.imag.fr/membres/arnaud.legrand/misc/init.php][Emacs init file written in org-mode]]
+** [[https://www.gnu.org/software/emacs/manual/html_node/eintr/index.html][emacs lisp]]
+** [[http://jblevins.org/projects/markdown-mode/][Emacs Markdown Mode]]
+** [[https://stackoverflow.com/questions/10383986/emacs-mode-for-stack-overflows-markdown][Emacs mode for Stack Overflow's markdown]]
+** [[https://stackoverflow.com/questions/22878668/emacs-org-mode-evil-mode-tab-key-not-working][Emacs org-mode, evil-mode - TAB key not working - Stack Overflow]]
+** [[http://ergoemacs.org/emacs/emacs_hyper_super_keys.html][Emacs: How to Define Super Hyper Keys]]
+** [[https://www.emacswiki.org/emacs/BookMarks][EmacsWiki: Book Marks]]
+** [[https://www.emacswiki.org/emacs/BookMarks][EmacsWiki: Book Marks]]
+** [[https://www.emacswiki.org/emacs/EmacsAsDaemon][EmacsWiki: Emacs As Daemon]]
+** [[https://www.emacswiki.org/emacs/EmacsAsDaemon][EmacsWiki: Emacs As Daemon]]
+** [[https://www.emacswiki.org/emacs/Evil][EmacsWiki: Evil]]
+** [[https://www.emacswiki.org/emacs/IncrementalSearch][EmacsWiki: Incremental Search]]
+** [[https://www.emacswiki.org/emacs/Magit][EmacsWiki: Magit]]
+** [[https://www.emacswiki.org/emacs/Magit][EmacsWiki: Magit]]
+** [[https://www.emacswiki.org/emacs/MarkdownMode][EmacsWiki: Markdown Mode]]
+** [[https://www.emacswiki.org/emacs/MuttInEmacs][EmacsWiki: Mutt In Emacs]]
+** [[https://www.emacswiki.org/emacs/ToolBar][EmacsWiki: Tool Bar]]
+** [[https://www.emacswiki.org/emacs/TrampMode][EmacsWiki: Tramp Mode]]
+** [[https://www.emacswiki.org/emacs/InteractivelyDoThings][EmacsWiki:Interactively Do Things]]
+** [[https://github.com/yjwen/org-reveal/issues/148][Export error is back · Issue #148 · yjwen/org-reveal · GitHub]]
+** [[http://juanjoalvarez.net/es/detail/2014/sep/19/vim-emacsevil-chaotic-migration-guide/][From Vim to Emacs+Evil chaotic migration guide]]
+** [[https://github.com/tamouse/emacs_org_protocol_server/issues/2][FYI-OSX-org-protocol setup without an additional server]]
+** [[https://github.com/alphapapa/org-protocol-capture-html][GitHub - alphapapa/org-protocol-capture-html: Capture HTML from the browser selection into Emacs as org-mode content]]
+** [[https://github.com/buriy/python-readability][GitHub - buriy/python-readability: fast python port of arc90's readability tool, updated to match latest readability.js!]]
+** [[https://github.com/claviclaws/org-mac-protocol][GitHub - claviclaws/org-mac-protocol]]
+** [[https://github.com/daviwil/emacs-from-scratch][GitHub - daviwil/emacs-from-scratch: An example of a fully custom Emacs configuration developed live on YouTube!]]
+** [[https://github.com/eggcaker/jekyll-org][GitHub - eggcaker/jekyll-org: org-mode converter for Jekyll.]]
+** [[https://github.com/jrnold/beamercolorthemesolarized][GitHub - jrnold/beamercolorthemesolarized: Beamer color theme using the Solarized palette]] :latex:
+** [[https://github.com/ppareit/graphviz-dot-mode][GitHub - ppareit/graphviz-dot-mode: Emacs mode for the DOT language, used by graphviz.]]
+** [[https://github.com/ralesi/ranger.el][GitHub - ralesi/ranger.el: Bringing the goodness of ranger to dired!]]
+** [[https://github.com/ryuslash/git-auto-commit-mode][GitHub - ryuslash/git-auto-commit-mode: Automatically commit to git after each save]]
+** [[https://github.com/smihica/emmet-mode][GitHub - smihica/emmet-mode: emmet's support for emacs.]]
+** [[https://github.com/tjaartvdwalt/jekyll-org-mode-converter][GitHub - tjaartvdwalt/jekyll-org-mode-converter: Write Jekyll posts with Org mode]]
+** [[https://github.com/uwabami/jekyll-org-converter][GitHub - uwabami/jekyll-org-converter]]
+** [[https://github.com/xuchunyang/setup-org-protocol-on-mac][GitHub - xuchunyang/setup-org-protocol-on-mac: Setting Up org-protocol on Mac]]
+** [[https://github.com/zamansky/using-emacs][GitHub - zamansky/using-emacs]]
+** [[https://www.gnu.org/software/emacs/manual/html_node/emacs/Dired-Updating.html][GNU Emacs Manual: Dired Updating]] :website:
+** [[https://www.gnu.org/software/emacs/manual/html_node/emacs/Visiting.html][GNU Emacs Manual: Visiting]]
+** [[http://users.skynet.be/ppareit/projects/graphviz-dot-mode/graphviz-dot-mode.html][Graphviz dot mode for emacs]]
+** [[https://emacsthemes.com/themes/green-phosphor-theme.html][Green Phosphor Theme | Emacs Themes]]
+** [[http://orgmode.org/manual/Handling-links.html][Handling links - The Org Manual]] :website:
+** [[https://www.reddit.com/r/emacs/comments/4366f9/how_do_orgrefiletargets_work/][How do org-refile-targets work? : emacs]]
+** [[https://stackoverflow.com/questions/25669809/how-do-you-run-python-code-using-emacs][How do you run Python code using Emacs? - Stack Overflow]] :website:
+** [[http://www-public.tem-tsp.eu/~berger_o/test-org-publishing-rdfa.html][How to publish org-mode to HTML5+RDFa]]
+** [[https://www.masteringemacs.org/article/how-to-write-a-book-in-emacs][How to write a book in Emacs - Mastering Emacs]]
+** http://ergoemacs.org/emacs/emacs_magit-mode_tutorial.html 
+** http://orgmode.org/manual/Capture.html :website:
+** http://www.mediaonfire.com/blog/2017_07_21_org_protocol_firefox.html 
+** https://emacs.stackexchange.com/questions/185/can-i-avoid-outdated-byte-compiled-elisp-files :website:
+** https://emacs.stackexchange.com/questions/34637/how-to-insert-text-immediately-before-a-link-at-the-start-of-a-line-in-org-mod :website:
+** https://github.com/alphapapa/org-protocol-capture-html :website:
+** https://github.com/sprig/org-capture-extension :website:
+** https://i3wm.org/docs/userguide.html 
+** https://orgmode.org/manual/index.html :website:
+** https://www.emacswiki.org/ 
+** https://www.emacswiki.org/emacs/EmacsNewbieKeyReference :website:
+** https://www.masteringemacs.org/article/introduction-magit-emacs-mode-git 
+** [[https://emacs.stackexchange.com/questions/2797/emacs-wont-load-theme-on-startup][init file - Emacs won't load theme on startup - Emacs Stack Exchange]] :emacs:
+** [[http://orgmode.org/manual/Initial-visibility.html][Initial visibility - The Org Manual]] :website:
+** [[https://vxlabs.com/2014/12/04/inline-graphviz-dot-evaluation-for-graphs-using-emacs-org-mode-and-org-babel/][Inline GraphViz DOT evaluation for graphs using Emacs, org-mode and org-babel]]
+** [[http://www.howardism.org/Technical/Emacs/literate-programming-tutorial.html][Introduction to Literate Programming]] :emacs:
+** [[https://github.com/kawabata/ox-pandoc][kawabata/ox-pandoc: Another org-mode exporter via pandoc.]]
+** [[https://emacs.stackexchange.com/questions/977/shiftup-isnt-recognized-by-emacs-in-a-terminal][key bindings - Shift+Up isn't recognized by Emacs in a terminal - Emacs Stack Exchange]]
+** [[http://fortune-teller-amy-88756.netlify.com/knusper][Knusper's Emacs configuration]]
+** [[https://stackoverflow.com/questions/32596646/font-awesome-and-i3bar][linux - Font Awesome and i3bar - Stack Overflow]] :emacs:utf8:
+** [[https://www.gnu.org/software/emacs/manual/html_node/emacs/List-Buffers.html#List-Buffers][List Buffers - GNU Emacs Manual]] :emacs:
+** [[https://stackoverflow.com/questions/6344389/osx-emacs-unbind-just-the-right-alt][macos - OSX Emacs: unbind just the right alt? - Stack Overflow]] :emacs:
+** [[https://emacs.stackexchange.com/questions/2124/case-insensitive-filename-completion-in-shell-command][minibuffer - Case-insensitive filename completion in `shell-command' - Emacs Stack Exchange]]
+** [[http://mobileorg.ncogni.to/][MobileOrg : What is MobileOrg?]]
+** [[http://oremacs.com/2015/01/07/org-protocol-1/][My org-protocol setup, part 1. · (or emacs]]
+** [[http://orgmode.org/worg/org-hacks.html][Org ad hoc code, quick hacks and workarounds]] :website:
+** [[http://tech.memoryimprintstudio.com/org-capture-from-external-applications/][Org Capture from External Applications -- Emacs, Arduino, Raspberry Pi, Linux and Programming etc]]
+** [[http://doc.norang.ca/org-mode.html][Org Mode - Organize Your Life In Plain Text]]
+** [[http://doc.norang.ca/org-mode.html][Org Mode - Organize Your Life In Plain Text!]]
+** [[http://doc.norang.ca/org-mode.html#Refiling][Org Mode - Organize Your Life In Plain Text!]]
+** [[http://orgmode.org/][Org mode for Emacs -- Your Life in Plain Text]]
+** [[http://orgmode.org/][Org mode for Emacs -- Your Life in Plain Text]]
+** [[http://blog.zhengdong.me/2012/06/16/org-my-life/][Org My Life - Extra Cookie]]
+** [[http://orgmode.org/manual/org_002dcrypt_002eel.html][org-crypt.el - The Org Manual]] :website:
+** [[http://www.grantschissler.com/blog/2015/04/10/org-jekyll-github.html][Org-mode -> Jekyll -> GitHub Blog Workflow]]
+** [[http://www.star.bris.ac.uk/bjm/org-basics.html][Org-mode Basics]]
+** [[http://pragmaticemacs.com/emacs/org-mode-basics-vi-a-simple-todo-list/][Org-mode basics VI: A simple TODO list | Pragmatic Emacs]]
+** [[http://orgmode.org/worg/org-tutorials/org4beginners.html][Org-mode beginning at the basics]]
+** [[http://mph.puddingbowl.org/2010/02/org-mode-in-your-pocket-is-a-gnu-shaped-devil/][org-mode In Your Pocket Is a GNU-Shaped Devil]]
+** [[https://emacsclub.github.io/html/org_tutorial.html][Org-mode Tutorial / Cheat Sheet]] :website:
+** [[https://emacsclub.github.io/html/org_tutorial.html][Org-mode Tutorial / Cheat Sheet]]
+** [[http://orgmode.org/worg/org-contrib/org-protocol.html#sec-6-1-1][org-protocol.el -- Intercept calls from emacsclient to trigger custom actions]]
+** [[https://superuser.com/questions/296243/remap-command-key-in-mac-only-for-emacs][osx - Remap command key in mac only for emacs - Super User]]
+** [[https://groups.google.com/forum/#!msg/pandoc-discuss/LWy5q8WQZts/x9c96Fa9vRcJ][Pandoc-mode in Emacs can't create pdf files - Google Groups]]
+** [[https://kieranhealy.org/blog/archives/2014/01/23/plain-text/][Plain Text, Papers, Pandoc]]
+** [[https://protesilaos.com/emacs/dotemacs][Protesilaos Stavrou]]
+** [[http://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html][Publishing Org-mode files to HTML]]
+** [[http://sachachua.com/blog/][sacha chua :: living an awesome life - learn - share - scale]]
+** [[http://pages.sachachua.com/.emacs.d/Sacha.html][Sacha Chua's Emacs configuration]]
+** [[https://tex.stackexchange.com/questions/131950/turn-numbering-off-but-keep-table-of-contents-intact][sectioning - turn numbering off, but keep Table of Contents intact? - TeX - LaTeX Stack Exchange]]
+** [[http://azaleasays.com/2013/07/05/setting-up-mac-os-x-and-iterm2-for-emacs/][Setting up Mac OS X and iTerm2 for Emacs]]
+** [[https://www.linuxquestions.org/questions/linux-general-1/shift-arrow-and-alt-arrow-keys-don't-work-in-xterm-488231/][Shift-arrow and Alt-arrow keys don't work in xterm]]
+** [[https://www.masteringemacs.org/article/sorting-text-line-field-regexp-emacs][Sorting Text by Line, Field and Regexp in Emacs - Mastering Emacs]] :emacs:
+** [[https://github.com/theodorewiles/org-mind-map][This is an emacs package that creates graphviz directed graphs.]]
+** [[http://nathantypanski.com/blog/2014-08-03-a-vim-like-emacs-config.html][Towards a Vim-like Emacs]]
+** [[https://anthonydigirolamo.github.io/emacs/2014/06/03/trying-out-emacs/][Trying Out Emacs]]
+** [[http://orgmode.org/manual/TTY-keys.html][TTY keys - The Org Manual]]
+** [[http://orgmode.org/orgcard.txt][turn item/line into headline                      C-c *]] :website:
+** [[http://www.jmnorlund.net/log/2015/05/use-emacs-org-protocol-capture-with-firefox-input/][Use Emacs org-protocol capture with Firefox input · jmn: log]]
+** [[https://cestlaz.github.io/stories/emacs/][Using Emacs Series | C'est la Z]]
+** [[http://swaac.tamouse.org/emacs/org-mode/2015/05/25/using-emacss-org-mode-and-editing-yaml-frontmatter-in-jekyll-posts/][Using Emacs's org-mode and editing YAML frontmatter in Jekyll posts]]
+** [[https://www.williamjbowman.com/blog/2012/07/26/using-evil-for-good/][Using Evil for Good]]
+** [[http://orgmode.org/worg/org-tutorials/org-jekyll.html][Using org to Blog with Jekyll]]
+** [[http://www.diegoberrocal.com/blog/2015/08/19/org-protocol/][Using org-capture with org-protocol be like - Diego Berrocal]]
+** [[https://www.emacswiki.org/emacs/OrgMode][Wiki： Org Mode]]
+** [[http://orgmode.org/manual/Working-With-Source-Code.html#Working-With-Source-Code][Working With Source Code - The Org Manual]]
+** [[http://www.dr-qubit.org/undo-tree/undo-tree.el][www.dr-qubit.org/undo-tree/undo-tree.el]]
+** [[http://www.i3s.unice.fr/~malapert/org/tips/emacs_orgmode.html][Yet Another Org-Mode Configuration]]
+** [[https://github.com/SystemCrafters][System Crafters · GitHub]] :github:
+** [[https://caiorss.github.io/Emacs-Elisp-Programming/Elisp_Snippets.html][Elisp Snippets]] :emacs:
+* unix
+** [[https://www.grymoire.com/Unix/Awk.html][Awk - A Tutorial and Introduction - by Bruce Barnett]] :unix:
+** [[https://www.grymoire.com/Unix/Bourne.html][Bourne Shell Tutorial]] :unix:
+** [[https://www.grymoire.com/Unix/Grep.html][Grep]] :unix:
+** [[https://www.grymoire.com/Unix/Make.html][Make]] :unix:
+** [[https://www.grymoire.com/Unix/Sh.html][POSIX Shell Tutorial]] :unix:
+** [[https://www.grymoire.com/Unix/Regular.html][Regular Expressions]] :unix:
+** [[https://www.grymoire.com/Unix/Sed.html][Sed - An Introduction and Tutorial]] :unix:
+** [[https://www.grymoire.com/Unix/Quote.html][UNIX Shell Quotes - a simple tutorial]] :unix:
+** [[https://www.grymoire.com/Unix/Permissions.html][Unix/Linux Permissions - An Introduction and Tutorial]] :unix:
+* linux
+  :PROPERTIES:
+  :CUSTOM_ID: linux
+  :add_date: 1455570596
+  :last_modified: 1480981674
+  :END:
+** [[https://zapier.com/blog/best-todo-list-apps/][40 of the Best To-Do Apps for Personal Task Management]]
+** [[http://www.thegeekstuff.com/2011/04/ps-command-examples/][7 Practical PS Command Examples for Process Monitoring]]
+** [[https://github.com/pimutils/todoman][A simple CalDAV-based todo manager.]]
+** [[https://www.reddit.com/r/chromeos/comments/3dbyh3/a_users_guide_to_vimium/][A User's Guide to Vimium : chromeos]]
+** [[https://wiki.archlinux.org/index.php/Access_Control_Lists][Access Control Lists - ArchWiki]]
+** [[https://stackoverflow.com/questions/20098975/using-cut-or-sed-in-android-busybox][adb - Using cut or sed in Android busybox]]
+** [[https://github.com/ra-at-diladele-com/qlproxy_external/wiki/Administrators-Guide][Administrators Guide qlproxy]]
+** [[https://blog.night-shade.org.uk/2015/02/allow-virsh-as-a-normal-user-on-debian-jessie/][Allow virsh as a normal user on Debian Jessie -- A travelling tinker]]
+** [[http://alternativeto.net/][AlternativeTo - Social Software Recommendations]]
+** [[https://wiki.archlinux.org/index.php/Apple_Keyboard#Media_Keys][Apple Keyboard - ArchWiki]]
+** [[https://www.archlinux.org/][Arch Linux]]
+** [[https://www.linuxserver.io/index.php/tag/arch-linux-2/][arch linux -- Linuxserver.io]]
+** [[https://www.archlinux.org/news/ca-certificates-update/][Arch Linux ca-certificates update]]
+** [[http://zanshin.net/2015/02/05/arch-linux-on-a-macbook-pro-part-3-base-installation/][Arch Linux on a MacBook Pro Part 3: Base Installation - Zanshin.net]]
+** [[https://medium.com/@philpl/arch-linux-running-on-my-macbook-2ea525ebefe3][Arch Linux running on my MacBook]]
+** [[http://stackoverflow.com/questions/9730437/recover-old-website-off-waybackmachine][archive - Recover old website off waybackmachine]]
+** [[https://wiki.archlinux.org/][ArchWiki]]
+** [[https://wiki.archlinux.org/index.php/Aria2][Aria2 - ArchWiki]]
+** [[https://truongtx.me/2014/04/04/aria2-download-notification-on-mac/][Aria2 download notification on Mac/Linux]]
+** [[http://steve-parker.org/articles/luks/][Articles - Linux Encrypted Filesystems with LUKS { steve-parker.org }]] :website:
+** [[https://askubuntu.com/questions/834961/sox-and-rec-without-the-mic][audio recording - sox and rec without the mic - Ask Ubuntu]]
+** [[https://github.com/Kickball/awesome-selfhosted][awesome-selfhosted]]
+** [[https://stackoverflow.com/questions/8513133/how-do-i-find-all-of-the-symlinks-in-a-directory-tree][bash - How do I find all of the symlinks in a directory tree? - Stack Overflow]] :find:
+** [[https://github.com/Red5d/pushbullet-bash][Bash interface to the PushBullet API]]
+** [[https://stackoverflow.com/questions/1659826/bash-menu-return-to-menu-after-selection-made-and-executed][Bash Menu: Return to menu after selection made and executed?]]
+** [[https://stackoverflow.com/questions/4728320/bash-script-case-statement-and-sub-menus][Bash script, case statement and sub-menus - Stack Overflow]]
+** [[https://gist.github.com/cdown/1163649][Bash urlencode and urldecode]]
+** [[https://harbhag.wordpress.com/2010/07/02/best-lightweight-applications-for-linux/][Best Lightweight Applications for Linux]]
+** [[http://blockdiag.com/en/blockdiag/][blockdiag - simple block-diagram image generator]]
+** [[https://github.com/lfos/calcurse/blob/master/contrib/caldav/config.sample][calcurse/config.sample]]
+** [[https://github.com/lfos/calcurse/tree/master/contrib/caldav][calcurse/contrib/caldav]]
+** [[https://developers.google.com/google-apps/calendar/caldav/v2/guide][CalDAV API Developer's Guide]]
+** [[http://ubuntuforums.org/showthread.php?t=2173018][Can't add resolutions using xrandr]]
+** [[http://crunchbang.org/forums/viewtopic.php?id=38656][Capture Video of Desktop on 2nd Screen]]
+** [[http://www.howtogeek.com/howto/ubuntu/change-the-default-editor-from-nano-on-ubuntu-linux/][Change the Default Editor From Nano on Ubuntu Linux]] :website:
+** [[https://dhakshinamoorthy.wordpress.com/2014/01/11/changing-the-default-shell-in-arch-linux/][Changing the default shell in Arch Linux]]
+** [[http://www.debian.org/doc/manuals/debian-reference/ch09.en.html][Chapter 9. System tips]]
+** [[https://fontawesome.com/cheatsheet?from=io][Cheatsheet | Font Awesome]] :fonts:
+** [[http://search.cpan.org/dist/W3C-LinkChecker/bin/checklink.pod][checklink - search.cpan.org]]
+** [[https://code.google.com/p/chromium/codesearch#chromium/src/sync/tools/testserver/chromiumsync.py&q=chromiumsync.py&sq=package%3achromium][chromiumsync.py - Code Search]]
+** [[http://blog.wikichoon.com/2016/01/polkit-password-less-access-for-libvirt.html][Cole Robinson: Polkit password-less access for the 'libvirt' group]]
+** [[https://support.mozilla.org/en-US/kb/about-config-editor-firefox][Configuration Editor for Firefox]]
+** [[http://lostpackets.de/khal/configure.html][Configuring khal --- khal 0.2 documentation]]
+** [[https://snarfed.org/control_arrow_keys_in_rxvt_tcsh_and_emacs][control arrow keys in rxvt, tcsh, and emacs]]
+** [[http://tldp.org/LDP/abs/html/dosbatch.html][Converting DOS Batch Files to Shell Scripts]]
+** [[https://itsfoss.com/could-not-get-lock-error/][Could not get lock /var/lib/dpkg/lock Error in Ubuntu | It's FOSS]]
+** [[https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches][Create a new branch with git and manage branches]]
+** [[https://coderwall.com/p/zvvgna/create-htpasswd-file-for-nginx-without-apache][Create htpasswd file for nginx (without apache)]]
+** [[https://www.ctan.org/pkg/movie15?lang=en][CTAN: Package movie15]]
+** [[http://web.media.mit.edu/~mellis/cellphone/][David A. Mellis: DIY Cellphone]]
+** [[https://jimshaver.net/2015/02/11/decrypting-tls-browser-traffic-with-wireshark-the-easy-way/][Decrypting TLS Browser Traffic With Wireshark]]
+** [[http://www.thesprawl.org/research/decrypting-tls-ssl-traffic-wireshark/][decrypting tls/ssl traffic with wireshark]]
+** [[https://wiki.archlinux.org/index.php/Desktop_entries][Desktop entries - ArchWiki]]
+** [[https://julianoliver.com/output/log_2015-12-18_14-39][Detect and disconnect WiFi cameras in that AirBnB you're staying in]]
+** [[https://tex.stackexchange.com/questions/167828/difficult-with-fancyhdr-and-table-of-contents][Difficult with fancyhdr and table of contents - TeX - LaTeX Stack Exchange]]
+** [[http://www.diladele.com/][Diladele B.V.]]
+** [[http://man7.org/linux/man-pages/man5/dir_colors.5.html][dir_colors]]
+** [[https://wiki.archlinux.org/index.php/Display_Power_Management_Signaling][Display Power Management Signaling - ArchWiki]]
+** [[https://distrowatch.com/][DistroWatch.com: Put the fun back into computing. Use Linux, BSD.]]
+** [[http://www.onlyoffice.com/blog/2015/04/document-server-3-0-release-and-other-news-for-open-source-community-2/][Document Server 3.0]]
+** [[https://wiki.videolan.org/Documentation:Modules/http_intf/][Documentation:Modules/http intf - VideoLAN Wiki]]
+** [[https://0x46.net/thoughts/2019/02/01/dotfile-madness/][Dotfile madness]] :dotfiles:
+** [[https://github.com/johntyree/dotfiles/blob/master/Xresources.d/urxvt-colours-green-on-black][dotfiles/urxvt-colours-green-on-black]]
+** [[https://blog.archive.org/2012/04/26/downloading-in-bulk-using-wget/][Downloading in bulk using wget | Internet Archive Blogs]]
+** [[http://www.zealpeal.com/dual-boot-os-x-el-capitan-on-macbook-pro-with-kali-linux/][Dual Boot Kali Linux With OS X El Capitan on MacBook Pro. - ZealPeal]]
+** [[https://github.com/Earnestly][Earnestly · GitHub]]
+** [[http://www.rodsbooks.com/ubuntu-efi/][EFI-Booting Ubuntu on a Mac]]
+** [[http://electron.atom.io/][Electron - Build cross platform desktop apps with JavaScript, HTML, and CSS.]]
+** [[https://www.eff.org/][Electronic Frontier Foundation]]
+** [[http://ebookarchitects.com/learn-about-ebooks/enhanced-ebooks/][Enhanced eBooks]]
+** [[https://github.com/c-geek/ghost-export][Export Ghost blog entries as Markdown files]]
+** [[http://madduck.net/docs/extending-xkb/][Extending the X keyboard map with xkb]]
+** [[https://forum.omz-software.com/topic/2023/feature-org-mode-support/9][Feature: org-mode support | omz:forum]]
+** [[https://www.dyne.org/software/tomb/][File Encryption on linux]]
+** [[https://wiki.archlinux.org/index.php/File_permissions_and_attributes][File permissions and attributes - ArchWiki]]
+** [[http://online-source.net/2012/09/05/find-smtp-server-by-using-the-nslookup-command/][find smtp with nslookup]]
+** [[http://www.tldp.org/HOWTO/Firewall-HOWTO.html][Firewall and Proxy Server HOWTO]]
+** [[http://www.fmwconcepts.com/imagemagick/autowhite/index.php][Fred's ImageMagick Scripts: AUTOWHITE]]
+** [[http://www.openproxy.co.uk/][Free UK Proxy]]
+** [[http://freevideolectures.com/][Free Video Lectures, Online Courses and tutorials from top colleges, universities]]
+** [[http://www.draconianoverlord.com/2014/05/26/from-xmonad-to-i3.html][From xmonad to i3 on Ubuntu 14.04]]
+** [[http://www.pavelkogan.com/2014/05/23/luks-full-disk-encryption/][Full disk encryption with LUKS (including /boot) · Pavel Kogan]]
+** [[https://developer.mozilla.org/en-US/docs/Web/XPath/Functions][Functions - XPath | MDN]]
+** [[https://stackoverflow.com/questions/4819819/get-autocompletion-when-invoking-a-read-inside-a-bash-script][Get autocompletion when invoking a READ inside a Bash script]]
+** [[https://squarepenguin.co.uk/wiki/][get\_iplayer Wiki and Documentation]]
+** [[https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging][Git - Basic Branching and Merging]]
+** [[http://blog.atom.io/2014/03/13/git-integration.html][Git Integration]]
+** [[https://atom.io/packages/git-plus][git-plus]]
+** [[http://stackoverflow.com/questions/18328800/github-updates-were-rejected-because-the-remote-contains-work-that-you-do-not-h][Github "Updates were rejected because the remote contains work that you do not have"]]
+** [[https://github.com/chrippa/livestreamer][GitHub - chrippa/livestreamer]]
+** [[https://github.com/firecat53/urlscan][GitHub - firecat53/urlscan: Mutt and terminal url selector (similar to urlview)]] :linux:
+** [[https://github.com/powerline/fonts][GitHub - powerline/fonts: Patched fonts for Powerline users.]]
+** [[https://github.com/valurhrafn/chrome-sync-server][GitHub - valurhrafn/chrome-sync-server: Sync server for chrome/chromium]]
+** [[https://github.com/yt-dlp/yt-dlp][GitHub - yt-dlp/yt-dlp: A youtube-dl fork with additional features and fixes]] 
+** [[https://unix.stackexchange.com/questions/316998/how-to-change-keyboard-layout-in-gnome-3-from-command-line][gnome3 - How to change keyboard layout in gnome 3 from command line - Unix & Linux Stack Exchange]] :website:
+** [[https://wiki.archlinux.org/index.php/GnuPG][GnuPG - ArchWiki]]
+** [[https://gramps-project.org/][Gramps]]
+** [[https://www.gramps-project.org/wiki/index.php?title=Gramps_4.2_Wiki_Manual][Gramps 4.2 Wiki Manual - Gramps]]
+** [[https://graphviz.gitlab.io/documentation/][graphviz]]
+** [[https://wiki.archlinux.org/index.php/Graphviz][Graphviz - ArchWiki]]
+** [[http://www.graphviz.org/][Graphviz - Graph Visualization Software]]
+** [[https://wiki.archlinux.org/index.php/GRUB][GRUB - ArchWiki]]
+** [[https://blind.guru/grub-efi-amd64-mba-upgrade.html][grub-efi-amd64 on a MacBook Air]]
+** [[http://www.dedoimedo.com/computers/grub2-efi-recovery.html][GRUB2 & EFI recovery - Tutorial]]
+** [[http://hak5.org/][Hak5 - Home]]
+** [[http://boeglin.org/blog/index.php?m=03&y=12&entry=entry120314-214917][Handling magnet URIs with w3m]]
+** [[https://handsondataviz.org/][Hands-On Data Visualization]]
+** [[http://milianw.de/blog/heaptrack-a-heap-memory-profiler-for-linux][Heaptrack - A Heap Memory Profiler for Linux | Milian Wolff]]
+** [[https://askleo.com/how-do-i-get-a-mobi-ebook-onto-my-kindle/][How do I get a .mobi ebook onto my Kindle? - Ask Leo!]]
+** [[https://www.synology.com/en-global/knowledgebase/tutorials/616][How to access files on Synology NAS within the local network (NFS)]]
+** [[https://ubuntuforums.org/showthread.php?t=1582311][How to add LXTERMINAL to Task Bar in LXDE]]
+** [[http://www.thegeekstuff.com/2016/03/cryptsetup-lukskey/][How to Add, Remove, Change, Reset LUKS encryption Key]]
+** [[http://www.howtogeek.com/267376/how-to-automatically-correct-spelling-and-typos-when-using-cd-on-linux/][How to Automatically Correct Spelling and Typos When Using “cd” on Linux]] :website:
+** [[https://blog.sleeplessbeastie.eu/2013/01/07/how-to-automatically-set-up-external-monitor/][How to automatically set up external monitor]]
+** [[https://www.howtogeek.com/113439/how-to-change-your-browsers-user-agent-without-installing-any-extensions/][How to Change Your Browser's User Agent Without Installing Any Extensions]]
+** [[http://makandracards.com/makandra/661-how-to-change-your-dm-crypt-passphrase][How to change your dm-crypt passphrase - makandropedia]]
+** [[http://www.howtogeek.com/196655/how-to-configure-the-grub2-boot-loaders-settings/][How to Configure the GRUB2 Boot Loader's Settings]]
+** [[http://mpd.wikia.com/wiki/How_to_connect_to_the_Unix_Socket_for_added_operations][How to connect to the Unix Socket for added operations | Music Player Daemon Community Wiki | Fandom powered by Wikia]] :website:
+** [[https://stackoverflow.com/questions/5794640/how-to-convert-xcf-to-png-using-gimp-from-the-command-line][How to convert XCF to PNG using GIMP from the command-line?]]
+** [[https://askubuntu.com/questions/98642/how-to-display-dash-home-by-keyboard-shortcut][How to display Dash Home by keyboard shortcut - Ask Ubuntu]]
+** [[http://flavio.tordini.org/forums/topic/how-to-enable-environmental-variable-for-minitube][How to Enable Environmental Variable for Minitube]]
+** [[https://danielmiessler.com/blog/rss-feed-youtube-channel/][How to Get an RSS Feed for a YouTube Channel - Daniel Miessler]]
+** [[https://medium.com/@paulgambill/how-to-import-json-data-into-google-spreadsheets-in-less-than-5-minutes-a3fede1a014a][How to import JSON data into Google Spreadsheets in less than 5 minutes]]
+** [[https://www.howtoforge.com/tutorial/install-arch-linux-server/][How to Install and Configure Arch Linux as a Server]]
+** [[https://www.howtoforge.com/tutorial/how-to-install-arch-linux-with-full-disk-encryption/][How to install Arch Linux with Full Disk Encryption]]
+** [[https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-16-04][How To Install Nginx on Ubuntu 16.04 | DigitalOcean]] :website:
+** [[https://www.howtoforge.com/tutorial/linux-kill-process-with-xkill/][How to kill processes on the Linux Desktop with xkill]]
+** [[https://superuser.com/questions/318912/how-to-override-the-css-of-a-site-in-firefox-with-usercontent-css][How to override the CSS of a site in Firefox with userContent.css]]
+** [[http://www.howtogeek.com/240487/how-to-play-dvds-and-blu-rays-on-linux/][How to Play DVDs and Blu-rays on Linux]]
+** [[https://askubuntu.com/questions/488350/how-to-prompt-users-with-a-gui-dialog-box-to-choose-file-directory-path-via-the][How to prompt users with a GUI dialog box to choose file/directory path, via the command-line?]]
+** [[https://unix.stackexchange.com/questions/107159/how-to-refresh-or-reload-rc-conf-in-ranger-file-manager][How to refresh or reload rc.conf in ranger file manager?]]
+** [[http://snippets.aktagon.com/snippets/411-how-to-remove-html-from-urls-with-nginx-rewrites][How to remove .html from URLs with nginx rewrites]]
+** [[http://rickharrison.me/how-to-remove-trailing-slashes-from-jekyll-urls-using-nginx][How to remove trailing slashes from Jekyll URLs using Nginx]]
+** [[http://www.howtogeek.com/114884/how-to-repair-grub2-when-ubuntu-wont-boot/][How to Repair GRUB2 When Ubuntu Won't Boot]]
+** [[https://www.howtoforge.com/tutorial/how-to-reset-the-root-password-on-linux-and-freebsd/][How to reset the root password on Linux and FreeBSD]]
+** [[https://www.garron.me/en/go2linux/send-mail-gmail-mutt.html][How to send mail from command line with Gmail and Mutt]]
+** [[https://www.wikihow.com/Set-a-Specific-Country-in-a-Tor-Browser][How to Set a Specific Country in a Tor Browser (with Pictures)]]
+** [[http://duncanlock.net/blog/2013/05/03/how-to-set-your-compose-key-on-xfce-xubuntu-linux/][How to set your Compose Key on XFCE/Xubuntu Linux: duncanlock.net]]
+** [[http://support.ghost.org/setup-ssl-self-hosted-ghost/][How to setup SSL for self-hosted Ghost]]
+** [[https://unix.stackexchange.com/questions/181254/how-to-use-grep-and-cut-in-script-to-obtain-website-urls-from-an-html-file][How to use grep and cut in script to obtain website URLs from an HTML file]]
+** [[https://www.digitalocean.com/community/tutorials/how-to-use-rsync-to-sync-local-and-remote-directories-on-a-vps][How To Use Rsync to Sync Local and Remote Directories on a VPS]]
+** [[https://www.digitalocean.com/community/tutorials/how-to-use-the-digitalocean-one-click-drupal-image][How to Use the DigitalOcean One-Click Drupal Image | DigitalOcean]]
+** [[http://alvinalexander.com/linux-unix/sed-edit-files-in-place-make-backup-copy][How to use the Linux sed command to edit files in place]]
+** [[https://robinwinslow.co.uk/2013/10/03/linkchecker/][How to use unix linkchecker to thoroughly check any site]]
+** [[http://lifehacker.com/5697360/how-to-verify-if-an-email-address-is-real-or-fake][How to Verify if an Email Address Is Real or Fake]]
+** [[https://puppetlabs.com/blog/automated-ebook-generation-convert-markdown-epub-mobi-pandoc-kindlegen][How We Automated Our Ebook Builds With Pandoc and KindleGen | Puppet Labs]]
+** [[http://www.howtogeek.com/][How-To Geek - For Geeks, By Geeks.]]
+** [[https://forums.freebsd.org/threads/54600/][Howto: Desktop musicpd (mpd) configuration | The FreeBSD Forums]] :website:
+** [[http://www.cyberciti.biz/faq/howto-unix-linux-convert-dos-newlines-cr-lf-unix-text-format/][HowTo: UNIX / Linux Convert DOS Newlines CR-LF to Unix/Linux Format]]
+** [[https://www.howtoforge.com/][Howtoforge Linux Tutorials.]]
+** [[https://ptpb.pw/Kv4n]]
+** [[https://www.ibm.com/developerworks/linux/][IBM developerWorks : Linux]]
+** [[http://mylinuxbook.com/linux-fuser-command/][Identify processes using files or sockets through Linux fuser command]]
+** [[https://github.com/bradjasper/ImportJSON][Import JSON into Google Sheets]]
+** [[http://blog.fastfedora.com/projects/import-json][ImportJSON | Fast Fedora | Trevor Lohrbeer]]
+** [[https://kb.iu.edu/d/adwf][In Unix, how do I find a user's UID or GID?]]
+** [[https://inconsolation.wordpress.com/][Inconsolation | Adventures with lightweight and minimalist software for Linux]]
+** [[http://minimul.com/increased-developer-productivity-with-tmux-part-5.html][Increased Developer Productivity with Tmux, Part 5: Send-keys command]]
+** [[http://jonas.nitro.dk/tig/][Index of /tig]]
+** [[https://makarandtapaswi.wordpress.com/2009/07/10/movie-package-movie15/][Insert Movies in your PDF document]]
+** [[https://techtuts.info/2014/04/install-debian-unstable-sid/][Install Debian unstable (sid) - TechTuts]]
+** [[http://www.cyberciti.biz/faq/centos-fedora-redhat-install-iftop-bandwidth-monitoring-tool/][Install iftop To Display Bandwidth Usage Per interface By Host]]
+** [[http://www.installion.co.uk/][Installion: Linux Package Information]]
+** [[http://idjc.sourceforge.net/][Internet DJ Console Homepage]]
+** [[https://data-lessons.github.io/library-webscraping/xpath/][Introduction to web scraping: Selecting content on a web page with XPath]]
+** [[https://ipleak.net/][IP/DNS Detect - What is your IP]]
+** [[https://askubuntu.com/questions/624120/is-it-possible-to-view-google-chrome-bookmarks-and-history-from-the-terminal][Is it possible to view Google Chrome bookmarks and history from the terminal]]
+** [[https://wiki.archlinux.org/index.php/jekyll][Jekyll - ArchWiki]]
+** [[https://jekyllrb.com/][Jekyll • Simple, blog-aware, static sites]]
+** [[https://blog.jessfraz.com/post/linux-on-mac/][Jessie Frazelle's Blog: Linux or Death]]
+** [[https://jitsi.org/Projects/JitsiMeet][Jitsi Meet | Jitsi]]
+** [[http://www.joeproxy.co.uk/][JoeProxy.co.uk // Your Free Uk Web Proxy]]
+** [[https://jwt.io/][JSON Web Tokens - jwt.io]]
+** [[https://github.com/junegunn/vim-plug][junegunn/vim-plug Minimalist Vim Plugin Manager]]
+** [[https://github.com/K-S-V/Scripts][K-S-V/Scripts · GitHub]]
+** [[https://wiki.debian.org/Keyboard][Keyboard - Debian Wiki]]
+** [[https://unix.stackexchange.com/questions/65507/use-setxkbmap-to-swap-the-left-shift-and-left-control/65600][keyboard layout - Use setxkbmap to swap the Left Shift and Left Control]]
+** [[https://wiki.archlinux.org/index.php/Keyboard_shortcuts][Keyboard shortcuts - ArchWiki]]
+** [[http://xahlee.info/kbd/keyboard_no_numpad.html][Keyboards without Numeric Keypad]]
+** [[https://developers.google.com/kml/documentation/kml_tut][KML Tutorial  |  Keyhole Markup Language  |  Google Developers]] :kml:
+** [[http://www.lakka.tv/][Lakka - The DIY retro emulation console]]
+** [[https://www.languagetool.org/][LanguageTool Style and Grammar Check]]
+** [[http://learnpythonthehardway.org/book/ex0.html][Learn Python The Hard Way]]
+** [[https://wiki.archlinux.org/index.php/Libinput][libinput - ArchWiki]]
+** [[https://librevault.com/][Librevault]]
+** [[https://librevault.com/][Librevault]] :website:
+** [[https://wummel.github.io/linkchecker/][LinkChecker - Check websites for broken links]]
+** [[https://stackoverflow.com/questions/15490728/decode-base64-invalid-input][linux - decode base64: invalid input - Stack Overflow]] :website:
+** [[https://superuser.com/questions/493640/how-to-retry-connections-with-wget][linux - How to retry connections with wget? - Super User]]
+** [[https://stackoverflow.com/questions/14094456/mapping-super-keys-to-control-in-xorg-conf][linux - Mapping Super Keys to Control in xorg.conf? - Stack Overflow]]
+** [[http://www.cyberciti.biz/faq/][Linux / Unix Tutorial for Beginners and Advanced Users - nixCraft]]
+** [[http://www.linuxjournal.com/content/linux-advanced-routing-tutorial][Linux Advanced Routing Tutorial | Linux Journal]]
+** [[https://ro-che.info/articles/2017-07-21-record-audio-linux][Linux audio recording guide]]
+** [[http://linuxcommando.blogspot.nl/2008/06/how-to-find-file-and-cd-to-its-dirname.html][Linux Commando: How to find a file and cd to its dirname using command substitution]]
+** [[http://linux-commands-examples.com/][Linux Commands Examples]]
+** [[http://www.tldp.org/HOWTO/IPCHAINS-HOWTO.html][Linux IPCHAINS-HOWTO]]
+** [[http://www.linuxjournal.com/][Linux Journal | The Original Magazine of the Linux Community]]
+** [[http://www.linux-tutorial.info/][Linux Knowledge Base and Tutorial]]
+** [[https://blog.serverdensity.com/80-linux-monitoring-tools-know/][Linux Monitoring Tools for SysAdmins - Server Density Blog]]
+** [[http://www.tldp.org/HOWTO/Security-HOWTO/][Linux Security HOWTO]]
+** [[http://www.linux.com/][Linux.com | The source for Linux information]]
+** [[http://www.linux.org/][Linux.org]]
+** [[http://www.linuxselfhelp.com/][LinuxSelfhelp - Need Linux Help?]]
+** [[https://wiki.archlinux.org/index.php/List_of_applications/Other][List of applications/Other - ArchWiki]]
+** [[http://peter.sh/experiments/chromium-command-line-switches/][List of Chromium Command Line Switches « Peter Beverloo]]
+** [[https://wiki.archlinux.org/index.php/Livestreamer][Livestreamer - ArchWiki]]
+** [[https://lutris.net/][Lutris - Open Gaming Platform]]
+** [[http://git.frangor.info/magmatv/about/][magmatv - Command-line tool for managing and playing television series and films from RSS feeds.]]
+** [[http://magmatv.frangor.info/][magmatv - MagmaTV]]
+** [[https://github.com/naelstrof/maim][maim takes screenshots of your desktop]]
+** [[http://lifehacker.com/5925220/make-chrome-less-distracting-with-vimium-and-these-settings][Make Chrome Less Distracting with Vimium (and These Settings)]]
+** [[https://www.linuxquestions.org/questions/programming-9/making-select-show-its-menu-in-a-bash-script-319020/][making select show its menu in a bash script?]]
+** [[https://archive.org/details/MAME_0.151_ROMs][MAME 0.151 ROMs : Free Download & Streaming : Internet Archive]]
+** [[http://man.cx/zathura(1)][Manpage for zathura - man.cx manual pages]]
+** [[http://man.cx/zathura(1)][Manpage for zathura - man.cx manual pages]] :website:
+** [[https://blog.0daylabs.com/2016/02/15/stored-xss-on-zendesk/][Markdown based Stored XSS]]
+** [[https://michael-prokop.at/blog/2014/02/28/full-crypto-setup-with-grub2/][mikas blog » Blog Archive » Full-Crypto setup with GRUB2]] :website:
+** [[https://www.reddit.com/r/linux/comments/1uhw9h/minimalistic_epub_reader/][Minimalistic ePub reader? : linux]] :website:
+** [[http://pgp.mit.edu/][MIT PGP Key Server]]
+** [[http://mktorrent.sourceforge.net/][mktorrent - Create BitTorrent metainfo files from command line]] :website:
+** [[https://zeth.net/2014/05/28/modern_mounting_with_udisks2.html][Modern Mounting with Udisks2 --- Zeth.net]]
+** [[https://wiki.archlinux.org/index.php/mpv][mpv - ArchWiki]]
+** [[https://github.com/Argon-/mpv-config/blob/master/mpv.conf][mpv-config/mpv.conf at master · Argon-/mpv-config · GitHub]]
+** [[http://mupdf.com/][MuPDF]]
+** [[https://code.google.com/p/mupen64plus/][mupen64plus - N64 emulator and plugins]]
+** [[https://natron.inria.fr/][Natron | Compositing at hand]]
+** [[https://newsbeuter.org/][newbeuter]]
+** [[http://newsbeuter.org/][Newsbeuter]]
+** [[https://wiki.archlinux.org/index.php/Newsbeuter][Newsbeuter - ArchWiki]]
+** [[https://github.com/akrennmair/newsbeuter/blob/master/doc/example-config][newsbeuter/example-config]]
+** [[https://nextcloud.com/][nextcloud.com]]
+** [[https://wiki.archlinux.org/index.php/NFS][NFS - ArchWiki]]
+** [[https://digitalchild.info/nginx-rewrite-rule-html-files/][Nginx Rewrite Rule for Html Files]]
+** [[https://standards.freedesktop.org/icon-naming-spec/icon-naming-spec-latest.html][notify Icon Naming Specification]]
+** [[http://null-byte.wonderhowto.com/][Null Byte - The aspiring grey hat hacker]]
+** [[https://null-byte.wonderhowto.com/][Null Byte --- The aspiring white-hat hacker/security awareness playground]]
+** [[http://nullog.net/2013/05/23/google-sync-server/][nullog | chromium & chrome sync server address]]
+** [[https://github.com/cpbotha/nvpy/blob/master/nvpy/nvpy-example.cfg][nvpy/nvpy-example.cfg]]
+** [[http://tecadmin.net/one-time-task-scheduling-using-at-commad-in-linux/][One Time Task Scheduling using `at` Command in Linux - TecAdmin.net]]
+** [[https://obsproject.com/][Open Broadcaster Software - Index]]
+** [[https://superuser.com/questions/422692/open-current-page-in-w3m-in-firefox][Open current page in w3m in firefox? - Super User]]
+** [[http://www.openmediavault.org/][OpenMediaVault - The open network attached storage solution]]
+** [[http://docs.openstack.org/image-guide/convert-images.html][OpenStack Docs: Converting between image formats]] :website:
+** [[https://wiki.archlinux.org/index.php/Pacman#Cleaning_the_package_cache][pacman - ArchWiki]] :website:
+** [[https://gist.github.com/Apsu/6758891][PAM-integrated GPG-agent with passphrase presetting]]
+** [[https://repo.parabola.nu/pcr/os/x86_64/][Parabola GNU/Linux-libre - Index of /pcr/os/x86\_64/]]
+** [[https://mozilla.github.io/pdf.js/][PDF.js]]
+** [[https://github.com/philc/vimium][philc/vimium · GitHub]]
+** [[https://wiki.archlinux.org/index.php/PHP][PHP - ArchWiki]]
+** [[http://www.jupiterbroadcasting.com/laspicks/][Picks · Linux Action Show · Jupiter Broadcasting]]
+** [[https://www.dokuwiki.org/plugin:gitbacked][plugin:gitbacked DokuWiki]]
+** [[https://www.privateinternetaccess.com/][Private Internet Access]]
+** [[https://github.com/jamcnaughton/i3-hud-menu][Provides a way to run menubar commands through dmenu]]
+** [[https://pwmt.org/projects/zathura/][pwmt.org]]
+** [[https://filippo.io/][PyTux | Trips of a curious penguin]]
+** [[https://tudorbarbu.ninja/pywebkitgtk-execute-javascript-from-python/][Pywebkitgtk -- execute Javascript from python]]
+** [[http://www.qownnotes.org/][QOwnNotes - cross-platform open source plain-text file notepad]]
+** [[http://qtodotxt.org/][Qtodotxt - Cross Platform Todo manager]]
+** [[https://www.funwithelectronics.com/?id=95][Record system output sound in Linux with pacat (Pulseaudio)]]
+** [[http://jvns.ca/blog/2014/03/23/recovering-files-using-slash-proc-and-other-useful-facts/][Recovering files using /proc (and spying, too!) - Julia Evans]]
+** [[https://superuser.com/questions/202818/what-regular-expression-can-i-use-to-match-an-ip-address][regex - What regular expression can I use to match an IP address?]]
+** [[https://www.commandlinefu.com/commands/view/24309/reinstall-a-synology-nas-without-loosing-any-data-from-commandline.?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Command-line-fu+%28Command-Line-Fu%29][Reinstall a Synology NAS without loosing any data from commandline.]]
+** [[http://www.cyberciti.biz/faq/howto-linux-remove-user-from-group/][Remove Linux User From a Secondary Group ( Supplementary Groups )]]
+** [[http://brandon.sternefamily.net/2010/05/removing-file-extensions-with-sed/][Removing file extensions with sed]]
+** [[https://help.github.com/articles/renaming-a-repository/][Renaming a repository]]
+** [[https://github.com/DaveDavenport/rofi][Rofi: A window switcher, application launcher and dmenu replacement]]
+** [[https://github.com/romainl/Apprentice][romainl/Apprentice · GitHub]]
+** [[http://www.commandlinefu.com/commands/view/5772/run-complex-remote-shell-cmds-over-ssh-without-escaping-quotes][run complex remote shell cmds over ssh, without escaping quotes]]
+** [[https://www.feralhosting.com/faq/view?question=34][ruTorrent - rss set up]]
+** [[https://wiki.archlinux.org/index.php/Rxvt-unicode][rxvt-unicode - ArchWiki]]
+** [[https://github.com/K-S-V/Scripts/blob/master/AdobeHDS.php][Scripts/AdobeHDS.php at master]]
+** [[http://sdf.org/][SDF Public Access UNIX System - Free Shell Account and Shell Access]]
+** [[http://vim.wikia.com/wiki/Search_for_lines_not_containing_pattern_and_other_helpful_searches][Search for lines not containing pattern and other helpful searches]]
+** [[http://www.grymoire.com/Unix/Sed.html][Sed - An Introduction and Tutorial]]
+** [[http://blockdiag.com/en/seqdiag/][seqdiag - simple sequence-diagram image generator]]
+** [[http://www.privacyfoundation.ch/de/service.html][Service | Privacy Swiss Foundation]]
+** [[http://www.killiankemps.fr/article23/set-ssh-keyring-on-arch-linux][Set SSH Keyring on Arch Linux - Killian Kemps]]
+** [[https://stackoverflow.com/questions/7353538/setting-up-an-github-commit-rss-feed][Setting up an Github Commit RSS feed - Stack Overflow]] :website:
+** [[https://robertnealan.com/setting-up-ssl-for-ghost-on-digitalocean-with-lets-encrypt/][Setting Up SSL for Ghost on DigitalOcean with Lets Encrypt]]
+** [[https://www.williamjbowman.com/blog/2015/07/24/setting-up-webdav-caldav-and-carddav-servers/][Setting up WebDAV, CalDAV, and CardDAV servers]]
+** [[http://hackr.io/][Share and Discover the best programming tutorials and courses online | Hackr.io]]
+** [[http://www.darkoperator.com/][Shell is Only the Beginning]]
+** [[https://github.com/koalaman/shellcheck][ShellCheck, a static analysis tool for shell scripts]]
+** [[https://www.shodan.io/][Shodan]]
+** [[http://showrss.info/][showRSS: Your TV under control]]
+** [[https://bbs.archlinux.org/viewtopic.php?id=207957][Signature is unknown trust Pacman & Package Upgrade Issues]]
+** [[https://www.digitalocean.com/][Simple Cloud Infrastructure for Developers]]
+** [[http://code.nomad-labs.com/2010/03/11/simulating-dropped-packets-aka-crappy-internets-with-iptables/][Simulating dropped packets (aka crappy internets) with iptables | Nomad Labs Code]] :website:
+** [[https://stackoverflow.com/questions/14172068/slow-keyboard-layout-switching-in-gnome-3-6][slow keyboard layout switching in gnome 3.6 - Stack Overflow]]
+** [[https://github.com/socialreporter/media-blends][socialreporter/media-blends: media blends repo]]
+** [[https://docs.rsshub.app/en/][Special Thanks | RSSHub]]
+** [[http://www.onurguzel.com/start-vlc-gui-on-remote-host-using-ssh/][Start VLC GUI on Remote Host Using SSH -- Onur Güzel]]
+** [[https://scottlinux.com/2010/11/30/strip-or-remove-html-tags/][Strip or Remove HTML Tags]]
+** [[http://suckless.org/rocks][Stuff that rocks | suckless.org software that sucks less]]
+** [[https://wiki.archlinux.org/index.php/Sxiv][sxiv - ArchWiki]]
+** [[https://syncthing.net/][Syncthing]]
+** [[https://apt.syncthing.net/][Syncthing]]
+** [[https://wiki.archlinux.org/index.php/Syncthing][Syncthing - ArchWiki]]
+** [[https://wiki.archlinux.org/index.php/synergy][Synergy - ArchWiki]]
+** [[https://wiki.archlinux.org/index.php/systemd][systemd - ArchWiki]]
+** [[https://bugs.archlinux.org/task/49708][Systemd startup fails.]]
+** [[https://inconsolation.wordpress.com/tag/task/][task | Inconsolation]]
+** [[https://atom.io/packages/tasks][tasks]]
+** [[http://www.tecmint.com/][Tecmint: Linux Howtos, Tutorials & Guides]]
+** [[http://wiki.bash-hackers.org/syntax/ccmd/case][The case statement]]
+** [[https://github.com/freeo/vim-kalisi][The colorscheme with neovim in mind]]
+** [[http://abarry.org/the-complete-guide-to-embedded-videos-in-beamer-under-linux/][The Complete Guide to Embedded Videos in Beamer under Linux « Andrew J.Barry]]
+** [[http://bash.cyberciti.biz/guide/The_file_selection_box][The file selection box]]
+** [[http://www.theregister.co.uk/][The Register: Sci/Tech News for the World]]
+** [[http://www.theunixschool.com/2012/11/howto-retrieve-extract-tag-value-xml-linux.html][The UNIX School: How to retrieve or extract the tag value from XML in Linux?]]
+** [[https://wiki.archlinux.org/index.php/Thunar][Thunar - ArchWiki]]
+** [[http://ubuntuforums.org/showthread.php?s=5b04b06c500597b07bf1f1d6ce4433fc&p=12572485#post12572485][tilde doesn't expand from user input?]]
+** [[https://gist.github.com/MohamedAlaa/2961058][tmux shortcuts]]
+** [[https://wiki.archlinux.org/index.php/Tox][Tox - ArchWiki]]
+** [[https://www.linux.com/learn/tox-your-new-secure-chat-application][Tox Is Your New Secure Chat Application]]
+** [[http://www.blackbytes.info/2013/09/network-forensics-with-tshark/][tshark - Packet analysis and network forensics]]
+** [[https://hackertarget.com/tshark-tutorial-and-filter-examples/][tshark tutorial and filter examples | HackerTarget.com]]
+** [[https://turtl.it/][Turtl: A secure, encrypted Evernote alternative]]
+** [[https://vdirsyncer.readthedocs.org/en/latest/tutorial.html][Tutorial--- vdirsyncer 0.2.5 documentation]]
+** [[https://tv-rss.com/][TV-RSS | Automated episode downloads]]
+** [[http://www.ubuntu.com/certification/desktop/][Ubuntu Desktop certified hardware]]
+** [[http://deshack.net/ubuntu-dual-boot-grub-doesnt-start/][Ubuntu dual boot: grub doesn't start - deshack]]
+** [[https://www.howtoforge.com/tutorial/x2go-server-ubuntu-14-04/][Ubuntu Remote Desktop with X2Go]]
+** [[https://wiki.archlinux.org/index.php/udisks][Udisks - ArchWiki]]
+** [[https://stackoverflow.com/questions/2389361/undo-a-git-merge-that-hasnt-been-pushed-yet][Undo a Git merge that hasn't been pushed yet? - Stack Overflow]]
+** [[http://blog.briankoopman.com/unlock-ghost-account/][Unlock Your Locked Ghost Account]]
+** [[http://cache.www.gametracker.com/server_info/99.199.106.87:27971/b_560_95_1.png][urbanterror-server]]
+** [[http://www.url-encode-decode.com/][URL Encode Decode - URL Percent Encoding and Decoding.]]
+** [[https://stackoverflow.com/questions/51537063/url-format-for-google-news-rss-feed][URL format for Google News RSS feed - Stack Overflow]]
+** [[https://github.com/felixr/urxvt-color-themes/blob/master/green][urxvt-color-themes/green at master]]
+** [[http://kb.mozillazine.org/index.php?title=UserContent.css&printable=yes][UserContent.css - MozillaZine Knowledge Base]]
+** [[http://logan.tw/posts/2015/02/21/using-aria2-download-manager/][Using Aria2 Download Manager]]
+** [[https://askubuntu.com/questions/287461/using-avconv-when-remuxing-to-mkv-is-there-a-way-to-fix-packed-avi-input-files][Using avconv, when remuxing to MKV, is there a way to fix packed AVI input files?]]
+** [[https://itsfoss.com/gpg-encrypt-files-basic/][Using GPG to Encrypt and Decrypt Files on Linux [Hands-on for Beginners] - It's FOSS]] :gpg:
+** [[http://www.joyofdata.de/blog/using-linux-shell-web-scraping/][Using the Linux Shell for Web Scraping | joy of data]]
+** [[https://vdirsyncer.pimutils.org/en/stable/config.html][vdirsyncer documentation]]
+** [[http://search.cpan.org/dist/W3C-LinkChecker/][Ville Skyttä / W3C-LinkChecker - search.cpan.org]]
+** [[https://www.piware.de/2014/07/vim-config-for-markdownlatex-pandoc-editing/][vim config for Markdown+LaTeX pandoc editing]]
+** [[http://virt-manager.org/][Virtual Machine Manager Home]]
+** [[https://forum.videolan.org/viewtopic.php?t=81267][VLC ssh remote control - The VideoLAN Forums]]
+** [[https://validator.w3.org/checklink][W3C Link Checker]]
+** [[http://www.quintolabs.com/index.php][Web Filtering for Your Network - Simple, Convenient and Powerful]]
+** [[https://www.browserleaks.com/webrtc][WebRTC Leak Test]]
+** [[http://www.cacert.org/][Welcome to CAcert.org]]
+** [[http://www.securitytube.net/][Welcome to SecurityTube.net]]
+** [[https://www.slant.co/topics/330/~static-site-generators][What are the best static site generators? - Slant]]
+** [[http://arstechnica.com/civis/viewtopic.php?t=1150584][What are the smart kids using instead of rtorrent these days? - Ars Technica OpenForum]] :website:
+** [[https://unix.stackexchange.com/questions/94498/what-causes-this-green-background-in-ls-output][What causes this green background in ls output?]]
+** [[http://support.hogbaysoftware.com/t/what-other-apps-support-taskpapers-file-format/1114][What other apps support TaskPaper's file format?]]
+** [[http://www.howtogeek.com/224352/what%E2%80%99s-the-difference-between-windows-10%E2%80%99s-express-or-custom-setup/][What's the Difference Between Windows 10's Express or Custom Setup?]]
+** [[https://wire.com/][Wire · Modern communication, full privacy. For iOS, Android, macOS, Windows and web.]]
+** [[https://wiki.archlinux.org/index.php/X_KeyBoard_extension][X KeyBoard extension - ArchWiki]]
+** [[https://wiki.ubuntu.com/X/Config/Resolution#Setting%20xrandr%20changes%20persistently][X/Config/Resolution]]
+** [[http://www.videlibri.de/xidel.html][Xidel - HTML/XML/JSON data extraction tool]]
+** [[http://xkbconfig.livejournal.com/7996.html][XKB options: swap Ctrl and Super (windows) key: xkbconfig]]
+** [[http://xmlsoft.org/xmllint.html][xmllint]]
+** [[https://unix.stackexchange.com/questions/66624/where-is-xkb-getting-its-configuration][xorg - Where is Xkb getting its configuration?]]
+** [[https://developer.mozilla.org/en-US/docs/Web/XPath][XPath | MDN]]
+** [[https://wiki.archlinux.org/index.php/xrandr][xrandr - ArchWiki]]
+** [[https://github.com/rg3/youtube-dl/blob/master/docs/supportedsites.md][youtube-dl/supportedsites.md]]
+** [[https://rg3.github.io/youtube-dl/supportedsites.html][youtube-dl: Supported sites]]
+** [[https://github.com/zsh-users/zsh-completions/blob/master/zsh-completions-howto.org][zsh completions]]
+* awk
+** [[https://www.gnu.org/software/gawk/manual/gawk.html][The GNU Awk User’s Guide]] :awk:
+* xmonad
+** [[https://unix.stackexchange.com/questions/436787/system-tray-icons-on-xmonad-xmobar-or-any-other-minimal-status-bar][window manager - System Tray Icons on Xmonad - Xmobar Or any other minimal status bar - Unix & Linux Stack Exchange]] :xmonad:
+** [[https://xmonad.org/][xmonad - the tiling window manager that rocks]]:xmonad: 
+** [[https://xmonad.github.io/xmonad-docs/xmonad-contrib/][xmonad-contrib-0.17.0.9: Community-maintained extensions extensions for xmonad]] :xmonad:
+** [[https://hackage.haskell.org/package/xmonad-contrib-0.16/docs/XMonad-Doc-Extending.html][XMonad.Doc.Extending]] :xmonad:
+* debian
+  :PROPERTIES:
+  :CUSTOM_ID: debian
+  :add_date: 1455570596
+  :last_modified: 1457904132
+  :END:
+** [[http://510x.se/notes/posts/Configuring_and_using_rxvt-unicode/][Configuring and using rxvt-unicode]]
+** [[https://storma.wordpress.com/tag/debian-jessie-polkit-systemd-xfce-hibernate-suspend-shutdown-reboot/][Debian Jessie polkit systemd xfce hibernate suspend shutdown reboot | Here we go again...]] :website:
+** [[http://www.debian.org/doc/manuals/debian-reference/index.en.html][Debian Reference]]
+** [[http://tomsalmon.eu/2011/01/debian-squeeze-xinitrc-xsession-and-xprofile-x-startup-script/][Debian Squeeze -- .xinitrc .xsession and .xprofile (X startup script) | Tom Salmon]]
+** [[https://www.wikivs.com/wiki/Debian_vs_Ubuntu][Debian vs Ubuntu - WikiVS]]
+** [[https://wiki.debian.org/DebianDesktopHowTo][DebianDesktopHowTo - Debian Wiki]] :website:
+** [[https://wiki.debian.org/GDM][GDM - Debian Wiki]] :website:
+** [[https://wiki.debian.org/GDM][GDM - Debian Wiki]] :website:
+** [[http://winaero.com/blog/how-to-enable-shutdown-and-reboot-for-a-normal-user-in-debian-jessie/][How to enable shutdown and reboot for a normal user in Debian Jessie]]
+** [[https://www.howtoforge.com/tutorial/kvm-on-ubuntu-14.04/][How to install KVM on Ubuntu 14.04]]
+** [[http://gamblisfx.com/how-to-play-mp3-dvd-movie-on-debian-7-wheezy/][How to play MP3, DVD Movie on Debian 7 Wheezy | Full Version Software and Tutorial]]
+** [[http://www.pontikis.net/blog/workstation-setup-debian-wheezy-xfce4][How to setup a workstation computer with Debian Wheezy and XFCE4]]
+** [[http://www.fandigital.com/2012/08/install-non-free-codecs-in-debian.html][Install Non-Free Multimedia Codecs in Debian | fanDigital]]
+** [[https://mike632t.wordpress.com/2014/02/04/installing-xfce/][Installing XFCE |]]
+** [[https://wiki.debian.org/Keyboard][Keyboard - Debian Wiki]]
+** [[https://askubuntu.com/questions/632164/how-do-i-run-xkbcom-on-ubuntu-gnome-startup][keyboard - How do I run xkbcom on Ubuntu GNOME startup? - Ask Ubuntu]] :website:
+** [[https://lovingthepenguin.blogspot.com/2017/01/fixing-chromium-remote-extension_23.html][Loving the Penguin: Fixing Chromium remote extension loading in Debian sid]] :website:
+** [[https://unix.stackexchange.com/questions/66654/how-to-mount-usb-stick-on-debian-sid][permissions - How to mount USB stick on Debian Sid? - Unix & Linux Stack Exchange]] :website:
+* ffmpeg
+  :PROPERTIES:
+  :CUSTOM_ID: ffmpeg
+  :add_date: 1455570596
+  :last_modified: 1479595704
+  :END:
+** [[http://stackoverflow.com/questions/28359855/alsa-buffer-xrun-induced-by-low-quality-source-in-ffmpeg-capture][ALSA buffer xrun induced by low quality source in ffmpeg capture - Stack Overflow]]
+** [[https://stackoverflow.com/questions/28359855/alsa-buffer-xrun-induced-by-low-quality-source-in-ffmpeg-capture][ALSA buffer xrun induced by low quality source in ffmpeg capture - Stack Overflow]] :website:
+** [[https://www.archlinux.org/packages/extra/x86_64/ffmpeg/][Arch Linux - ffmpeg 1:2.8.5-2 (x86\_64)]]
+** [[https://aur.archlinux.org/cgit/aur.git/tree/PKGBUILD?h=ffmpeg-full][aur.git - AUR Package Repositories]]
+** [[https://superuser.com/questions/880807/crossfading-video-and-audio-with-ffmpeg][bash - Crossfading Video AND Audio with ffmpeg - Super User]] :ffmpeg:
+** [[https://trac.ffmpeg.org/wiki/Concatenate][Concatenate -- FFmpeg]]
+** [[http://www.bernzilla.com/2009/04/15/editing-a-video-by-generating-and-using-an-edl-file-on-windows/][Editing a Video by Generating and Using an EDL File on Windows, Bernie Zimmermann]]
+** [[https://trac.ffmpeg.org/wiki/Encode/H.264][Encode/H.264 -- FFmpeg]]
+** [[https://sonnati.wordpress.com/2011/07/11/ffmpeg-the-swiss-army-knife-of-internet-streaming-part-i/][FFmpeg -- the swiss army knife of Internet Streaming -- part 1]]
+** [[https://videoblerg.wordpress.com/2017/11/10/ffmpeg-and-how-to-use-it-wrong/][FFmpeg and how to use it wrong | VideoBlerg]]
+** [[https://nowardev.wordpress.com/2015/03/24/ffmpeg-and-the-message-thread-message-queue-blocking-consider-raising-the-thread_queue_size-option-current-value-8-alsa-buffer-xrun/][ffmpeg and the message “Thread message queue blocking; consider raising the thread_queue_size option]] :website:
+** [[https://www.youtube.com/watch?v=INiRu2_XdJE][ffmpeg crossfade effect - YouTube]] :website:
+** [[https://ffmpeg.org/ffmpeg.html][ffmpeg Documentation]]
+** [[https://www.tal.org/tutorials/ffmpeg_convert_to_dnxhd][ffmpeg_convert_to_dnxhd]]
+** [[https://stackoverflow.com/questions/32584220/how-to-make-ffmpeg-write-its-output-to-a-named-pipe][How to make ffmpeg write its output to a named pipe - Stack Overflow]]
+** [[http://docs.unified-streaming.com/introduction/index.html][Introduction to the Unified Streaming Platform]]
+** [[https://el-tramo.be/blog/ken-burns-ffmpeg/][Ken Burns Effect Slideshows with FFMPeg]] :ffmpeg:
+** [[https://hackmemory.wordpress.com/2013/04/08/lightning-fast-video-splitting-script/][Lightning fast video splitting script | hackmemory]]
+** [[https://ubuntuforums.org/showthread.php?t=2170417][Making a YT compatible audio file with image ffmpeg]]
+** [[https://www.bento4.com/documentation/mp4decrypt/][mp4decrypt]]
+** [[https://stackoverflow.com/questions/24804928/singler-line-ffmpeg-cmd-to-merge-video-audio-and-retain-both-audios][Singler line FFMPEG cmd to Merge Video /Audio and retain both audios - Stack Overflow]] :website:
+** [[https://projects.archlinux.org/svntogit/packages.git/tree/trunk/PKGBUILD?h=packages/ffmpeg][svntogit/packages.git - Git clone of the 'packages' repository]]
+** [[http://www.fatbellyman.com/webstuff/ffmpeg_common_usage/][Using FFmpeg to Convert and Encode Video and Audio]]
+** [[https://superuser.com/questions/1001039/what-is-an-efficient-way-to-do-a-video-crossfade-with-ffmpeg][What is an efficient way to do a video crossfade with FFmpeg? - Super User]] :ffmpeg:
+** [[https://research.reignofcomputer.com/2021/07/20/decrypting-aes-128-encrypted-http-live-streaming/][Decrypting AES-128 Encrypted HTTP Live Streaming - RoC Research]] :ffmpeg:
+Decrypting AES-128 Encrypted HTTP Live Streaming
+
+** [[https://idof.medium.com/download-and-decrypt-aes-128-m3u8-playlists-495c12d6543a][Download and decrypt AES-128 .m3u8 playlists | by Ido | Medium]] :ffmpeg:
+Download and decrypt AES-128 .m3u8 playlists
+* rxvt
+  :PROPERTIES:
+  :CUSTOM_ID: rxvt
+  :add_date: 1455758330
+  :last_modified: 1471116268
+  :END:
+** [[https://jordanelver.co.uk/blog/2010/11/27/automatically-attaching-to-a-tmux-session-via-ssh/][Automatically attaching to a tmux session via SSH]]
+** [[https://makandracards.com/jan0sch/18283-enable-powerline-fonts-with-rxvt-unicode-and-vim-airline][Enable powerline fonts with rxvt-unicode and vim-airline - jan0sch's deck]]
+** [[http://vim.wikia.com/wiki/Get_Alt_key_to_work_in_terminal?useskin=monobook][Get Alt key to work in terminal - Vim Tips Wiki - Wikia]]
+** [[https://unix.stackexchange.com/questions/248021/how-to-disable-shortcuts-in-urxvt][How to disable shortcuts in urxvt]]
+** [[http://bastian.rieck.ru/blog/posts/2013/making_urxvt_beautiful/][Making urxvt beautiful]]
+** [[http://www.mit.edu/afs/sipb/project/outland/doc/rxvt/html/refer.html][Rxvt Technical Reference]]
+** [[https://wiki.gentoo.org/wiki/Rxvt-unicode][rxvt-unicode - Gentoo Wiki]]
+** [[http://frankshin.com/solarized-rxvt-vim-archlinux/][Solarized RXVT with VIM In Archlinux- Frank Shin]]
+** [[https://gist.github.com/yevgenko/1167205][URxvt settings with solarized theme]]
+** [[http://linux.die.net/man/7/urxvt][urxvt(7) - Linux man page]]
+** [[https://m.reddit.com/r/urxvt/comments/362m0s/vim_keybindings_can_finally_work_properly_in/][Vim keybindings can finally work properly in URxvt]]
+** [[https://github.com/rafi/.config/blob/master/xorg/Xresources][Xresources at master · rafi/.config · GitHub]]
+* ssh
+  :PROPERTIES:
+  :CUSTOM_ID: ssh
+  :add_date: 1462719352
+  :last_modified: 1463357219
+  :END:
+** [[https://blog.urfix.com/25-ssh-commands-tricks/][25 Best SSH Commands / Tricks]]
+** [[http://backreference.org/2011/08/10/running-local-script-remotely-with-arguments/][Running local script remotely (with arguments)]]
+** [[https://scrapy.org/][Scrapy | A Fast and Powerful Scraping and Web Crawling Framework]]
+** [[https://wiki.archlinux.org/index.php/SSH_keys][SSH keys - ArchWiki]]
+* make
+** [[https://www.gnu.org/software/make/manual/make.html][GNU make]] :make:
+** [[http://makefiletutorial.com/][Makefile Tutorial by Example]] :make:
+** [[https://stackoverflow.com/questions/38161093/makefile-converting-multiple-dot-files-to-png][Makefile: converting multiple .dot files to .png - Stack Overflow]] :make:
+* openvpn
+** [[https://barryp.org/blog/entries/split-tunnel-between-freebsd-boxes-using-openvpn/][barryp.org blog: Split tunnel between FreeBSD boxes using OpenVPN]] :website:
+** [[https://blog.feld.me/posts/2015/06/routing-a-freebsd-jail-through-openvpn/][Makefile.feld - Routing a FreeBSD Jail through OpenVPN]] :website:
+** [[https://community.openvpn.net/openvpn/wiki/Openvpn23ManPage][Openvpn23ManPage – OpenVPN Community]] :website:
+** [[https://forums.freebsd.org/threads/52628/][PF - PF and OpenVPN | The FreeBSD Forums]] :website:
+** [[https://forums.freebsd.org/threads/52628/][PF - PF and OpenVPN | The FreeBSD Forums]] :website:
+** [[https://www.privateinternetaccess.com/forum/discussion/3359/port-forwarding-without-application-pia-script-advanced-users][Port Forwarding Without Application PIA Script (Advanced Users) - PIA]] :website:
+** [[https://timgallant.us/nix/freebsd-home-vpn-configuration.html][tgallant.github.io]] :website:
+* pandoc
+  :PROPERTIES:
+  :CUSTOM_ID: pandoc
+  :add_date: 1455570596
+  :last_modified: 0
+  :END:
+** [[https://github.com/dsanson/pandoc-completion][dsanson/pandoc-completion · GitHub]]
+** [[http://gitit.net/][gitit demo - Gitit]]
+** [[http://gitit.net/README][gitit demo - Gitit User's Guide]]
+** [[https://readme-go.appspot.com/info/gitit][gitit readme flie]]
+** [[https://github.com/jgm/gitit][jgm/gitit · GitHub]]
+** [[https://github.com/jgm/pandoc-templates][jgm/pandoc-templates ·GitHub]]
+** [[http://pandoc.org/][Pandoc - About pandoc]]
+** [[http://www.tmerse.com/2013-06-02-Try-Pandoc.html][pandoc - gitit]]
+** [[http://los-pajaros-de-hogano.blogspot.com/2015/01/pandoc-customized-latex-templates-for.html][Pandoc: Customized LaTeX templates for PDF generation]]
+* irc
+** [[https://www.abandoned-irc.net/][abandoned]]
+** [[https://sunxdcc.com/][sunxdcc]]
+** [[https://thepacket.info/][thepacket]]
+** [[https://www.xdcc.eu/][xdcc]]
+** [[https://github.com/Fantastic-Dave/xdccget][xdccget]]
+* xsl
+** [[https://natclark.com/tutorials/xslt-style-rss-feed/][Styling an RSS Feed With XSLT]] :xsl:
+** [[https://stackoverflow.com/questions/8974366/creating-xsl-for-atom-feed][xml - Creating XSL for Atom feed - Stack Overflow]] :xsl:
+** [[https://gist.github.com/da2x/a1c870007e7a5b737cf7][RSS stylesheet · GitHub]] :xsl:
+** [[https://stackoverflow.com/questions/45724392/xslt-transform-of-youtube-channel-feed-with-namespaces][xml - XSLT transform of Youtube Channel feed with namespaces - Stack Overflow]] :xsl:
+** [[https://gist.github.com/vgrem/4145309][YouTube Video Feed XSLT Style Sheet for SharePoint RSSAggregator web part · GitHub]] :xsl:
+** [[https://datatracker.ietf.org/doc/html/rfc4287][RFC 4287 - The Atom Syndication Format]] :xsl:
+** [[http://edutechwiki.unige.ch/en/XSLT_Tutorial_-_Basics][XSLT Tutorial - Basics - EduTech Wiki]] :xsl:
+** [[https://stackoverflow.com/questions/8974366/creating-xsl-for-atom-feed][xml - Creating XSL for Atom feed - Stack Overflow]] :xsl:
+** [[https://github.com/msharov/snownews/blob/9fb45e4cdf1cf9dea55b9af66c13a4c238809851/docs/filters/xsltproc/atom2rss][atom2rss]]
+** [[https://gist.github.com/kianga/dfae790d788005fe319d9dc6c7bda818][atom2rss youtube]]
+** [[https://blog.backslasher.net/xslt-add-child.html][Adding a child element in XSLT | BackSlasher]] :xsl:
+** [[https://www.xml.com/pub/2000/06/07/transforming/index.html][Copying, Deleting, and Renaming Elements]] :xsl:
+** [[https://github.com/msharov/snownews/issues/2][Youtube RSS feeds do not have links · Issue #2 · msharov/snownews · GitHub]] :xsl:
+** [[https://gist.github.com/dieseltravis/470079][NYS DEC KMZ-to-KML-to-CSV for GPS POIs · GitHub]] :xsl:
+ NYS DEC KMZ-to-KML-to-CSV for GPS POIs 
+* haskell
+** [[https://www.youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV][Haskell for Imperative Programmers]] :youtube:
+** [[http://learnyouahaskell.com/][learnyouahaskell]]
+* bash
+** [[https://www.thegeekstuff.com/2009/05/sound-exchange-sox-15-examples-to-manipulate-audio-files][15 Awesome Examples to Manipulate Audio Files Using Sound eXchange (SoX)]]
+** [[http://mylinuxbook.com/20-interesting-and-extremely-helpful-linux-command-line-tricks/][20 interesting and extremely helpful Linux command line tricks]]
+** [[http://tldp.org/LDP/abs/html/][Advanced Bash-Scripting Guide]]
+** [[http://www.commandlinefu.com/commands/browse][All commands | commandlinefu.com]]
+** [[http://linuxpoison.blogspot.de/2012/08/bash-script-how-read-file-line-by-line.html][Bash Script: How read file line by line (best and worst way) | Linux Blog]]
+** [[https://github.com/scop/bash-completion/tree/master/completions][bash-completion]]
+** [[http://mywiki.wooledge.org/BashFAQ/089][BashFAQ/089 - Greg's Wiki]]
+** [[http://mywiki.wooledge.org/BashGuide][BashGuide - Greg's Wiki]]
+** [[http://kkovacs.eu/cool-but-obscure-unix-tools][Cool, but obscure unix tools]]
+** [[http://www.catonmat.net/blog/awk-one-liners-explained-part-two/][Famous Awk One-Liners Explained, Part II: Text Conversion and Substitution]]
+** [[https://github.com/herrbischoff/awesome-osx-command-line][GitHub - herrbischoff/awesome-osx-command-line: Use your OS X terminal shell to do awesome things.]] :website:
+** [[https://stackoverflow.com/questions/5794640/how-to-convert-xcf-to-png-using-gimp-from-the-command-line][image manipulation - How to convert XCF to PNG using GIMP from the command-line? - Stack Overflow]] :website:
+** [[https://github.com/jlevy/the-art-of-command-line][Master the command line]]
+** [[http://wiki.bash-hackers.org/syntax/pe#substring_removal][Parameter expansion Bash]]
+** [[http://wiki.bash-hackers.org/syntax/pe][Parameter expansion Bash Hackers Wiki]]
+** [[http://wiki.bash-hackers.org/syntax/pe][Parameter expansion {Bash Hackers Wiki}]] :website:
+** [[http://tldp.org/LDP/abs/html/parameter-substitution.html][Parameter Substitution]]
+** [[http://wiki.bash-hackers.org/syntax/pattern][Patterns and pattern matching]]
+** [[https://stackoverflow.com/questions/1908610/how-to-get-pid-of-background-process][shell - How to get PID of background process? - Stack Overflow]] :website:
+** [[https://www.howtoforge.com/tutorial/linux-shell-scripting-lessons-2/][Shell Scripting Part 2: Accepting Inputs and Performing Shell Arithmetic]]
+** [[https://www.howtoforge.com/tutorial/linux-shell-scripting-lessons-3/][Shell Scripting Part 3: Decision Control Structures in Shell Scripts]]
+** [[https://www.howtoforge.com/tutorial/linux-shell-scripting-lessons-4/][Shell Scripting Part 4: Repetition Control Structures]]
+** [[https://www.howtoforge.com/tutorial/linux-shell-scripting-lessons/][Shell Scripting Part I: Getting started with bash scripting]]
+** [[https://www.howtoforge.com/tutorial/linux-shell-scripting-lessons-5/][Shell Scripting Part V: Functions in Bash]]
+** [[http://wiki.bash-hackers.org/][The Bash Hackers Wiki]]
+** [[http://wiki.bash-hackers.org/start][The Bash Hackers Wiki]]
+** [[http://wiki.bash-hackers.org/syntax/ccmd/conditional_expression][The conditional expression Bash]]
+** [[http://www.computerworld.com/article/2693361/unix-tip-using-bash-s-regular-expressions.html][Using bash regex]] :website:
+** [[http://www.computerworld.com/article/2693361/unix-tip-using-bash-s-regular-expressions.html][Using bash regex]]
+** [[http://linuxcommand.org/wss0150.php][Writing shell scripts - Lesson 15: Errors and Signals and Traps]]
+** [[http://linuxcommand.org/wss0160.php][Writing shell scripts - Lesson 16: Errors and Signals and Traps]]
+* python
+  :PROPERTIES:
+  :CUSTOM_ID: python
+  :add_date: 1476147641
+  :last_modified: 1480981109
+  :END:
+** [[http://sharats.me/the-ever-useful-and-neat-subprocess-module.html][(shrikant-sharat)]]
+** [[https://likegeeks.com/python-web-scraping/#Scraping-JavaScript][20+ Python Web Scraping Examples (Beautiful Soup & Selenium) - Like Geeks]]
+** [[https://filippo.io/add-support-for-a-new-video-site-to-youtube-dl/][Add support for a new video site to youtube-dl | PyTux]]
+** [[https://docs.python.org/3/library/argparse.html][argparse Parser for command-line options, arguments and sub-commands]]
+** [[https://cssselect.readthedocs.io/en/latest/][cssselect: CSS Selectors for Python]]
+** [[https://csvkit.readthedocs.io/en/1.0.2/][csvkit]]
+** [[https://marthall.github.io/blog/how-to-package-a-python-app/][How to package a python application to make it pip-installable]]
+** [[https://python-packaging.readthedocs.io/en/latest/index.html][How To Package Your Python Code --- Python Packaging Tutorial]]
+** [[http://learnpythonthehardway.org/book/][Learn Python The Hard Way]]
+** [[http://lxml.de/][lxml - Processing XML and HTML with Python]]
+** [[http://lxml.de/][lxml - Processing XML and HTML with Python]]
+** [[https://github.com/bonzanini/Book-SocialMediaMiningPython][Mastering Social Media Mining with Python]]
+** [[http://www.nltk.org/][Natural Language Toolkit --- NLTK 3.2.5 documentation]]
+** [[https://docs.python.org/3/][Overview --- Python 3.5.2 documentation]]
+** [[https://stackoverflow.com/questions/12595051/check-if-string-matches-pattern][python - Check if string matches pattern - Stack Overflow]] :website:
+** [[https://stackoverflow.com/questions/7427101/dead-simple-argparse-example-wanted-1-argument-3-results][python - Dead simple argparse example wanted]]
+** [[https://www.cyberciti.biz/faq/python-command-line-arguments-argv-example/][Python Command Line Arguments Examples]]
+** [[https://packaging.python.org/][Python Packaging User Guide --- Python Packaging User Guide documentation]]
+** [[http://www.bogotobogo.com/python/python_argparse.php][Python Tutorial: argparse - 2016]]
+** [[https://www.codecademy.com/en/tracks/python][Python | Codecademy]]
+** [[http://www.karoltomala.com/blog/?p=592][Streaming YouTube music videos as MP3 with Python]]
+** [[http://journal.code4lib.org/articles/9856][The Code4Lib Journal Solving Advanced Encoding Problems with FFMPEG]]
+** [[https://www.ibm.com/developerworks/aix/library/au-usingtraps/][Using traps in your scripts]]
+* mutt
+  :PROPERTIES:
+  :CUSTOM_ID: mutt
+  :add_date: 1467587695
+  :last_modified: 1469119917
+  :END:
+** [[http://jasonwryan.com/blog/2012/05/12/mutt/][Mutt and HTML email]]
+** [[http://sheet.shiar.nl/mutt][mutt cheat sheet]]
+** [[https://gist.github.com/bnagy/8914f712f689cc01c267][Mutt, Gmail and GPG]]
+** [[http://dev.mutt.org/trac/wiki/MuttGuide/Aliases][MuttGuide/Aliases]]
+* kvm
+  :PROPERTIES:
+  :CUSTOM_ID: kvm
+  :add_date: 1455570596
+  :last_modified: 0
+  :END:
+** [[http://www.linux-kvm.org/page/9p_virtio][9p virtio - KVM]]
+** [[http://stackoverflow.com/questions/9871776/kvm-install-and-qemu-install][bios - KVM install and QEMU install - Stack Overflow]]
+** [[http://manuel.kiessling.net/2013/03/19/converting-a-running-physical-machine-to-a-kvm-virtual-machine/][Converting a running physical machine to a KVM virtual machine]]
+** [[http://manuel.kiessling.net/2013/03/19/converting-a-running-physical-machine-to-a-kvm-virtual-machine/][Converting a running physical machine to a KVM virtual machine » The Log Book of Manuel Kiessling]] :website:
+** [[http://anadoxin.org/blog/creating-a-bootable-el-capitan-iso-image.html][Creating a bootable El Capitan ISO image - 0xcafebabe]]
+** [[https://saschpe.wordpress.com/2014/03/06/dynamic-iptables-port-forwarding-for-nat-ed-libvirt-networks/][Dynamic iptables port-forwarding for NAT-ed libvirt networks]]
+** [[https://troglobit.github.io/blog/2013/07/05/file-system-pass-through-in-kvm-slash-qemu-slash-libvirt/][File System Pass-Through in KVM/Qemu/libvirt]]
+** [[http://lime-technology.com/forum/index.php?topic=37703.0][Good Ole Betsy]]
+** [[https://macosxvirtualmachinekvm.wordpress.com/guide-mac-os-x-10-11-el-capitan-vm-on-unraid/][GUIDE: Mac OS X 10.11 El Capitan]]
+** [[https://askubuntu.com/questions/88291/how-do-you-get-sound-working-on-a-windows-7-guest-os-in-kvm-on-ubuntu-11-10][How do you get sound working on a Windows 7 guest OS in KVM on Ubuntu 11.10]]
+** [[http://www.insanelymac.com/forum/topic/309087-insanely-fast-virtual-mac-qemu-ovmf-clover-and-native-graphics/page-2][Insanely fast virtual Mac (QEMU, OVMF, Clover and native graphics)]]
+** [[https://wiki.archlinux.org/index.php/Kernel_modules][Kernel modules - ArchWiki]]
+** [[https://wiki.archlinux.org/index.php/KVM][KVM - ArchWiki]]
+** [[https://bbs.archlinux.org/viewtopic.php?id=162768][KVM VGA-Passthrough using the new vfio-vga support in kernel]]
+** [[https://bbs.archlinux.org/viewtopic.php?id=162768&p=110][KVM VGA-Passthrough using the new vfio-vga support in kernel]]
+** [[https://wiki.archlinux.org/index.php/Libvirt][libvirt - ArchWiki]]
+** [[https://andredaniel.me/mac-os-x-on-qemukvm-performance-tips/][Mac OS X on QEMU/KVM performance tips]]
+** [[http://www.ibm.com/developerworks/cloud/library/cl-managingvms/][Managing VMs with the Virtual Machine Manager]]
+** [[http://michael.orlitzky.com/articles/resizing_a_kvm_or_qemu_disk_image.php][Michael Orlitzky { resizing a kvm or qemu disk image }]]
+** [[http://www.linux-kvm.org/page/Migration][Migration - KVM]]
+** [[http://blog.definedcode.com/qemu-osx-update][More notes on OS X Mavericks (+ Yosemite) on QEMU with KVM]]
+** [[https://pikeralpha.wordpress.com/2014/06/04/os-x-10-10-yosemite-dp1-kernelcache/][OSX 10.10 Yosemite DP1 kernel(cache)]]
+** [[http://blog.ostanin.org/2014/02/11/playing-with-mac-os-x-on-kvm/][Playing with Mac OS X on KVM]]
+** [[https://www.gnu.org/software/hurd/hurd/running/qemu.html][qemu]]
+** [[https://wiki.archlinux.org/index.php/QEMU][QEMU - ArchWiki]]
+** [[https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Virtualization_Administration_Guide/sub-sect-Domain_Commands-Converting_QEMU_arguments_to_domain_XML.html][Red Hat qemu]]
+** [[http://kernelpanik.net/running-mac-osx-yosemite-on-kvm/][Run Mac OS X Yosemite on KVM]]
+** [[http://www.contrib.andrew.cmu.edu/~somlo/OSXKVM/][Running Mac OS X as a QEMU/KVM Guest]]
+** [[http://www.bonashen.com/post/artifice/running-mac-os-x-as-a-qemu-kvm-guest][Running Mac OS X as a QEMU/KVM Guest]]
+** [[https://elmarco.fedorapeople.org/manual.html][Spice User Manual]]
+** [[http://blog.vmsplice.net/2011/04/how-to-pass-qemu-command-line-options.html][Stefan Hajnoczi: How to pass QEMU command-line options through libvirt]]
+** [[http://www.teknynja.com/2013/06/making-kvmqemulibvirt-play-nice-with.html][Teknynja: Making kvm/qemu/libvirt Play Nice with PulseAudio on a Headless Ubuntu 12.04 Server]]
+** [[https://andredaniel.me/mac-os-x-yosemite-on-qemu-success-story/][Yosemite + QEMU success story]]
+* dnscrypt
+  :PROPERTIES:
+  :CUSTOM_ID: dnscrypt
+  :add_date: 1467770912
+  :last_modified: 1467997643
+  :END:
+** [[https://wiki.archlinux.org/index.php/DNSCrypt][DNSCrypt - ArchWiki]]
+** [[https://dnscrypt.org/][DNSCrypt - Official Project Home Page]]
+** [[https://docs.google.com/document/d/1MT5v7Jlvhzl9hkj2SdI4NoWgA6qO0gQmQNyORwndq5s/edit?pref=2&pli=1#heading=h.7xss37t9p5xu][dnscrypt pfsense 2.3 - Google Docs]]
+** [[https://lukeluo.blogspot.co.uk/2014/07/dnscrypt-proxy-in-archlinux.html][dnscrypt-proxy in Archlinux]]
+** [[https://github.com/jedisct1/dnscrypt-proxy/blob/master/dnscrypt-resolvers.csv][dnscrypt-proxy/dnscrypt-resolvers.csv at master · jedisct1/dnscrypt-proxy · GitHub]]
+** [[https://github.com/jedisct1/dnscrypt-server-docker][GitHub - jedisct1/dnscrypt-server-docker: A Docker image for a non-censoring, non-logging, DNSSEC-capable, DNSCrypt-enabled DNS resolver]]
+** [[http://linoxide.com/tools/install-dnscrypt-unbound-archlinux/][How to Install DNSCrypt and Unbound in Arch Linux]]
+* pfsense
+:PROPERTIES:
+:CUSTOM_ID: pfsense
+:add_date: 1467246191
+:last_modified: 1467487725
+:END:
+** [[https://github.com/pi-hole/pi-hole/wiki/Customising-sources-for-ad-lists][Customising Sources for Ad Lists · pi-hole/pi-hole Wiki · GitHub]] :pfsense:
+** [[http://docs.diladele.com/tutorials/filtering_https_traffic_squid_pfsense/][Filtering HTTPS with Squid on pfSense 2.3]]
+** [[http://benoliver999.com/technology/2016/02/27/howtoblockadswithpfblocker/][How to block ads and trackers on your firewall with pfBlocker]]
+** [[https://www.cyberciti.biz/faq/howto-configure-wireless-bridge-access-point-in-pfsense/][How to configure Wi-fi+Lan bridged access point in pfSense firewall router - nixCraft]] :pfsense:
+** [[http://www.ratzblog.com/2011/08/normal-0-false-false-false-en-us-x-none.html][How to Enable bit torrent client Behind a PFsense 2 Firewall]]
+** [[https://turbofuture.com/internet/Intercepting-HTTPS-Traffic-Using-the-Squid-Proxy-in-pfSense][Intercepting HTTPS Traffic Using the Squid Proxy Service in pfSense | TurboFuture]]
+** [[https://forum.pfsense.org/index.php?topic=102470.msg572943#msg572943][pfBlockerNG v2.0 w/DNSBL]]
+** [[https://www.howtoforge.com/pfsense-squid-squidguard-traffic-shaping-tutorial][pfSense - Squid + Squidguard / Traffic Shapping Tutorial]]
+** [[https://docs.netgate.com/pfsense/en/latest/][pfSense Documentation | pfSense Documentation]] :pfsense:
+** [[https://doc.pfsense.org/index.php/Setup_Squid_as_a_Transparent_Proxy][Setup Squid as a Transparent Proxy - PFSenseDocs]]
+** [[https://docs.netgate.com/pfsense/en/latest/book/][The pfSense Book]] :pfsense:
+* pentest
+  :PROPERTIES:
+  :CUSTOM_ID: pentest
+  :add_date: 1455570596
+  :last_modified: 0
+  :END:
+** [[http://www.alexa.com/][Alexa]]
+** [[http://torrentip.com/][BitTorrent IP-Address]]
+** [[http://builtwith.com/][BuiltWith Technology Lookup]]
+** [[http://centralops.net/co/][centralops]]
+** [[http://checkmytorrentip.com/][Check VPN & Proxy Torrent Ip Address Bittorrent Service]]
+** [[http://www.dnsleaktest.com/][DNS leak test]]
+** [[http://www.domaintools.com/][DomainTools]]
+** [[http://www.vpnbook.com/webproxy][Free Web Proxy • 100% Free PPTP and OpenVPN Service]]
+** [[http://ip.proxy.lc/][IP address lookup. What is your IP address?]]
+** [[http://ipchicken.com/][IP Chicken - Whats my IP address? ip address lookup]]
+** [[http://www.zabasearch.com/][People Search by ZabaSearch]]
+** [[https://pipl.com/][Pipl - People Search]]
+** [[http://www.robtex.com/][Robtex]]
+** [[http://sec.gov/edgar.shtml][search companies]]
+** [[http://serversniff.net/index.php][serversniff]]
+** [[http://www.shodanhq.com/][SHODAN - Computer Search Engine]]
+** [[http://www.proxydetect.com/][Show My Ip. Proxy, Socks or Direct connection?]]
+** [[https://cyberghostvpn.com/proxy/?proxy=gb.proxy.cyberghostvpn.com][Surf anonymously - Download now and use for free | CyberGhost VPN]]
+** [[http://www.tineye.com/][TinEye Reverse Image Search]]
+** [[http://www.websecuritywatch.com/][Web Security Watch]]
+** [[http://www.whatsmyip.org/][What's My IP Address? Networking Tools & More]]
+** [[http://wink.com/][Wink - People Search]]
+** [[http://yoname.com/][yoName - People Search]]
+* freebsd
+   :PROPERTIES:
+   :CUSTOM_ID: freebsd
+   :add_date: 1532888452
+   :last_modified: 1543273395
+   :END:
+** [[https://www.ixsystems.com/blog/a-closer-look-at-the-changes-in-pc-bsd-trueos-9-2-part-2/][A Closer Look at the Changes in PC-BSD/ TrueOS 9.2. Part 2]]
+** [[https://cooltrainer.org/a-freebsd-desktop-howto/][A FreeBSD 10 Desktop How-to » Cooltrainer.org]] :website:
+** [[https://cooltrainer.org/a-freebsd-desktop-howto/][A FreeBSD 10 Desktop How-to » Cooltrainer.org]] :website:
+** [[https://www.skyforge.at/posts/an-introduction-to-jails-and-jail-networking/][An Introduction to Jails and Jail Networking]]
+** [[https://forums.freebsd.org/threads/asmc-create-new-entry-for-macbook-air-4-1.60406/][asmc create new entry for macbook air 4,1 | The FreeBSD Forums]]
+** [[https://riptutorial.com/freebsd/example/23760/deploying-jail][Deploying jail | freebsd Tutorial]]
+** [[https://clinta.github.io/freebsd-jails-the-hard-way/][Devops Discoveries]]
+** [[https://https.www.google.com.tedunangst.com/flak/post/doas-mastery][doas mastery]] :freebsd:doas:
+** [[http://www.bsdnow.tv/tutorials/pefs][Filesystem-based encryption with PEFS | BSD Now]]
+** [[https://blather.michaelwlucas.com/archives/2363][FreeBSD and beadm « blather.michaelwlucas.com]]
+** [[https://vermaden.wordpress.com/2018/03/29/freebsd-desktop-part-1-simplified-boot/][FreeBSD Desktop -- Part 1 -- Simplified Boot | vermaden]]
+** [[https://vermaden.wordpress.com/2018/04/11/freebsd-desktop-part-2-install/][FreeBSD Desktop -- Part 2 -- Install | vermaden]]
+** [[https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/index.html][FreeBSD Handbook]]
+** [[http://kbeezie.com/freebsd-jail-single-ip/][FreeBSD Jail with Single IP » KBeezie]]
+** [[https://medium.com/@zenlot/freebsd-jails-quick-start-64235c6a4361][FreeBSD Jails Quick Start]]
+** [[https://www.davd.eu/posts-freebsd-jails-with-a-single-public-ip-address/][FreeBSD jails with a single public IP address - davd.eu]]
+** [[https://www.c0ffee.net/blog/freebsd-on-a-laptop/][FreeBSD on a Laptop]]
+** [[https://www.c0ffee.net/blog/freebsd-on-a-laptop][FreeBSD on a Laptop]]
+** [[https://driftshell.com/freebsd_setup.html][FreeBSD setup for Thinkpad X230]] :freebsd:
+** [[https://jacob.ludriks.com/2017/06/07/FreeBSD-Thin-Jails/][FreeBSD Thin Jails - Jacob Ludriks]]
+** [[https://github.com/genneko/freebsd-vimage-jails][freebsd-vimage-jails]]
+** [[https://www.c0ffee.net/blog/freebsd-full-disk-encryption-uefi/][FreeBSD: Full-Disk Encryption + UEFI]]
+** [[https://www.freebsdnews.com/][FreeBSDNews - FreeBSDNews.com]] :freebsd:
+** [[https://tvheadend.org/boards/4/topics/32799][Freenas + Tvheadend Jail]]
+** [[https://www.dan.me.uk/blog/2012/08/05/full-system-backups-for-freebsd-systems-using-zfs/][Full system backups for FreeBSD systems using ZFS | Dan's Blog]]
+** [[https://github.com/jarun/nnn][GitHub - jarun/nnn: The fastest terminal]]
+** [[https://nicolargo.github.io/glances/][Glances - An Eye on your system]] :freebsd:
+** [[https://www.kirkg.us/posts/how-to-configure-a-freebsd-jail-on-a-digital-ocean-droplet/][How to configure a FreeBSD Jail on a Digital Ocean Droplet | kirkg.us]]
+** [[https://www.cyberciti.biz/faq/how-to-configure-a-freebsd-jail-with-vnet-and-zfs/][How to configure a FreeBSD Jail with vnet and ZFS - nixCraft]]
+** [[https://www.digitalocean.com/community/tutorials/how-to-configure-an-encrypted-zfs-pool-with-digitalocean-block-storage-on-freebsd][How To Configure an Encrypted ZFS Pool with DigitalOcean Block Storage on FreeBSD]]
+** [[https://www.adminbyaccident.com/freebsd/how-to-freebsd/how-to-mitigate-spectre-and-meltdown-on-an-hp-proliant-server-with-freebsd/][How to mitigate Spectre and Meltdown on an HP Proliant server with FreeBSD]]
+** [[https://forums.freebsd.org/threads/55610/][How to prepend localhost in /etc/resolv.conf on a DNS server | The FreeBSD Forums]] :website:
+** [[https://www.digitalocean.com/community/tutorials/how-to-set-up-a-poudriere-build-system-to-create-packages-for-your-freebsd-servers][How To Set Up a Poudriere Build System to Create Packages for your FreeBSD Servers | DigitalOcean]] :freebsd:
+** [[https://forums.freebsd.org/threads/howto-freebsd-10-1-amd64-uefi-boot-with-encrypted-zfs-root-using-geli.51393/][HOWTO: FreeBSD 10.1 amd64 UEFI boot with encrypted ZFS root using GELI]]
+** [[https://wiki.bsdforen.de/howto:festplattenverschluesselung_mit_pefs?s%5B%5D=pefs][howto:festplattenverschluesselung\_mit\_pefs]]
+** [[http://jornane.me/doc/freebsd-jail/][Jails in FreeBSD 10]]
+** [[https://forums.freebsd.org/threads/labeling-partitions-done-right-on-modern-computers.69250/#post-427174][Labeling partitions done right on modern computers. | The FreeBSD Forums]] :freebsd:
+** [[https://genneko.github.io/playing-with-bsd/system/learning-notes-on-jails/][Learning Notes on FreeBSD Jails - genneko]]
+** [[https://unix.stackexchange.com/questions/175814/list-all-connected-devices-in-freebsd/175822][List all connected devices in FreeBSD - Unix & Linux Stack Exchange]]
+** [[https://blog.feld.me/posts/2015/06/routing-a-freebsd-jail-through-openvpn/][Makefile.feld - Routing a FreeBSD Jail through OpenVPN]] :website:
+** [[https://www.bsdnow.tv/tutorials/poudriere][Making a binary package repository with poudriere | BSD Now]]
+** [[https://meka.rs/blog/2017/01/25/sing-beastie-sing/][meka - Goran Mekic - hacker and a musician]]
+** [[https://dan.langille.org/2015/03/11/modifying-a-zfs-root-system-to-a-beadm-layout/][Modifying a ZFS root system to a beadm layout]]
+** [[https://marcel443.wordpress.com/2017/07/28/multiplex-and-demultiplex-an-oss-device-with-audiovirtual_oss/][Multiplex and demultiplex an OSS device with audio/virtual\_oss | Marcel's Blog]]
+** [[https://newsboat.org/][Newsboat, an RSS reader]]
+** [[https://forums.freebsd.org/threads/oss-sound-quality.69335/][OSS Sound Quality | The FreeBSD Forums]] :freebsd:
+** [[http://pefs.io/][PEFS - Private Encrypted File System]]
+** [[https://lists.freebsd.org/pipermail/freebsd-current/2010-September/019691.html][pefs - stacked cryptographic filesystem]]
+** [[https://www.youtube.com/watch?v=9KBczNMp7DM][PEFS encrypted user home directories]]
+** [[http://www.etalabs.net/sh_tricks.html][Rich’s sh (POSIX shell) tricks]] :sh:
+** [[https://ramsdenj.com/2017/06/05/nextcloud-in-a-jail-on-freebsd.html][Running Nextcloud in a jail on FreeBSD]]
+** [[https://krj-notes.readthedocs.io/en/latest/nix_admin/jails.html][Setting up a jail in FreeBSD]]
+** [[https://wiki.freebsd.org/SteveWills/BTSpeaker][SteveWills/BTSpeaker -FreeBSD Wiki]]
+** [[https://suckless.org/][suckless.org software that sucks less]]
+** [[https://forums.freebsd.org/][The FreeBSD Forums]]
+** [[https://newsbeuter.org/doc/newsbeuter.html][The Newsbeuter RSS Feedreader]]
+** [[https://www.trueos.org/handbook/trueos.html][TrueOS User Guide]]
+** [[http://www.bsdnow.tv/tutorials/][Tutorials | BSD Now]]
+** [[https://wiki.freebsd.org/UEFI][UEFI - FreeBSD Wiki]]
+** [[https://dan.langille.org/2015/03/13/upgrading-from-freebsd-9-3-to-freebsd-10-1-using-beadm-and-freebsd-update/][Upgrading from FreeBSD 9.3 to FreeBSD 10.1 using beadm and freebsd-update]]
+** [[https://www.davidschlachter.com/misc/freebsd-webcam-browser][Using a webcam on FreeBSD in web browsers]] :freebsd:
+** [[https://medium.com/chris-opperwall/using-jails-with-zfs-and-pf-on-digitalocean-b25b1da82e20][Using Jails with ZFS and PF on DigitalOcean -- The OpperBlog -- Medium]]
+** [[https://vermaden.wordpress.com/][vermaden]]
+** [[https://forums.freebsd.org/threads/video-problem-configuring-pefs-on-a-home-directory.57448/][Video: problem configuring PEFS on a home directory | The FreeBSD Forums]]
+** [[https://wiki.freebsd.org/VladimirKrstulja/Guides/Jails][VladimirKrstulja/Guides/Jails - FreeBSD Wiki]]
+** [[https://wiki.freebsd.org/VladimirKrstulja/Guides/Poudriere][VladimirKrstulja/Guides/Poudriere -FreeBSD Wiki]]
+** [[https://bsdimp.blogspot.com/2020/10/how-to-recover-from-bios-upgrade.html][Warner's Random Hacking Blog: How to Recover From a BIOS Upgrade]] :freebsd:
+** [[https://docs.oracle.com/cd/E19253-01/819-5461/index.html][zfs oracle]]
+* openbsd
+  :PROPERTIES:
+  :CUSTOM_ID: openbsd
+  :add_date: 1455570596
+  :last_modified: 0
+  :END:
+** [[http://matt.bionicmessage.net/blog/2014/06/21/Advanced%20Geoblock%20evasion%20with%20OpenBSD%20pf%20and%20rdomain%27s][Advanced Geoblock evasion with OpenBSD pf and rdomain's - Mathew McBride]]
+** [[http://www.bsdnow.tv/tutorials/pf][BSD firewalls: PF | BSD Now]]
+** [[http://www.bsdnow.tv/][Getting Started | BSD Now]]
+** [[http://mirror.exonetric.net/pub/OpenBSD/5.6/packages/i386/][Index of /pub/OpenBSD/5.6/packages/i386/]]
+** [[http://www.kernel-panic.it/openbsd.html][Kernel Panic - OpenBSD]]
+** [[http://www.openbsd.org/faq/faq4.html][OpenBSD 5.6 Installation Guide]]
+** [[http://www.rinta-aho.org/blog/openbsd-and-duplicate-next-hop-routers/][OpenBSD and duplicate next hop routers – Teemu's blog]] :website:
+** [[https://www.openbsd.org/faq/pf/][OpenBSD PF: User's Guide]]
+** [[http://www.openbsd.org/i386.html][OpenBSD/i386]]
+** [[http://openports.se/][OpenPorts.se | The OpenBSD package collection]]
+** [[http://www.packetmischief.ca/2011/09/20/virtualizing-the-openbsd-routing-table/][Virtualizing the OpenBSD Routing Table | packetmischief.ca]]
+* gollum wiki
+  :PROPERTIES:
+  :CUSTOM_ID: gollum-wiki
+  :add_date: 1455570596
+  :last_modified: 0
+  :END:
+** [[https://github.com/gollum/gollum-lib/issues/12][Add an after commit hook for updating repo · Issue #12 · gollum/gollum-lib · GitHub]]
+** [[http://eureka.ykyuen.info/2015/03/12/gollum-auto-sync-to-git-remote-repository/][Gollum -- Auto sync to git remote repository | Eureka!]]
+** [[https://gist.github.com/dstrelau/710627][Gollum protected by HTTP Basic]]
+** [[https://gist.github.com/troelskn/2224709][Gollum protected by HTTP Basic]]
+** [[https://gist.github.com/sakim/5581184][Gollum wiki access control. Modifications require authentication.]]
+** [[https://github.com/gollum/gollum/blob/master/docs/sanitization.md][gollum/sanitization.md at master · gollum/gollum · GitHub]]
+** [[http://www.ivonet.it/Linux/InstallGollum][How To install Gollum on Ubuntu server]]
+** [[https://dn42.net/services/Distributed-Wiki][services/Distributed Wiki]]
