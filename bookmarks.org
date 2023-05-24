@@ -23,6 +23,7 @@
 ** [[https://www.youtube.com/user/mzamansky/videos][Mike Zamansky]]
 ** [[https://www.youtube.com/c/ProtesilaosStavrou/videos][Protesilaos Stavrou]]
 ** [[https://www.youtube.com/user/koenighaunstetten][Rainer König]]
+** [[https://www.youtube.com/@emacselements/videos][emacselements]]
 ** [[https://www.youtube.com/c/SystemCrafters/videos][Systemcrafters]]
 * newcastle
 ** [[https://www.nufc.co.uk/][nufc]]
