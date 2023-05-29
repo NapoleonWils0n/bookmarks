@@ -787,9 +787,6 @@ Download and decrypt AES-128 .m3u8 playlists
 ** [[https://github.com/msharov/snownews/issues/2][Youtube RSS feeds do not have links · Issue #2 · msharov/snownews · GitHub]] :xsl:
 ** [[https://gist.github.com/dieseltravis/470079][NYS DEC KMZ-to-KML-to-CSV for GPS POIs · GitHub]] :xsl:
  NYS DEC KMZ-to-KML-to-CSV for GPS POIs 
-* haskell
-** [[https://www.youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV][Haskell for Imperative Programmers]] :youtube:
-** [[http://learnyouahaskell.com/][learnyouahaskell]]
 * bash
 ** [[https://www.thegeekstuff.com/2009/05/sound-exchange-sox-15-examples-to-manipulate-audio-files][15 Awesome Examples to Manipulate Audio Files Using Sound eXchange (SoX)]]
 ** [[http://mylinuxbook.com/20-interesting-and-extremely-helpful-linux-command-line-tricks/][20 interesting and extremely helpful Linux command line tricks]]
@@ -1058,6 +1055,9 @@ Download and decrypt AES-128 .m3u8 playlists
 ** [[https://nixos.org/manual/nixos/stable/][Nixos Manual]]
 ** [[https://nixos.org/manual/nixpkgs/stable/][Nixpkgs]]
 ** [[https://rycee.gitlab.io/home-manager/options.html][home-manager options]]
+* haskell
+** [[https://www.youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV][Haskell for Imperative Programmers]] :youtube:
+** [[http://learnyouahaskell.com/][learnyouahaskell]]
 * gollum wiki
   :PROPERTIES:
   :CUSTOM_ID: gollum-wiki
