@@ -16,12 +16,6 @@
 ** [[https://www.bbc.co.uk/iplayer][iplayer]]
 ** [[https://www.itv.com][itv]]
 ** [[http://www.freeview.co.uk/whats-on/tv-guide][TV Guide]]
-* emacs-youtube
-** [[https://www.youtube.com/user/mzamansky/videos][Mike Zamansky]]
-** [[https://www.youtube.com/c/ProtesilaosStavrou/videos][Protesilaos Stavrou]]
-** [[https://www.youtube.com/user/koenighaunstetten][Rainer König]]
-** [[https://www.youtube.com/@emacselements/videos][emacselements]]
-** [[https://www.youtube.com/c/SystemCrafters/videos][Systemcrafters]]
 * newcastle
 ** [[https://www.nufc.co.uk/][nufc]]
 ** [[https://www.nufc.co.uk/nufc-tv/live/live-video/][nufc tv]]
@@ -124,6 +118,12 @@
 ** [[https://nixos.org/manual/nixos/stable/][Nixos Manual]]
 ** [[https://nixos.org/manual/nixpkgs/stable/][Nixpkgs]]
 ** [[https://rycee.gitlab.io/home-manager/options.html][home-manager options]]
+* emacs-yt
+** [[https://www.youtube.com/user/mzamansky/videos][Mike Zamansky]]
+** [[https://www.youtube.com/c/ProtesilaosStavrou/videos][Protesilaos Stavrou]]
+** [[https://www.youtube.com/user/koenighaunstetten][Rainer König]]
+** [[https://www.youtube.com/@emacselements/videos][emacselements]]
+** [[https://www.youtube.com/c/SystemCrafters/videos][Systemcrafters]]
 * emacs
    :PROPERTIES:
    :CUSTOM_ID: emacs
