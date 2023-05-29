@@ -646,11 +646,6 @@
 ** [[https://github.com/zsh-users/zsh-completions/blob/master/zsh-completions-howto.org][zsh completions]]
 * awk
 ** [[https://www.gnu.org/software/gawk/manual/gawk.html][The GNU Awk User’s Guide]] :awk:
-* xmonad
-** [[https://unix.stackexchange.com/questions/436787/system-tray-icons-on-xmonad-xmobar-or-any-other-minimal-status-bar][window manager - System Tray Icons on Xmonad - Xmobar Or any other minimal status bar - Unix & Linux Stack Exchange]] :xmonad:
-** [[https://xmonad.org/][xmonad - the tiling window manager that rocks]]:xmonad: 
-** [[https://xmonad.github.io/xmonad-docs/xmonad-contrib/][xmonad-contrib-0.17.0.9: Community-maintained extensions extensions for xmonad]] :xmonad:
-** [[https://hackage.haskell.org/package/xmonad-contrib-0.16/docs/XMonad-Doc-Extending.html][XMonad.Doc.Extending]] :xmonad:
 * debian
   :PROPERTIES:
   :CUSTOM_ID: debian
@@ -1055,6 +1050,11 @@ Download and decrypt AES-128 .m3u8 playlists
 ** [[https://nixos.org/manual/nixos/stable/][Nixos Manual]]
 ** [[https://nixos.org/manual/nixpkgs/stable/][Nixpkgs]]
 ** [[https://rycee.gitlab.io/home-manager/options.html][home-manager options]]
+* xmonad
+** [[https://unix.stackexchange.com/questions/436787/system-tray-icons-on-xmonad-xmobar-or-any-other-minimal-status-bar][window manager - System Tray Icons on Xmonad - Xmobar Or any other minimal status bar - Unix & Linux Stack Exchange]] :xmonad:
+** [[https://xmonad.org/][xmonad - the tiling window manager that rocks]]:xmonad: 
+** [[https://xmonad.github.io/xmonad-docs/xmonad-contrib/][xmonad-contrib-0.17.0.9: Community-maintained extensions extensions for xmonad]] :xmonad:
+** [[https://hackage.haskell.org/package/xmonad-contrib-0.16/docs/XMonad-Doc-Extending.html][XMonad.Doc.Extending]] :xmonad:
 * haskell
 ** [[https://www.youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV][Haskell for Imperative Programmers]] :youtube:
 ** [[http://learnyouahaskell.com/][learnyouahaskell]]
