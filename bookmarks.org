@@ -16,7 +16,7 @@
 ** [[https://www.bbc.co.uk/iplayer][iplayer]]
 ** [[https://www.itv.com][itv]]
 ** [[http://www.freeview.co.uk/whats-on/tv-guide][TV Guide]]
-* youtube
+* emacs-youtube
 ** [[https://www.youtube.com/user/mzamansky/videos][Mike Zamansky]]
 ** [[https://www.youtube.com/c/ProtesilaosStavrou/videos][Protesilaos Stavrou]]
 ** [[https://www.youtube.com/user/koenighaunstetten][Rainer König]]
