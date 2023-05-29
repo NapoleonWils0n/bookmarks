@@ -17,9 +17,6 @@
 ** [[https://www.itv.com][itv]]
 ** [[http://www.freeview.co.uk/whats-on/tv-guide][TV Guide]]
 * youtube
-** [[https://www.youtube.com/c/LoiLiangYang/videos][LoiLiangYang]]
-** [[https://www.youtube.com/c/gotbletu/videos][gotbletu]]
-** [[https://www.youtube.com/user/kaihendry/videos][Kai Hendry]]
 ** [[https://www.youtube.com/user/mzamansky/videos][Mike Zamansky]]
 ** [[https://www.youtube.com/c/ProtesilaosStavrou/videos][Protesilaos Stavrou]]
 ** [[https://www.youtube.com/user/koenighaunstetten][Rainer König]]
