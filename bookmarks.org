@@ -110,14 +110,6 @@
 ** [[https://www.youtube.com/][YouTube]]
 ** [[https://www.howtogeek.com/devops/how-to-create-qr-codes-from-the-linux-command-line/][How to Create QR Codes From the Linux Command Line]] 
 ** [[https://en.wikipedia.org/wiki/ICalendar][iCalendar - Wikipedia]] 
-* nixos
-** [[https://nixos.org/manual/nix/stable/introduction.html][Introduction]]
-** [[https://discourse.nixos.org/][Nix Discord]]
-** [[https://nixos.org/][NixOS Linux]]
-** [[https://search.nixos.org/packages][NixOS Packages]]
-** [[https://nixos.org/manual/nixos/stable/][Nixos Manual]]
-** [[https://nixos.org/manual/nixpkgs/stable/][Nixpkgs]]
-** [[https://rycee.gitlab.io/home-manager/options.html][home-manager options]]
 * emacs-yt
 ** [[https://www.youtube.com/user/mzamansky/videos][Mike Zamansky]]
 ** [[https://www.youtube.com/c/ProtesilaosStavrou/videos][Protesilaos Stavrou]]
@@ -1058,6 +1050,14 @@ Download and decrypt AES-128 .m3u8 playlists
 ** [[http://www.openbsd.org/i386.html][OpenBSD/i386]]
 ** [[http://openports.se/][OpenPorts.se | The OpenBSD package collection]]
 ** [[http://www.packetmischief.ca/2011/09/20/virtualizing-the-openbsd-routing-table/][Virtualizing the OpenBSD Routing Table | packetmischief.ca]]
+* nixos
+** [[https://nixos.org/manual/nix/stable/introduction.html][Introduction]]
+** [[https://discourse.nixos.org/][Nix Discord]]
+** [[https://nixos.org/][NixOS Linux]]
+** [[https://search.nixos.org/packages][NixOS Packages]]
+** [[https://nixos.org/manual/nixos/stable/][Nixos Manual]]
+** [[https://nixos.org/manual/nixpkgs/stable/][Nixpkgs]]
+** [[https://rycee.gitlab.io/home-manager/options.html][home-manager options]]
 * gollum wiki
   :PROPERTIES:
   :CUSTOM_ID: gollum-wiki
