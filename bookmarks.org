@@ -58,6 +58,7 @@
   :END:
 ** [[https://1337x.to/][1337x.to]]
 ** [[http://archive.org/details/bittorrent][Archive.org]]
+** [[https://www.aiosearch.com/][aiosearch]]
 ** [[https://bitsearch.to/][bitsearch.to]]
 ** [[https://btdig.com][btdig]]
 ** [[https://www.dnoid.to/][Demonoid ]]
