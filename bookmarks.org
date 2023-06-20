@@ -122,6 +122,7 @@
 * davinci resolve
 ** [[https://www.youtube.com/@DarrenMostyn/videos][DarrenMostyn]]
 ** [[https://www.youtube.com/@CaseyFaris/videos][CaseyFaris]]
+** [[https://www.youtube.com/@BandH/videos][BandH]]
 ** [[https://www.youtube.com/watch?v=HbdESEtlKfI]]
 * emacs-yt
 ** [[https://www.youtube.com/user/mzamansky/videos][Mike Zamansky]]
