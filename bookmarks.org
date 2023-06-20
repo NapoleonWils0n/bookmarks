@@ -119,7 +119,7 @@
 ** [[https://www.youtube.com/][YouTube]]
 ** [[https://www.howtogeek.com/devops/how-to-create-qr-codes-from-the-linux-command-line/][How to Create QR Codes From the Linux Command Line]] 
 ** [[https://en.wikipedia.org/wiki/ICalendar][iCalendar - Wikipedia]] 
-* davinci resolve
+* davinci
 ** [[https://www.youtube.com/@DarrenMostyn/videos][DarrenMostyn]]
 ** [[https://www.youtube.com/@CaseyFaris/videos][CaseyFaris]]
 ** [[https://www.youtube.com/@BandH/videos][BandH]]
