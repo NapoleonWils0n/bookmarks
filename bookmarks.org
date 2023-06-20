@@ -121,6 +121,7 @@
 ** [[https://en.wikipedia.org/wiki/ICalendar][iCalendar - Wikipedia]] 
 * davinci resolve
 ** [[https://www.youtube.com/@DarrenMostyn/videos][DarrenMostyn]]
+** [[https://www.youtube.com/@CaseyFaris/videos][CaseyFaris]]
 * emacs-yt
 ** [[https://www.youtube.com/user/mzamansky/videos][Mike Zamansky]]
 ** [[https://www.youtube.com/c/ProtesilaosStavrou/videos][Protesilaos Stavrou]]
