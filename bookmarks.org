@@ -124,7 +124,6 @@
 ** [[https://www.youtube.com/@CaseyFaris/videos][CaseyFaris]]
 ** [[https://www.youtube.com/@BandH/videos][BandH]]
 ** [[https://www.youtube.com/@JasonYadlovski/videos][JasonYadlovski]]
-** [[https://www.youtube.com/watch?v=HbdESEtlKfI][Color Correction in DaVinci Resolve: A Walkthrough]]
 * emacs-yt
 ** [[https://www.youtube.com/user/mzamansky/videos][Mike Zamansky]]
 ** [[https://www.youtube.com/c/ProtesilaosStavrou/videos][Protesilaos Stavrou]]
