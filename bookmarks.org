@@ -50,6 +50,7 @@
 ** [[https://techoreels.com/schedule/soccerstreams/][techoreels]]
 ** [[https://techstribes.com/oneetech1/?sport=soccer][techstribes]]
 ** [[http://uhdstreams.club/][uhdstreams]]
+** [[https://www.uefa.tv/][uefa.tv]]
 * torrents
   :PROPERTIES:
   :CUSTOM_ID: torrents
