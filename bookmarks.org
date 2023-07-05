@@ -102,6 +102,7 @@
 ** [[https://developer.mozilla.org/en-US/docs/Web/HTML][HTML: HyperText Markup Language | MDN]]
 ** [[https://iptv.community/][iptv.community]]
 ** [[https://itsfoss.com/][It's FOSS - World's Leading Linux & Open Source Web Portal]]
+** [[https://letsblock.it/filters][letsblock.it]]
 ** [[http://www.lifehacker.co.uk/][Lifehacker UK]]
 ** [[http://www.makeuseof.com/][MakeUseOf - Technology, Simplified]]
 ** [[https://m4uhd.tv][m4uhd.tv]]
