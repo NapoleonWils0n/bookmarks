@@ -68,7 +68,6 @@
 ** [[https://www.magnetdl.com/][magnetdl]]
 ** [[https://knaben.eu/][knaben]]
 ** [[https://psa.wf/][psa]]
-** [[http://rarbg.to][rarbg]]
 ** [[https://rutor.org][rutor]]
 ** [[https://snowfl.com/][snowfl]]
 ** [[https://unblock_it.gitlab.io/site/][unblockit]]
