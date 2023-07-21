@@ -6,6 +6,7 @@
    :last_modified: 1481227079
    :END:
 ** [[http://127.0.0.1:9091/transmission/web/][transmission]]
+** [[http://127.0.0.1:9696][prowlarr]]
 ** [[https://github.com/NapoleonWils0n][github: NapoleonWils0n]]
 ** [[https://youtube.com/@NapoleonWils0n][NapoleonWils0n - yt]]
 ** [[https://odysee.com/@NapoleonWils0n:6][NapoleonWilson - odysee]]
