@@ -161,6 +161,7 @@
 ** [[http://correl.phoenixinquis.net/2015/07/12/git-graphs.html][Drawing Git Graphs with Graphviz and Org-Mode]]
 ** [[http://www.tonyballantyne.com/graphs.html][Drawing Graphs using Dot and Graphviz]]
 ** [[http://tonyballantyne.com/graphs.html][Drawing Graphs using Dot and Graphviz]]
+** [[https://www.emacs.dyerdwelling.family/][emacs.dyerdwelling]]
 ** [[https://emacs.stackexchange.com/questions/12167/emacs-init-pandoc-setup][elisp - Emacs init pandoc setup - Emacs Stack Exchange]]
 ** [[https://wiki.archlinux.org/index.php/emacs][Emacs - ArchWiki]]
 ** [[https://superuser.com/questions/552888/auto-load-gfm-mode][emacs - Auto-load gfm-mode - Super User]]
