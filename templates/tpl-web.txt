@@ -1,2 +1,2 @@
-** [[%x][%^{link-description}]]
+** [[%c][%^{link-description}]]
 
