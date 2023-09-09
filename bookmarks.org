@@ -123,7 +123,6 @@
 ** [[https://www.howtogeek.com/devops/how-to-create-qr-codes-from-the-linux-command-line/][How to Create QR Codes From the Linux Command Line]] 
 ** [[https://en.wikipedia.org/wiki/ICalendar][iCalendar - Wikipedia]] 
 
-** [[https://www.google.com/search?client=firefox-b-d&q=firefox+org+mode][google]] :sh:
 * davinci
 ** [[https://www.youtube.com/@DarrenMostyn/videos][DarrenMostyn]]
 ** [[https://www.youtube.com/@CaseyFaris/videos][CaseyFaris]]
