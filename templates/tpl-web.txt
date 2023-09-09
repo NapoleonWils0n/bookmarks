@@ -1,2 +1,2 @@
-** [[%^{link-url}][%^{link-description}]]
+** %a
 
