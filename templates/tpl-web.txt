@@ -1,3 +1,2 @@
-* %:annotation %^g
-%i
+** [[%^{link-url}][%^{link-description}]] %^g
 
