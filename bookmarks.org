@@ -124,7 +124,6 @@
 ** [[https://en.wikipedia.org/wiki/ICalendar][iCalendar - Wikipedia]] 
 ** [[https://developer.mozilla.org/en-US/docs/Web/API/WebVTT_API][mozilla webvtt]]
 ** [[https://www.w3.org/TR/webvtt1/][webvtt]]
-
 * davinci
 ** [[https://www.youtube.com/@DarrenMostyn/videos][DarrenMostyn]]
 ** [[https://www.youtube.com/@CaseyFaris/videos][CaseyFaris]]
