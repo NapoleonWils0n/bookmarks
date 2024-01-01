@@ -166,6 +166,7 @@
 ** [[https://www.digitalocean.com/community/tutorials/how-to-set-up-a-poudriere-build-system-to-create-packages-for-your-freebsd-servers][How To Set Up a Poudriere Build System to Create Packages for your FreeBSD Servers | DigitalOcean]] :freebsd:
 ** [[https://forums.freebsd.org/threads/howto-freebsd-10-1-amd64-uefi-boot-with-encrypted-zfs-root-using-geli.51393/][HOWTO: FreeBSD 10.1 amd64 UEFI boot with encrypted ZFS root using GELI]]
 ** [[https://wiki.bsdforen.de/howto:festplattenverschluesselung_mit_pefs?s%5B%5D=pefs][howto:festplattenverschluesselung\_mit\_pefs]]
+** [[https://kzimmermann.0x.no/articles/installing_freebsd_usb_drive.html][install freebsd on a usb drive]]
 ** [[http://jornane.me/doc/freebsd-jail/][Jails in FreeBSD 10]]
 ** [[https://forums.freebsd.org/threads/labeling-partitions-done-right-on-modern-computers.69250/#post-427174][Labeling partitions done right on modern computers. | The FreeBSD Forums]] :freebsd:
 ** [[https://genneko.github.io/playing-with-bsd/system/learning-notes-on-jails/][Learning Notes on FreeBSD Jails - genneko]]
