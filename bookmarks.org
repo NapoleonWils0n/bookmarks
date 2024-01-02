@@ -149,7 +149,6 @@
 ** [[https://www.c0ffee.net/blog/freebsd-on-a-laptop/][FreeBSD on a Laptop]]
 ** [[https://www.c0ffee.net/blog/freebsd-on-a-laptop][FreeBSD on a Laptop]]
 ** [[https://www.davidschlachter.com/misc/freebsd-obs-virtualcam][freebsd-obs-virtualcam]]
-** [[https://driftshell.com/freebsd_setup.html][FreeBSD setup for Thinkpad X230]] :freebsd:
 ** [[https://jacob.ludriks.com/2017/06/07/FreeBSD-Thin-Jails/][FreeBSD Thin Jails - Jacob Ludriks]]
 ** [[https://github.com/genneko/freebsd-vimage-jails][freebsd-vimage-jails]]
 ** [[https://www.c0ffee.net/blog/freebsd-full-disk-encryption-uefi/][FreeBSD: Full-Disk Encryption + UEFI]]
