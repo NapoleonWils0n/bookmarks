@@ -11,7 +11,7 @@
 ** [[https://github.com/NapoleonWils0n][github: NapoleonWils0n]]
 ** [[https://youtube.com/@NapoleonWils0n][NapoleonWils0n - yt]]
 ** [[https://odysee.com/@NapoleonWils0n:6][NapoleonWilson - odysee]]
-** [[http://192.168.1.1/][pfsense]]]
+** [[http://192.168.1.1/][pfsense]]
 * topsites
 ** [[https://www.youtube.com][youtube]]
 ** [[https://www.channel4.com][channel4]]
