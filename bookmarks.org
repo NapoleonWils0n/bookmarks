@@ -12,6 +12,8 @@
 ** [[https://youtube.com/@NapoleonWils0n][NapoleonWils0n - yt]]
 ** [[https://odysee.com/@NapoleonWils0n:6][NapoleonWilson - odysee]]
 ** [[http://192.168.1.1/][pfsense]]
+* bbc
+** [[video:https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_hd/pc_hd_abr_v2.mpd][bbc1]]
 * topsites
 ** [[https://www.youtube.com][youtube]]
 ** [[https://www.channel4.com][channel4]]
