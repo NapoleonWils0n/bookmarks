@@ -14,7 +14,6 @@
 ** [[http://192.168.1.1/][pfsense]]
 * bbc
 ** [[mpv:https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_hd/pc_hd_abr_v2.mpd][bbc1]]
-** [[mpv://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_hd/pc_hd_abr_v2.mpd][bbc1]]
 * topsites
 ** [[https://www.youtube.com][youtube]]
 ** [[https://www.channel4.com][channel4]]
