@@ -1,4 +1,5 @@
 #+TITLE: video links
 #+STARTUP: overview
 * links
+** [[video:https://www.youtube.com/watch?v=1rS2RAtkAgc][sherlock holmes]]
 
