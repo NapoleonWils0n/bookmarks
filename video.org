@@ -1,5 +1,4 @@
 #+TITLE: video links
 #+STARTUP: overview
 * links
-** [[https://www.youtube.com/watch?v=1rS2RAtkAgc][foo]]
 
