@@ -1,4 +1,4 @@
-#+TITLE: video links
+#+TITLE: bookmarks
 #+STARTUP: overview
 * mystuff
    :PROPERTIES:
