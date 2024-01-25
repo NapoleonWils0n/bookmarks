@@ -1,9 +1,8 @@
 #+TITLE: video links
 #+STARTUP: overview
 * links
-** [[video:https://www.youtube.com/watch?v=1rS2RAtkAgc][sherlock holmes]]
-* nufc
-** [[video:https://www.youtube.com/watch?v=xm715XYhJLI][derby win]]
-** [[video:https://www.youtube.com/watch?v=s7xNQXxcXeg][really]]
-** [[video:https://www.youtube.com/watch?v=odq1C30SzFw][laser]]
-
+* wiseguy
+** season 1
+** season 2
+** season 3
+** season 4
