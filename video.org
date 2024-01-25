@@ -2,8 +2,8 @@
 #+STARTUP: overview
 * links
 * archive.org
-* wiseguy
-** season 1
+** wiseguy
+*** season 1
 [[video:https://archive.org/download/Wiseguy/Season%201/Wiseguy%20-%201x01%20-%20Pilot.mp4][Pilot]]
 [[video:https://archive.org/download/Wiseguy/Season%201/Wiseguy%20-%201x02%20-%20New%20Blood%20.mp4][New Blood]]
 [[video:https://archive.org/download/Wiseguy/Season%201/Wiseguy%20-%201x03%20-%20The%20Loose%20Cannon.mp4][Loose Cannon]]
@@ -25,7 +25,7 @@
 [[video:https://archive.org/download/Wiseguy/Season%201/Wiseguy%20-%201x19%20-%20Phantom%20Pain.mp4][Phantom Pain]]
 [[video:https://archive.org/download/Wiseguy/Season%201/Wiseguy%20-%201x20%20-%20Dirty%20Little%20Wars.mp4][Dirty Little Wars]]
 [[video:https://archive.org/download/Wiseguy/Season%201/Wiseguy%20-%201x21%20-%20Date%20With%20an%20Angel.mp4][Date With an Angel]]
-** season 2
+*** season 2
 [[video:https://archive.org/download/Wiseguy/Season%202/Wiseguy%20-%202x01%20-%20Going%20Home.mp4][Going Home]]
 [[video:https://archive.org/download/Wiseguy/Season%202/Wiseguy%20-%202x02%20-%20School%20of%20Hard%20Knox.mp4][School of Hard Knox]]
 [[video:https://archive.org/download/Wiseguy/Season%202/Wiseguy%20-%202x03%20-%20Revenge%20of%20the%20Mud%20People.mp4][Revenge of the Mud People]]
@@ -48,7 +48,7 @@
 [[video:https://archive.org/download/Wiseguy/Season%202/Wiseguy%20-%202x20%20-%20Call%20it%20Casaba.mp4][Call it Casaba]]
 [[video:https://archive.org/download/Wiseguy/Season%202/Wiseguy%20-%202x21%20-%20Le%20LaCrime%20de%20Amore%20-%20Part%201%20-%20The%20Four%20Letter%20Word.mp4][Le LaCrime de Amore - Part 1 - The Four Letter Word]]
 [[video:https://archive.org/download/Wiseguy/Season%202/Wiseguy%20-%202x22%20-%20Le%20LaCrime%20de%20Amore%20-%20Part%202%20-%20There%27s%20Plenty%20of%20Time.mp4][Le LaCrime de Amore - Part 2 - There's Plenty of Time]]
-** season 3
+*** season 3
 [[video:https://archive.org/download/Wiseguy/Season%203/Wiseguy%20-%203x01%20-%20A%20Rightful%20Place.mp4][A Rightful Place]]
 [[video:https://archive.org/download/Wiseguy/Season%203/Wiseguy%20-%203x02%20-%20The%20Battle%20of%20the%20Barge.mp4][The Battle of the Barge]]
 [[video:https://archive.org/download/Wiseguy/Season%203/Wiseguy%20-%203x03%20-%20Sins%20of%20the%20Father.mp4][Sins of the Father]]
@@ -72,7 +72,7 @@
 [[video:https://archive.org/download/Wiseguy/Season%203/Wiseguy%20-%203x21%20-%20Sanctuary.mp4][Sanctuary]]
 [[video:https://archive.org/download/Wiseguy/Season%203/Wiseguy%20-%203x22%20-%20Brrump-Bump.mp4][Brrump-Bump]]
 
-** season 4
+*** season 4
 [[video:https://archive.org/download/Wiseguy/Season%204/Wiseguy%20-%204x01%20-%20Fruit%20of%20the%20Poisonous%20Tree.mp4][Fruit of the Poisonous Tree]]
 [[video:https://archive.org/download/Wiseguy/Season%204/Wiseguy%20-%204x02%20-%20Black%20Gold.mp4][Black Gold]]
 [[video:https://archive.org/download/Wiseguy/Season%204/Wiseguy%20-%204x03%20-%20The%20Gift.mp4][The Gift]]
