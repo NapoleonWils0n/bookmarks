@@ -1,6 +1,7 @@
 #+TITLE: video links
 #+STARTUP: overview
 * links
+* archive.org
 * wiseguy
 ** season 1
 [[video:https://archive.org/download/Wiseguy/Season%201/Wiseguy%20-%201x01%20-%20Pilot.mp4][Pilot]]
