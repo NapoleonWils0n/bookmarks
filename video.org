@@ -3,6 +3,7 @@
 * links
 * archive.org
 ** wiseguy
+*** wiseguy url
 [[https://archive.org/details/Wiseguy]]
 
 *** season 1
