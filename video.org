@@ -2,6 +2,7 @@
 #+STARTUP: overview
 * links
 * youtube
+** Crash Course Computer Science
 * archive.org
 ** wiseguy
 *** wiseguy url
