@@ -1,6 +1,8 @@
 #+TITLE: video links
 #+STARTUP: overview
 * links
+** [[video:https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo][Crash Course Computer Science]]
+
 * youtube
 ** Crash Course Computer Science
 * archive.org
