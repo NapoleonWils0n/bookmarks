@@ -4,6 +4,7 @@
 ** [[video:https://www.youtube.com/watch?v=2kyPUakyj_U][*RACE FOR EUROPE!* Newcastle SMASH Villa 1-3 BUT ISAK Injury is WORRYING!]]
 ** [[video:https://www.youtube.com/watch?v=hLjsqMPIWcQ][Newcastle ‘LAST CHANCE’ Transfer Move for Jacob Ramsey!]]
 ** [[video:https://www.youtube.com/watch?v=48JlgiBpw_I&pp=ygUFZW1hY3M%3D][The Absolute Beginner's Guide to Emacs]]
+** [[video:https://www.youtube.com/watch?v=jPkIaqSh3cA&pp=ygUFZW1hY3M%3D][The Basics of Emacs as a Text Editor]]
 
 * youtube
 * archive.org
