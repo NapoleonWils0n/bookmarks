@@ -1,7 +1,6 @@
 #+TITLE: video links
 #+STARTUP: overview
 * links
-]
 * youtube
 * archive.org
 ** wiseguy
