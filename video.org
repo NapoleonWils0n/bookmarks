@@ -5,6 +5,7 @@
 ** [[video:https://www.youtube.com/watch?v=hLjsqMPIWcQ][Newcastle ‘LAST CHANCE’ Transfer Move for Jacob Ramsey!]]
 ** [[video:https://www.youtube.com/watch?v=48JlgiBpw_I&pp=ygUFZW1hY3M%3D][The Absolute Beginner's Guide to Emacs]]
 ** [[video:https://www.youtube.com/watch?v=Kr7BmHa7hyU&pp=ygUFZW1hY3M%3D][the argument for emacs in a few minutes]]
+** [[video:https://www.youtube.com/watch?v=Kr7BmHa7hyU&pp=ygUFZW1hY3M%3D][The argument for emacs in just a few minutes (vlog) | IT and DevOps Career Secrets]]
 
 * youtube
 ** [[video:https://www.youtube.com/watch?v=jPkIaqSh3cA&pp=ygUFZW1hY3M%3D][The Basics of Emacs as a Text Editor]]
