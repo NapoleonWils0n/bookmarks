@@ -1,8 +1,6 @@
 #+TITLE: video links
 #+STARTUP: overview
 * links
-** [[video:https://www.youtube.com/watch?v=dgTn4VmznDA
-][Insiders Say Biden Hurt Trump's Feelings With Recent Insults]]
 ** [[video:https://www.youtube.com/watch?v=S28HvDb9TFg][Conservative Judge Says Trump Engaged In Insurrection, But Won't Remove Him From Ballot]]
 
 * youtube
