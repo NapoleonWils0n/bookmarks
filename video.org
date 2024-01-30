@@ -1,6 +1,9 @@
 #+TITLE: video links
 #+STARTUP: overview
 * links
+** [[video:https://www.youtube.com/watch?v=Ecoh3WFf-DA][Illinois election board weighs removing Trump from primary ballot
+]]
+
 * youtube
 * archive.org
 ** wiseguy
