@@ -1,6 +1,10 @@
 #+TITLE: video links
 #+STARTUP: overview
 * links
+** [[video:https://www.youtube.com/watch?v=dgTn4VmznDA
+][Insiders Say Biden Hurt Trump's Feelings With Recent Insults
+]]
+
 * youtube
 * archive.org
 ** wiseguy
