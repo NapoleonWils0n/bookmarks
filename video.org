@@ -1,12 +1,6 @@
 #+TITLE: video links
 #+STARTUP: overview
 * links
-** [[video:https://www.youtube.com/watch?v=dgTn4VmznDA
-][Insiders Say Biden Hurt Trump's Feelings With Recent Insults
-]]
-** [[video:https://www.youtube.com/watch?v=PfZnADuFk1M][Alina Habba Already Ruined Trump's Ability To Appeal Defamation Verdict
-]]
-
 * youtube
 * archive.org
 ** wiseguy
