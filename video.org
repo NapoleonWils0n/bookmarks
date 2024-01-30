@@ -1,10 +1,6 @@
 #+TITLE: video links
 #+STARTUP: overview
 * links
-** [[video:https://www.youtube.com/watch?v=Ecoh3WFf-DA][Illinois election board weighs removing Trump from primary ballot]]
-** [[video:https://www.youtube.com/watch?v=GwbvBXJ7MNw&t=1s][Miguel Almiron REJECTS Saudi Move! BIG Prediction For Aston Villa Preview!!
-]]
-
 * youtube
 * archive.org
 ** wiseguy
