@@ -9,6 +9,11 @@
 ** [[video:https://www.youtube.com/watch?v=fUq5C8MiCwA][The Boogens 1981 Horror Alien/Horror/Sci-Fi]]
 
 * archive.org
+
+** dynasty
+
+[[https://archive.org/download/dynasty-1981/]]
+
 ** wiseguy
 
 [[https://archive.org/details/Wiseguy]]
