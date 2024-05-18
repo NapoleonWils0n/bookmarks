@@ -6,7 +6,7 @@
    :add_date: 1455570596
    :last_modified: 1481227079
    :END:
-** [[https://127.0.0.1:8384][syncthing]
+** [[https://127.0.0.1:8384][syncthing]]
 ** [[https://github.com/NapoleonWils0n][github: NapoleonWils0n]]
 ** [[https://youtube.com/@NapoleonWils0n][NapoleonWils0n - yt]]
 ** [[https://odysee.com/@NapoleonWils0n:6][NapoleonWilson - odysee]]
