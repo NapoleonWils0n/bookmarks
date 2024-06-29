@@ -210,6 +210,7 @@
    :add_date: 1468542021
    :last_modified: 1472844043
    :END:
+** [[https://www.gnu.org/software/emacs/manual/html_mono/eintr.html][Programming in Emacs Lisp]]
 ** [[https://github.com/sachac][sacha chua github]]
 ** [[https://www.masteringemacs.org/article/introduction-magit-emacs-mode-git][An introduction to Magit, an Emacs mode for Git - Mastering Emacs]]
 ** [[https://joelmccracken.github.io/entries/org-mode-jekyll-plugin/][An Org-Mode Jekyll Plugin]]
