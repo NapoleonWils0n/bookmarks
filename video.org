@@ -2,6 +2,8 @@
 #+STARTUP: overview
 * links
 * youtube
+** nufc
+*** [[https://www.youtube.com/@TheMagpieChannelTV][Magpie Channel]]
 * archive
 ** [[https://archive.org/details/allo-allo][allo allo]]
 ** [[https://archive.org/download/the-bill_202211/][the bill]]
