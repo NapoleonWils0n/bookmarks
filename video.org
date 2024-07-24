@@ -22,6 +22,7 @@
 *** [[https://www.youtube.com/@SystemCrafters/videos][system crafters]]
 *** [[https://www.youtube.com/@mzamansky/videos][mike zamansky]]
 *** [[https://www.youtube.com/playlist?list=PL8Bwba5vnQK14z96Gil86pLMDO2GnOhQ6][prot]]
+*** [[https://www.youtube.com/playlist?list=PLVtKhBrRV_ZkPnBtt_TD1Cs9PJlU0IIdE][org mode]]
 * archive
 ** [[https://archive.org/details/allo-allo][allo allo]]
 ** [[https://archive.org/download/the-bill_202211/][the bill]]
