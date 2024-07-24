@@ -20,6 +20,7 @@
 *** [[https://www.youtube.com/@TechHut/videos][tech hut]]
 ** movies
 *** [[https://www.youtube.com/@newcastleafterdark405/videos][newcastle after dark]]
+*** [[https://www.youtube.com/@HauntedManor/playlists][haunted manor]]
 ** emacs
 *** [[https://www.youtube.com/@SystemCrafters/videos][system crafters]]
 *** [[https://www.youtube.com/@mzamansky/videos][mike zamansky]]
