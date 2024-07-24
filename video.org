@@ -19,7 +19,7 @@
 *** [[https://www.youtube.com/@TheLinuxEXP/videos][linux experiment]]
 *** [[https://www.youtube.com/@TechHut/videos][tech hut]]
 ** movies
-*** 
+*** [[https://www.youtube.com/@newcastleafterdark405/videos][newcastle after dark]]
 ** emacs
 *** [[https://www.youtube.com/@SystemCrafters/videos][system crafters]]
 *** [[https://www.youtube.com/@mzamansky/videos][mike zamansky]]
