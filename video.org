@@ -19,7 +19,7 @@
 *** [[https://www.youtube.com/@TheLinuxEXP/videos][linux experiment]]
 *** [[https://www.youtube.com/@TechHut/videos][tech hut]]
 ** emacs
-*** [[
+*** [[https://www.youtube.com/@SystemCrafters/videos][system crafters]]
 * archive
 ** [[https://archive.org/details/allo-allo][allo allo]]
 ** [[https://archive.org/download/the-bill_202211/][the bill]]
