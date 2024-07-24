@@ -21,7 +21,7 @@
 ** emacs
 *** [[https://www.youtube.com/@SystemCrafters/videos][system crafters]]
 *** [[https://www.youtube.com/@mzamansky/videos][mike zamansky]]
-*** [[https://www.youtube.com/playlist?list=PL8Bwba5vnQK14z96Gil86pLMDO2GnOhQ6][a closer look]]
+*** [[https://www.youtube.com/playlist?list=PL8Bwba5vnQK14z96Gil86pLMDO2GnOhQ6][prot]]
 * archive
 ** [[https://archive.org/details/allo-allo][allo allo]]
 ** [[https://archive.org/download/the-bill_202211/][the bill]]
