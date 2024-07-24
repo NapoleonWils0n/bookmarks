@@ -10,6 +10,7 @@
 ** news
 *** [[https://www.youtube.com/@thedavidpakmanshow/videos][david pakman]]
 *** [[https://www.youtube.com/@FarronBalanced/videos][farron balanced]]
+*** [[https://www.youtube.com/@TheRingofFire/videos][ring of fire]]
 * archive
 ** [[https://archive.org/details/allo-allo][allo allo]]
 ** [[https://archive.org/download/the-bill_202211/][the bill]]
