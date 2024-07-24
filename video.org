@@ -3,7 +3,8 @@
 * links
 * youtube
 ** nufc
-*** [[https://www.youtube.com/@TheMagpieChannelTV/videos][Magpie Channel]]
+*** [[https://www.youtube.com/@TheMagpieChannelTV/videos][magpie channel]]
+*** [[https://www.youtube.com/@Roobenstein/videos][roobenstein]]
 * archive
 ** [[https://archive.org/details/allo-allo][allo allo]]
 ** [[https://archive.org/download/the-bill_202211/][the bill]]
