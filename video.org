@@ -27,7 +27,7 @@
 *** [[https://www.youtube.com/@mzamansky/videos][mike zamansky]]
 *** [[https://www.youtube.com/playlist?list=PL8Bwba5vnQK14z96Gil86pLMDO2GnOhQ6][prot]]
 *** [[https://www.youtube.com/playlist?list=PLVtKhBrRV_ZkPnBtt_TD1Cs9PJlU0IIdE][org mode]]
-*** [[https://www.youtube.com/playlist?list=PL9-JlwYEj37W_Mx6OMVrGb4TOBCeCQ9de][80s Movies]]
+*** [[https://www.youtube.com/playlist?list=PL9-JlwYEj37W_Mx6OMVrGb4TOBCeCQ9de][80s movies]]
 * archive
 ** [[https://archive.org/details/allo-allo][allo allo]]
 ** [[https://archive.org/download/the-bill_202211/][the bill]]
