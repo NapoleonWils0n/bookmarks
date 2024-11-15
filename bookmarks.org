@@ -195,12 +195,6 @@
 ** [[https://wiki.freebsd.org/VladimirKrstulja/Guides/Poudriere][VladimirKrstulja/Guides/Poudriere -FreeBSD Wiki]]
 ** [[https://bsdimp.blogspot.com/2020/10/how-to-recover-from-bios-upgrade.html][Warner's Random Hacking Blog: How to Recover From a BIOS Upgrade]] :freebsd:
 ** [[https://docs.oracle.com/cd/E19253-01/819-5461/index.html][zfs oracle]]
-* emacs-yt
-** [[https://www.youtube.com/user/mzamansky/videos][Mike Zamansky]]
-** [[https://www.youtube.com/c/ProtesilaosStavrou/videos][Protesilaos Stavrou]]
-** [[https://www.youtube.com/user/koenighaunstetten][Rainer König]]
-** [[https://www.youtube.com/@emacselements/videos][emacselements]]
-** [[https://www.youtube.com/c/SystemCrafters/videos][Systemcrafters]]
 * emacs
    :PROPERTIES:
    :CUSTOM_ID: emacs
