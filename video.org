@@ -34,7 +34,7 @@
 *** [[https://www.youtube.com/playlist?list=PLVtKhBrRV_ZkPnBtt_TD1Cs9PJlU0IIdE][org mode]]
 *** [[https://www.youtube.com/user/koenighaunstetten][Rainer König]]
 * archive
-** [[https://archive.org/details/allo-allo][allo allo]]
+** [[https://archive.org/download/allo-allo][allo allo]]
 ** [[https://archive.org/download/the-bill_202211/][the bill]]
 ** [[https://archive.org/download/dynasty-1981/][dynasty]]
 ** [[https://archive.org/download/horror-and-sci-fi][horror and scifi]]
