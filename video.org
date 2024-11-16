@@ -40,5 +40,5 @@
 ** [[eww:https://archive.org/download/horror-and-sci-fi][horror and scifi]]
 ** [[eww:https://archive.org/download/classic-british-tv-pack][british tv]]
 ** [[eww:https://archive.org/download/murder-she-wrote_202402][murder she wrote]]
-** [[https://archive.org/download/poirot-series][poirot]]
+** [[eww:https://archive.org/download/poirot-series][poirot]]
 ** [[https://archive.org/download/blood-cult-1985][horror]]
