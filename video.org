@@ -2,7 +2,6 @@
 #+STARTUP: overview
 * links
 ** [[video:https://www.youtube.com/watch?v=sd45ihj3rh0][ghosthouse]]
-** [[video:https://www.youtube.com/watch?v=ZWtfgltJGsc][bullseye]]
 
 * youtube
 ** nufc
