@@ -1,7 +1,6 @@
 #+TITLE: video links
 #+STARTUP: overview
 * links
-** [[video:https://www.youtube.com/watch?v=I6y7MSZXMNg][halloween]]
 ** [[video:https://www.youtube.com/watch?v=b8zuKPcdVWE][invisible ghost]]
 
 * youtube
