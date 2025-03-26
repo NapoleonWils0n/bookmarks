@@ -27,13 +27,13 @@
 *** [[https://www.youtube.com/playlist?list=PL_IQmOxxq1q3Q5c-vJjnMSo3uEcirZDPq][70s 80s movies]]
 *** [[https://www.youtube.com/playlist?list=PL9-JlwYEj37VJ4MCp8o1woggS4lPUOR9O][dario argento]]
 *** [[https://www.youtube.com/playlist?list=PLWVvoECqQ3lIV0dbNO_YxqJaAsV-GJBSZ][80s horror movies]]
+*** [[https://www.youtube.com/@binge-a-thon5932/videos][binge-a-thon]]
 ** emacs
 *** [[https://www.youtube.com/@SystemCrafters/videos][system crafters]]
 *** [[https://www.youtube.com/@mzamansky/videos][mike zamansky]]
 *** [[https://www.youtube.com/playlist?list=PL8Bwba5vnQK14z96Gil86pLMDO2GnOhQ6][prot]]
 *** [[https://www.youtube.com/playlist?list=PLVtKhBrRV_ZkPnBtt_TD1Cs9PJlU0IIdE][org mode]]
 *** [[https://www.youtube.com/user/koenighaunstetten][Rainer König]]
-*** [[https://www.youtube.com/@binge-a-thon5932/videos][binge-a-thon]]
 * archive
 ** [[eww:https://archive.org/download/allo-allo][allo allo]]
 ** [[eww:https://archive.org/download/classic-british-tv-pack][british tv]]
