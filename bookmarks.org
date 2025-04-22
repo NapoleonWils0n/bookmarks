@@ -355,7 +355,7 @@
 ** [[https://search.nixos.org/packages][NixOS Packages]]
 ** [[https://nixos.org/manual/nixos/stable/][Nixos Manual]]
 ** [[https://nixos.org/manual/nixpkgs/stable/][Nixpkgs]]
-** [[https://rycee.gitlab.io/home-manager/options.html][home-manager options]]
+** [[https://rycee.gitlab.io/home-manager/options.xhtml][home manager options]]
 ** [[https://nixos.wiki/wiki/Firefox][Firefox]]
 ** [[https://nixos.wiki/wiki/Fwupd][Fwupd]]
 * unix
