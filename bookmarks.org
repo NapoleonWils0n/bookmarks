@@ -348,6 +348,14 @@
 ** [[http://www.i3s.unice.fr/~malapert/org/tips/emacs_orgmode.html][Yet Another Org-Mode Configuration]]
 ** [[https://github.com/SystemCrafters][System Crafters · GitHub]] :github:
 ** [[https://caiorss.github.io/Emacs-Elisp-Programming/Elisp_Snippets.html][Elisp Snippets]] :emacs:
+* nixos
+** [[https://nixos.org/manual/nix/stable/introduction.html][Introduction]]
+** [[https://discourse.nixos.org/][Nix Discord]]
+** [[https://nixos.org/][NixOS Linux]]
+** [[https://search.nixos.org/packages][NixOS Packages]]
+** [[https://nixos.org/manual/nixos/stable/][Nixos Manual]]
+** [[https://nixos.org/manual/nixpkgs/stable/][Nixpkgs]]
+** [[https://rycee.gitlab.io/home-manager/options.html][home-manager options]]
 * unix
 ** [[https://www.grymoire.com/Unix/Awk.html][Awk - A Tutorial and Introduction - by Bruce Barnett]] :unix:
 ** [[https://www.grymoire.com/Unix/Bourne.html][Bourne Shell Tutorial]] :unix:
@@ -1055,14 +1063,6 @@ Download and decrypt AES-128 .m3u8 playlists
 ** [[http://www.openbsd.org/i386.html][OpenBSD/i386]]
 ** [[http://openports.se/][OpenPorts.se | The OpenBSD package collection]]
 ** [[http://www.packetmischief.ca/2011/09/20/virtualizing-the-openbsd-routing-table/][Virtualizing the OpenBSD Routing Table | packetmischief.ca]]
-* nixos
-** [[https://nixos.org/manual/nix/stable/introduction.html][Introduction]]
-** [[https://discourse.nixos.org/][Nix Discord]]
-** [[https://nixos.org/][NixOS Linux]]
-** [[https://search.nixos.org/packages][NixOS Packages]]
-** [[https://nixos.org/manual/nixos/stable/][Nixos Manual]]
-** [[https://nixos.org/manual/nixpkgs/stable/][Nixpkgs]]
-** [[https://rycee.gitlab.io/home-manager/options.html][home-manager options]]
 * xmonad
 ** [[https://unix.stackexchange.com/questions/436787/system-tray-icons-on-xmonad-xmobar-or-any-other-minimal-status-bar][window manager - System Tray Icons on Xmonad - Xmobar Or any other minimal status bar - Unix & Linux Stack Exchange]] :xmonad:
 ** [[https://xmonad.org/][xmonad - the tiling window manager that rocks]]:xmonad: 
