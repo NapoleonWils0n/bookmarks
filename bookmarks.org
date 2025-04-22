@@ -356,6 +356,7 @@
 ** [[https://nixos.org/manual/nixos/stable/][Nixos Manual]]
 ** [[https://nixos.org/manual/nixpkgs/stable/][Nixpkgs]]
 ** [[https://rycee.gitlab.io/home-manager/options.html][home-manager options]]
+** [[https://nixos.wiki/wiki/Firefox][Firefox]]
 * unix
 ** [[https://www.grymoire.com/Unix/Awk.html][Awk - A Tutorial and Introduction - by Bruce Barnett]] :unix:
 ** [[https://www.grymoire.com/Unix/Bourne.html][Bourne Shell Tutorial]] :unix:
