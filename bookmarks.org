@@ -12,8 +12,6 @@
 ** [[https://odysee.com/@NapoleonWils0n:6][NapoleonWilson - odysee]]
 ** [[https://127.0.0.1:8384][syncthing]]
 ** [[http://192.168.1.1/][pfsense]]
-* discord
-** [[https://discord.com/channels/1245221993746399232/1270589667359592470][pixaroma]]
 * topsites
 ** [[https://www.youtube.com][youtube]]
 ** [[https://gemini.google.com/][gemini]]
@@ -80,6 +78,8 @@
 ** [[https://torrentgalaxy.to][torrentgalaxy]]
 ** [[https://torrentgalaxy.to/forums.php?action=viewtopic&topicid=138&page=1][torrentgalaxy - rss]]
 ** [[https://zooqle.com][zooqle]]
+* discord
+** [[https://discord.com/channels/1245221993746399232/1270589667359592470][pixaroma]]
 * sites
   :PROPERTIES:
   :CUSTOM_ID: sites
