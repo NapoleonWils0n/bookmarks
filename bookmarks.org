@@ -78,8 +78,6 @@
 ** [[https://torrentgalaxy.to][torrentgalaxy]]
 ** [[https://torrentgalaxy.to/forums.php?action=viewtopic&topicid=138&page=1][torrentgalaxy - rss]]
 ** [[https://zooqle.com][zooqle]]
-* discord
-** [[https://discord.com/channels/1245221993746399232/1270589667359592470][pixaroma]]
 * sites
   :PROPERTIES:
   :CUSTOM_ID: sites
@@ -124,6 +122,16 @@
 ** [[https://en.wikipedia.org/wiki/ICalendar][iCalendar - Wikipedia]] 
 ** [[https://developer.mozilla.org/en-US/docs/Web/API/WebVTT_API][mozilla webvtt]]
 ** [[https://www.w3.org/TR/webvtt1/][webvtt]]
+* nixos
+** [[https://nixos.org/manual/nix/stable/introduction.html][Introduction]]
+** [[https://discourse.nixos.org/][Nix Discord]]
+** [[https://nixos.org/][NixOS Linux]]
+** [[https://search.nixos.org/packages][NixOS Packages]]
+** [[https://nixos.org/manual/nixos/stable/][Nixos Manual]]
+** [[https://nixos.org/manual/nixpkgs/stable/][Nixpkgs]]
+** [[https://rycee.gitlab.io/home-manager/options.xhtml][home manager options]]
+** [[https://nixos.wiki/wiki/Firefox][Firefox]]
+** [[https://nixos.wiki/wiki/Fwupd][Fwupd]]
 * freebsd
    :PROPERTIES:
    :CUSTOM_ID: freebsd
@@ -352,16 +360,6 @@
 ** [[http://www.i3s.unice.fr/~malapert/org/tips/emacs_orgmode.html][Yet Another Org-Mode Configuration]]
 ** [[https://github.com/SystemCrafters][System Crafters · GitHub]] :github:
 ** [[https://caiorss.github.io/Emacs-Elisp-Programming/Elisp_Snippets.html][Elisp Snippets]] :emacs:
-* nixos
-** [[https://nixos.org/manual/nix/stable/introduction.html][Introduction]]
-** [[https://discourse.nixos.org/][Nix Discord]]
-** [[https://nixos.org/][NixOS Linux]]
-** [[https://search.nixos.org/packages][NixOS Packages]]
-** [[https://nixos.org/manual/nixos/stable/][Nixos Manual]]
-** [[https://nixos.org/manual/nixpkgs/stable/][Nixpkgs]]
-** [[https://rycee.gitlab.io/home-manager/options.xhtml][home manager options]]
-** [[https://nixos.wiki/wiki/Firefox][Firefox]]
-** [[https://nixos.wiki/wiki/Fwupd][Fwupd]]
 * unix
 ** [[https://www.grymoire.com/Unix/Awk.html][Awk - A Tutorial and Introduction - by Bruce Barnett]] :unix:
 ** [[https://www.grymoire.com/Unix/Bourne.html][Bourne Shell Tutorial]] :unix:
@@ -1018,6 +1016,8 @@ Download and decrypt AES-128 .m3u8 playlists
 ** [[https://github.com/jedisct1/dnscrypt-proxy/blob/master/dnscrypt-resolvers.csv][dnscrypt-proxy/dnscrypt-resolvers.csv at master · jedisct1/dnscrypt-proxy · GitHub]]
 ** [[https://github.com/jedisct1/dnscrypt-server-docker][GitHub - jedisct1/dnscrypt-server-docker: A Docker image for a non-censoring, non-logging, DNSSEC-capable, DNSCrypt-enabled DNS resolver]]
 ** [[http://linoxide.com/tools/install-dnscrypt-unbound-archlinux/][How to Install DNSCrypt and Unbound in Arch Linux]]
+* discord
+** [[https://discord.com/channels/1245221993746399232/1270589667359592470][pixaroma]]
 * davinci
 ** [[https://www.youtube.com/@DarrenMostyn/videos][DarrenMostyn]]
 ** [[https://www.youtube.com/@CaseyFaris/videos][CaseyFaris]]
