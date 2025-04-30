@@ -132,6 +132,8 @@
 ** [[https://rycee.gitlab.io/home-manager/options.xhtml][home manager options]]
 ** [[https://nixos.wiki/wiki/Firefox][Firefox]]
 ** [[https://nixos.wiki/wiki/Fwupd][Fwupd]]
+* discord
+** [[https://discord.com/channels/1245221993746399232/1270589667359592470][pixaroma]]
 * freebsd
    :PROPERTIES:
    :CUSTOM_ID: freebsd
@@ -1016,8 +1018,6 @@ Download and decrypt AES-128 .m3u8 playlists
 ** [[https://github.com/jedisct1/dnscrypt-proxy/blob/master/dnscrypt-resolvers.csv][dnscrypt-proxy/dnscrypt-resolvers.csv at master · jedisct1/dnscrypt-proxy · GitHub]]
 ** [[https://github.com/jedisct1/dnscrypt-server-docker][GitHub - jedisct1/dnscrypt-server-docker: A Docker image for a non-censoring, non-logging, DNSSEC-capable, DNSCrypt-enabled DNS resolver]]
 ** [[http://linoxide.com/tools/install-dnscrypt-unbound-archlinux/][How to Install DNSCrypt and Unbound in Arch Linux]]
-* discord
-** [[https://discord.com/channels/1245221993746399232/1270589667359592470][pixaroma]]
 * davinci
 ** [[https://www.youtube.com/@DarrenMostyn/videos][DarrenMostyn]]
 ** [[https://www.youtube.com/@CaseyFaris/videos][CaseyFaris]]
