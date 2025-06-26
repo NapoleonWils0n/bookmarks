@@ -124,6 +124,7 @@
 ** [[https://www.w3.org/TR/webvtt1/][webvtt]]
 * nixos
 ** [[https://nixos.org/manual/nix/stable/introduction.html][Introduction]]
+** [[https://nixos-and-flakes.thiscute.world][Nixos Flakes]]
 ** [[https://discourse.nixos.org/][Nix Discord]]
 ** [[https://nixos.org/][NixOS Linux]]
 ** [[https://search.nixos.org/packages][NixOS Packages]]
