@@ -211,6 +211,7 @@
 ** [[https://karthinks.com/software/tool-use-with-gptel-looking-for-testers/][gptel tool use]]
 ** [[https://www.reddit.com/r/emacs/comments/1hqyuvn/getting_llms_to_do_things_tool_use_with_gptel/][gptel tools reddit]]
 ** [[https://github.com/karthink/gptel/issues/514][gptel tools functions]]
+** [[https://github.com/karthink/gptel/wiki/Tools-collection][gptel tools collection]]
 ** [[http://users.skynet.be/ppareit/projects/graphviz-dot-mode/graphviz-dot-mode.html][Graphviz dot mode for emacs]]
 ** [[https://emacsthemes.com/themes/green-phosphor-theme.html][Green Phosphor Theme | Emacs Themes]]
 ** [[http://orgmode.org/manual/Handling-links.html][Handling links - The Org Manual]] :website:
