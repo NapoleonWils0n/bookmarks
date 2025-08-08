@@ -133,84 +133,6 @@
 ** [[https://rycee.gitlab.io/home-manager/options.xhtml][home manager options]]
 ** [[https://nixos.wiki/wiki/Firefox][Firefox]]
 ** [[https://nixos.wiki/wiki/Fwupd][Fwupd]]
-* discord
-** [[https://discord.com/channels/1245221993746399232/1270589667359592470][pixaroma]]
-* freebsd
-   :PROPERTIES:
-   :CUSTOM_ID: freebsd
-   :add_date: 1532888452
-   :last_modified: 1543273395
-   :END:
-** [[https://www.ixsystems.com/blog/a-closer-look-at-the-changes-in-pc-bsd-trueos-9-2-part-2/][A Closer Look at the Changes in PC-BSD/ TrueOS 9.2. Part 2]]
-** [[https://cooltrainer.org/a-freebsd-desktop-howto/][A FreeBSD 10 Desktop How-to » Cooltrainer.org]] :website:
-** [[https://cooltrainer.org/a-freebsd-desktop-howto/][A FreeBSD 10 Desktop How-to » Cooltrainer.org]] :website:
-** [[https://www.skyforge.at/posts/an-introduction-to-jails-and-jail-networking/][An Introduction to Jails and Jail Networking]]
-** [[https://forums.freebsd.org/threads/asmc-create-new-entry-for-macbook-air-4-1.60406/][asmc create new entry for macbook air 4,1 | The FreeBSD Forums]]
-** [[https://riptutorial.com/freebsd/example/23760/deploying-jail][Deploying jail | freebsd Tutorial]]
-** [[https://clinta.github.io/freebsd-jails-the-hard-way/][Devops Discoveries]]
-** [[https://https.www.google.com.tedunangst.com/flak/post/doas-mastery][doas mastery]] :freebsd:doas:
-** [[https://savagedlight.me/2014/03/07/freebsd-jail-host-with-multiple-local-networks/][FreeBSD jail host with multiple local networks]]
-** [[http://www.bsdnow.tv/tutorials/pefs][Filesystem-based encryption with PEFS | BSD Now]]
-** [[https://blather.michaelwlucas.com/archives/2363][FreeBSD and beadm « blather.michaelwlucas.com]]
-** [[https://vermaden.wordpress.com/2018/03/29/freebsd-desktop-part-1-simplified-boot/][FreeBSD Desktop -- Part 1 -- Simplified Boot | vermaden]]
-** [[https://vermaden.wordpress.com/2018/04/11/freebsd-desktop-part-2-install/][FreeBSD Desktop -- Part 2 -- Install | vermaden]]
-** [[https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/index.html][FreeBSD Handbook]]
-** [[http://kbeezie.com/freebsd-jail-single-ip/][FreeBSD Jail with Single IP » KBeezie]]
-** [[https://medium.com/@zenlot/freebsd-jails-quick-start-64235c6a4361][FreeBSD Jails Quick Start]]
-** [[https://www.davd.eu/posts-freebsd-jails-with-a-single-public-ip-address/][FreeBSD jails with a single public IP address - davd.eu]]
-** [[https://www.c0ffee.net/blog/freebsd-on-a-laptop/][FreeBSD on a Laptop]]
-** [[https://www.c0ffee.net/blog/freebsd-on-a-laptop][FreeBSD on a Laptop]]
-** [[https://www.davidschlachter.com/misc/freebsd-obs-virtualcam][freebsd-obs-virtualcam]]
-** [[https://jacob.ludriks.com/2017/06/07/FreeBSD-Thin-Jails/][FreeBSD Thin Jails - Jacob Ludriks]]
-** [[https://github.com/genneko/freebsd-vimage-jails][freebsd-vimage-jails]]
-** [[https://www.c0ffee.net/blog/freebsd-full-disk-encryption-uefi/][FreeBSD: Full-Disk Encryption + UEFI]]
-** [[https://www.freebsdnews.com/][FreeBSDNews - FreeBSDNews.com]] :freebsd:
-** [[https://tvheadend.org/boards/4/topics/32799][Freenas + Tvheadend Jail]]
-** [[https://www.dan.me.uk/blog/2012/08/05/full-system-backups-for-freebsd-systems-using-zfs/][Full system backups for FreeBSD systems using ZFS | Dan's Blog]]
-** [[https://github.com/jarun/nnn][GitHub - jarun/nnn: The fastest terminal]]
-** [[https://nicolargo.github.io/glances/][Glances - An Eye on your system]] :freebsd:
-** [[https://www.kirkg.us/posts/how-to-configure-a-freebsd-jail-on-a-digital-ocean-droplet/][How to configure a FreeBSD Jail on a Digital Ocean Droplet | kirkg.us]]
-** [[https://www.cyberciti.biz/faq/how-to-configure-a-freebsd-jail-with-vnet-and-zfs/][How to configure a FreeBSD Jail with vnet and ZFS - nixCraft]]
-** [[https://www.digitalocean.com/community/tutorials/how-to-configure-an-encrypted-zfs-pool-with-digitalocean-block-storage-on-freebsd][How To Configure an Encrypted ZFS Pool with DigitalOcean Block Storage on FreeBSD]]
-** [[https://www.adminbyaccident.com/freebsd/how-to-freebsd/how-to-mitigate-spectre-and-meltdown-on-an-hp-proliant-server-with-freebsd/][How to mitigate Spectre and Meltdown on an HP Proliant server with FreeBSD]]
-** [[https://forums.freebsd.org/threads/55610/][How to prepend localhost in /etc/resolv.conf on a DNS server | The FreeBSD Forums]] :website:
-** [[https://www.digitalocean.com/community/tutorials/how-to-set-up-a-poudriere-build-system-to-create-packages-for-your-freebsd-servers][How To Set Up a Poudriere Build System to Create Packages for your FreeBSD Servers | DigitalOcean]] :freebsd:
-** [[https://forums.freebsd.org/threads/howto-freebsd-10-1-amd64-uefi-boot-with-encrypted-zfs-root-using-geli.51393/][HOWTO: FreeBSD 10.1 amd64 UEFI boot with encrypted ZFS root using GELI]]
-** [[https://wiki.bsdforen.de/howto:festplattenverschluesselung_mit_pefs?s%5B%5D=pefs][howto:festplattenverschluesselung\_mit\_pefs]]
-** [[https://kzimmermann.0x.no/articles/installing_freebsd_usb_drive.html][install freebsd on a usb drive]]
-** [[http://jornane.me/doc/freebsd-jail/][Jails in FreeBSD 10]]
-** [[https://forums.freebsd.org/threads/labeling-partitions-done-right-on-modern-computers.69250/#post-427174][Labeling partitions done right on modern computers. | The FreeBSD Forums]] :freebsd:
-** [[https://genneko.github.io/playing-with-bsd/system/learning-notes-on-jails/][Learning Notes on FreeBSD Jails - genneko]]
-** [[https://unix.stackexchange.com/questions/175814/list-all-connected-devices-in-freebsd/175822][List all connected devices in FreeBSD - Unix & Linux Stack Exchange]]
-** [[https://blog.feld.me/posts/2015/06/routing-a-freebsd-jail-through-openvpn/][Makefile.feld - Routing a FreeBSD Jail through OpenVPN]] :website:
-** [[https://www.bsdnow.tv/tutorials/poudriere][Making a binary package repository with poudriere | BSD Now]]
-** [[https://meka.rs/blog/2017/01/25/sing-beastie-sing/][meka - Goran Mekic - hacker and a musician]]
-** [[https://dan.langille.org/2015/03/11/modifying-a-zfs-root-system-to-a-beadm-layout/][Modifying a ZFS root system to a beadm layout]]
-** [[https://marcel443.wordpress.com/2017/07/28/multiplex-and-demultiplex-an-oss-device-with-audiovirtual_oss/][Multiplex and demultiplex an OSS device with audio/virtual\_oss | Marcel's Blog]]
-** [[https://newsboat.org/][Newsboat, an RSS reader]]
-** [[https://forums.freebsd.org/threads/oss-sound-quality.69335/][OSS Sound Quality | The FreeBSD Forums]] :freebsd:
-** [[http://pefs.io/][PEFS - Private Encrypted File System]]
-** [[https://lists.freebsd.org/pipermail/freebsd-current/2010-September/019691.html][pefs - stacked cryptographic filesystem]]
-** [[https://www.youtube.com/watch?v=9KBczNMp7DM][PEFS encrypted user home directories]]
-** [[http://www.etalabs.net/sh_tricks.html][Rich’s sh (POSIX shell) tricks]] :sh:
-** [[https://ramsdenj.com/2017/06/05/nextcloud-in-a-jail-on-freebsd.html][Running Nextcloud in a jail on FreeBSD]]
-** [[https://krj-notes.readthedocs.io/en/latest/nix_admin/jails.html][Setting up a jail in FreeBSD]]
-** [[https://wiki.freebsd.org/SteveWills/BTSpeaker][SteveWills/BTSpeaker -FreeBSD Wiki]]
-** [[https://suckless.org/][suckless.org software that sucks less]]
-** [[https://forums.freebsd.org/][The FreeBSD Forums]]
-** [[https://newsbeuter.org/doc/newsbeuter.html][The Newsbeuter RSS Feedreader]]
-** [[https://www.trueos.org/handbook/trueos.html][TrueOS User Guide]]
-** [[http://www.bsdnow.tv/tutorials/][Tutorials | BSD Now]]
-** [[https://wiki.freebsd.org/UEFI][UEFI - FreeBSD Wiki]]
-** [[https://dan.langille.org/2015/03/13/upgrading-from-freebsd-9-3-to-freebsd-10-1-using-beadm-and-freebsd-update/][Upgrading from FreeBSD 9.3 to FreeBSD 10.1 using beadm and freebsd-update]]
-** [[https://www.davidschlachter.com/misc/freebsd-webcam-browser][Using a webcam on FreeBSD in web browsers]] :freebsd:
-** [[https://medium.com/chris-opperwall/using-jails-with-zfs-and-pf-on-digitalocean-b25b1da82e20][Using Jails with ZFS and PF on DigitalOcean -- The OpperBlog -- Medium]]
-** [[https://vermaden.wordpress.com/][vermaden]]
-** [[https://forums.freebsd.org/threads/video-problem-configuring-pefs-on-a-home-directory.57448/][Video: problem configuring PEFS on a home directory | The FreeBSD Forums]]
-** [[https://wiki.freebsd.org/VladimirKrstulja/Guides/Jails][VladimirKrstulja/Guides/Jails - FreeBSD Wiki]]
-** [[https://wiki.freebsd.org/VladimirKrstulja/Guides/Poudriere][VladimirKrstulja/Guides/Poudriere -FreeBSD Wiki]]
-** [[https://bsdimp.blogspot.com/2020/10/how-to-recover-from-bios-upgrade.html][Warner's Random Hacking Blog: How to Recover From a BIOS Upgrade]] :freebsd:
-** [[https://docs.oracle.com/cd/E19253-01/819-5461/index.html][zfs oracle]]
 * emacs
    :PROPERTIES:
    :CUSTOM_ID: emacs
@@ -363,6 +285,8 @@
 ** [[http://www.i3s.unice.fr/~malapert/org/tips/emacs_orgmode.html][Yet Another Org-Mode Configuration]]
 ** [[https://github.com/SystemCrafters][System Crafters · GitHub]] :github:
 ** [[https://caiorss.github.io/Emacs-Elisp-Programming/Elisp_Snippets.html][Elisp Snippets]] :emacs:
+* discord
+** [[https://discord.com/channels/1245221993746399232/1270589667359592470][pixaroma]]
 * unix
 ** [[https://www.grymoire.com/Unix/Awk.html][Awk - A Tutorial and Introduction - by Bruce Barnett]] :unix:
 ** [[https://www.grymoire.com/Unix/Bourne.html][Bourne Shell Tutorial]] :unix:
@@ -1024,6 +948,82 @@ Download and decrypt AES-128 .m3u8 playlists
 ** [[https://www.youtube.com/@CaseyFaris/videos][CaseyFaris]]
 ** [[https://www.youtube.com/@BandH/videos][BandH]]
 ** [[https://www.youtube.com/@JasonYadlovski/videos][JasonYadlovski]]
+* freebsd
+   :PROPERTIES:
+   :CUSTOM_ID: freebsd
+   :add_date: 1532888452
+   :last_modified: 1543273395
+   :END:
+** [[https://www.ixsystems.com/blog/a-closer-look-at-the-changes-in-pc-bsd-trueos-9-2-part-2/][A Closer Look at the Changes in PC-BSD/ TrueOS 9.2. Part 2]]
+** [[https://cooltrainer.org/a-freebsd-desktop-howto/][A FreeBSD 10 Desktop How-to » Cooltrainer.org]] :website:
+** [[https://cooltrainer.org/a-freebsd-desktop-howto/][A FreeBSD 10 Desktop How-to » Cooltrainer.org]] :website:
+** [[https://www.skyforge.at/posts/an-introduction-to-jails-and-jail-networking/][An Introduction to Jails and Jail Networking]]
+** [[https://forums.freebsd.org/threads/asmc-create-new-entry-for-macbook-air-4-1.60406/][asmc create new entry for macbook air 4,1 | The FreeBSD Forums]]
+** [[https://riptutorial.com/freebsd/example/23760/deploying-jail][Deploying jail | freebsd Tutorial]]
+** [[https://clinta.github.io/freebsd-jails-the-hard-way/][Devops Discoveries]]
+** [[https://https.www.google.com.tedunangst.com/flak/post/doas-mastery][doas mastery]] :freebsd:doas:
+** [[https://savagedlight.me/2014/03/07/freebsd-jail-host-with-multiple-local-networks/][FreeBSD jail host with multiple local networks]]
+** [[http://www.bsdnow.tv/tutorials/pefs][Filesystem-based encryption with PEFS | BSD Now]]
+** [[https://blather.michaelwlucas.com/archives/2363][FreeBSD and beadm « blather.michaelwlucas.com]]
+** [[https://vermaden.wordpress.com/2018/03/29/freebsd-desktop-part-1-simplified-boot/][FreeBSD Desktop -- Part 1 -- Simplified Boot | vermaden]]
+** [[https://vermaden.wordpress.com/2018/04/11/freebsd-desktop-part-2-install/][FreeBSD Desktop -- Part 2 -- Install | vermaden]]
+** [[https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/index.html][FreeBSD Handbook]]
+** [[http://kbeezie.com/freebsd-jail-single-ip/][FreeBSD Jail with Single IP » KBeezie]]
+** [[https://medium.com/@zenlot/freebsd-jails-quick-start-64235c6a4361][FreeBSD Jails Quick Start]]
+** [[https://www.davd.eu/posts-freebsd-jails-with-a-single-public-ip-address/][FreeBSD jails with a single public IP address - davd.eu]]
+** [[https://www.c0ffee.net/blog/freebsd-on-a-laptop/][FreeBSD on a Laptop]]
+** [[https://www.c0ffee.net/blog/freebsd-on-a-laptop][FreeBSD on a Laptop]]
+** [[https://www.davidschlachter.com/misc/freebsd-obs-virtualcam][freebsd-obs-virtualcam]]
+** [[https://jacob.ludriks.com/2017/06/07/FreeBSD-Thin-Jails/][FreeBSD Thin Jails - Jacob Ludriks]]
+** [[https://github.com/genneko/freebsd-vimage-jails][freebsd-vimage-jails]]
+** [[https://www.c0ffee.net/blog/freebsd-full-disk-encryption-uefi/][FreeBSD: Full-Disk Encryption + UEFI]]
+** [[https://www.freebsdnews.com/][FreeBSDNews - FreeBSDNews.com]] :freebsd:
+** [[https://tvheadend.org/boards/4/topics/32799][Freenas + Tvheadend Jail]]
+** [[https://www.dan.me.uk/blog/2012/08/05/full-system-backups-for-freebsd-systems-using-zfs/][Full system backups for FreeBSD systems using ZFS | Dan's Blog]]
+** [[https://github.com/jarun/nnn][GitHub - jarun/nnn: The fastest terminal]]
+** [[https://nicolargo.github.io/glances/][Glances - An Eye on your system]] :freebsd:
+** [[https://www.kirkg.us/posts/how-to-configure-a-freebsd-jail-on-a-digital-ocean-droplet/][How to configure a FreeBSD Jail on a Digital Ocean Droplet | kirkg.us]]
+** [[https://www.cyberciti.biz/faq/how-to-configure-a-freebsd-jail-with-vnet-and-zfs/][How to configure a FreeBSD Jail with vnet and ZFS - nixCraft]]
+** [[https://www.digitalocean.com/community/tutorials/how-to-configure-an-encrypted-zfs-pool-with-digitalocean-block-storage-on-freebsd][How To Configure an Encrypted ZFS Pool with DigitalOcean Block Storage on FreeBSD]]
+** [[https://www.adminbyaccident.com/freebsd/how-to-freebsd/how-to-mitigate-spectre-and-meltdown-on-an-hp-proliant-server-with-freebsd/][How to mitigate Spectre and Meltdown on an HP Proliant server with FreeBSD]]
+** [[https://forums.freebsd.org/threads/55610/][How to prepend localhost in /etc/resolv.conf on a DNS server | The FreeBSD Forums]] :website:
+** [[https://www.digitalocean.com/community/tutorials/how-to-set-up-a-poudriere-build-system-to-create-packages-for-your-freebsd-servers][How To Set Up a Poudriere Build System to Create Packages for your FreeBSD Servers | DigitalOcean]] :freebsd:
+** [[https://forums.freebsd.org/threads/howto-freebsd-10-1-amd64-uefi-boot-with-encrypted-zfs-root-using-geli.51393/][HOWTO: FreeBSD 10.1 amd64 UEFI boot with encrypted ZFS root using GELI]]
+** [[https://wiki.bsdforen.de/howto:festplattenverschluesselung_mit_pefs?s%5B%5D=pefs][howto:festplattenverschluesselung\_mit\_pefs]]
+** [[https://kzimmermann.0x.no/articles/installing_freebsd_usb_drive.html][install freebsd on a usb drive]]
+** [[http://jornane.me/doc/freebsd-jail/][Jails in FreeBSD 10]]
+** [[https://forums.freebsd.org/threads/labeling-partitions-done-right-on-modern-computers.69250/#post-427174][Labeling partitions done right on modern computers. | The FreeBSD Forums]] :freebsd:
+** [[https://genneko.github.io/playing-with-bsd/system/learning-notes-on-jails/][Learning Notes on FreeBSD Jails - genneko]]
+** [[https://unix.stackexchange.com/questions/175814/list-all-connected-devices-in-freebsd/175822][List all connected devices in FreeBSD - Unix & Linux Stack Exchange]]
+** [[https://blog.feld.me/posts/2015/06/routing-a-freebsd-jail-through-openvpn/][Makefile.feld - Routing a FreeBSD Jail through OpenVPN]] :website:
+** [[https://www.bsdnow.tv/tutorials/poudriere][Making a binary package repository with poudriere | BSD Now]]
+** [[https://meka.rs/blog/2017/01/25/sing-beastie-sing/][meka - Goran Mekic - hacker and a musician]]
+** [[https://dan.langille.org/2015/03/11/modifying-a-zfs-root-system-to-a-beadm-layout/][Modifying a ZFS root system to a beadm layout]]
+** [[https://marcel443.wordpress.com/2017/07/28/multiplex-and-demultiplex-an-oss-device-with-audiovirtual_oss/][Multiplex and demultiplex an OSS device with audio/virtual\_oss | Marcel's Blog]]
+** [[https://newsboat.org/][Newsboat, an RSS reader]]
+** [[https://forums.freebsd.org/threads/oss-sound-quality.69335/][OSS Sound Quality | The FreeBSD Forums]] :freebsd:
+** [[http://pefs.io/][PEFS - Private Encrypted File System]]
+** [[https://lists.freebsd.org/pipermail/freebsd-current/2010-September/019691.html][pefs - stacked cryptographic filesystem]]
+** [[https://www.youtube.com/watch?v=9KBczNMp7DM][PEFS encrypted user home directories]]
+** [[http://www.etalabs.net/sh_tricks.html][Rich’s sh (POSIX shell) tricks]] :sh:
+** [[https://ramsdenj.com/2017/06/05/nextcloud-in-a-jail-on-freebsd.html][Running Nextcloud in a jail on FreeBSD]]
+** [[https://krj-notes.readthedocs.io/en/latest/nix_admin/jails.html][Setting up a jail in FreeBSD]]
+** [[https://wiki.freebsd.org/SteveWills/BTSpeaker][SteveWills/BTSpeaker -FreeBSD Wiki]]
+** [[https://suckless.org/][suckless.org software that sucks less]]
+** [[https://forums.freebsd.org/][The FreeBSD Forums]]
+** [[https://newsbeuter.org/doc/newsbeuter.html][The Newsbeuter RSS Feedreader]]
+** [[https://www.trueos.org/handbook/trueos.html][TrueOS User Guide]]
+** [[http://www.bsdnow.tv/tutorials/][Tutorials | BSD Now]]
+** [[https://wiki.freebsd.org/UEFI][UEFI - FreeBSD Wiki]]
+** [[https://dan.langille.org/2015/03/13/upgrading-from-freebsd-9-3-to-freebsd-10-1-using-beadm-and-freebsd-update/][Upgrading from FreeBSD 9.3 to FreeBSD 10.1 using beadm and freebsd-update]]
+** [[https://www.davidschlachter.com/misc/freebsd-webcam-browser][Using a webcam on FreeBSD in web browsers]] :freebsd:
+** [[https://medium.com/chris-opperwall/using-jails-with-zfs-and-pf-on-digitalocean-b25b1da82e20][Using Jails with ZFS and PF on DigitalOcean -- The OpperBlog -- Medium]]
+** [[https://vermaden.wordpress.com/][vermaden]]
+** [[https://forums.freebsd.org/threads/video-problem-configuring-pefs-on-a-home-directory.57448/][Video: problem configuring PEFS on a home directory | The FreeBSD Forums]]
+** [[https://wiki.freebsd.org/VladimirKrstulja/Guides/Jails][VladimirKrstulja/Guides/Jails - FreeBSD Wiki]]
+** [[https://wiki.freebsd.org/VladimirKrstulja/Guides/Poudriere][VladimirKrstulja/Guides/Poudriere -FreeBSD Wiki]]
+** [[https://bsdimp.blogspot.com/2020/10/how-to-recover-from-bios-upgrade.html][Warner's Random Hacking Blog: How to Recover From a BIOS Upgrade]] :freebsd:
+** [[https://docs.oracle.com/cd/E19253-01/819-5461/index.html][zfs oracle]]
 * pentest
   :PROPERTIES:
   :CUSTOM_ID: pentest
