@@ -285,8 +285,6 @@
 ** [[http://www.i3s.unice.fr/~malapert/org/tips/emacs_orgmode.html][Yet Another Org-Mode Configuration]]
 ** [[https://github.com/SystemCrafters][System Crafters · GitHub]] :github:
 ** [[https://caiorss.github.io/Emacs-Elisp-Programming/Elisp_Snippets.html][Elisp Snippets]] :emacs:
-* discord
-** [[https://discord.com/channels/1245221993746399232/1270589667359592470][pixaroma]]
 * unix
 ** [[https://www.grymoire.com/Unix/Awk.html][Awk - A Tutorial and Introduction - by Bruce Barnett]] :unix:
 ** [[https://www.grymoire.com/Unix/Bourne.html][Bourne Shell Tutorial]] :unix:
@@ -1078,6 +1076,8 @@ Download and decrypt AES-128 .m3u8 playlists
 * haskell
 ** [[https://www.youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV][Haskell for Imperative Programmers]] :youtube:
 ** [[http://learnyouahaskell.com/][learnyouahaskell]]
+* discord
+** [[https://discord.com/channels/1245221993746399232/1270589667359592470][pixaroma]]
 * gollum wiki
   :PROPERTIES:
   :CUSTOM_ID: gollum-wiki
