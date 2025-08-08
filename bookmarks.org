@@ -224,7 +224,7 @@
 ** http://orgmode.org/manual/Capture.html :website:
 ** http://www.mediaonfire.com/blog/2017_07_21_org_protocol_firefox.html 
 ** https://emacs.stackexchange.com/questions/185/can-i-avoid-outdated-byte-compiled-elisp-files :website:
-** https://emacs.stackexchange.com/questions/34637/how-to-insert-text-immediately-before-a-link-at-the-start-of-a-line-in-org-mod :website:
+** [[https://emacs.stackexchange.com/questions/34637/how-to-insert-text-immediately-before-a-link-at-the-start-of-a-line-in-org-mod][insert text before link]]
 ** https://github.com/alphapapa/org-protocol-capture-html :website:
 ** https://github.com/sprig/org-capture-extension :website:
 ** https://i3wm.org/docs/userguide.html 
