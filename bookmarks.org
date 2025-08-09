@@ -143,7 +143,7 @@
 ** [[https://github.com/sachac][sacha chua github]]
 ** [[https://www.masteringemacs.org/article/introduction-magit-emacs-mode-git][An introduction to Magit, an Emacs mode for Git - Mastering Emacs]]
 ** [[https://joelmccracken.github.io/entries/org-mode-jekyll-plugin/][An Org-Mode Jekyll Plugin]]
-** [[https://stackoverflow.com/questions/20055181/how-to-disable-case-sensitivity-for-filename-auto-completion-in-emacs-24-shell-m][autocomplete - How to disable case-sensitivity for filename auto-completion in Emacs 24 shell-mode? - Stack Overflow]]
+** [[https://stackoverflow.com/questions/20055181/how-to-disable-case-sensitivity-for-filename-auto-completion-in-emacs-24-shell-m][autocomplete - How to disable case-sensitivity for filename auto-completion ]]
 ** [[http://orgmode.org/worg/org-contrib/babel/][Babel: active code in Org-mode]]
 ** [[https://blog.garage-coding.com/2015/02/07/blog-setup.html][Blog setup using Jekyll and Org-Mode]]
 ** [[http://emacs-doctor.com/blogging-from-emacs.html][Blogging from GNU Emacs]]
