@@ -213,6 +213,7 @@
 ** [[https://www.reddit.com/r/emacs/comments/1hqyuvn/getting_llms_to_do_things_tool_use_with_gptel/][gptel tools reddit]]
 ** [[https://github.com/karthink/gptel/issues/514][gptel tools functions]]
 ** [[https://github.com/munen/emacs.d?tab=readme-ov-file#tool-use][gptel tool usage]]
+** [[https://github.com/gregoryg/emacs-gregoryg?tab=readme-ov-file#gptel---llms-in-markdown-and-org-mode][gptel gregg grubs]]
 ** [[http://users.skynet.be/ppareit/projects/graphviz-dot-mode/graphviz-dot-mode.html][Graphviz dot mode for emacs]]
 ** [[https://emacsthemes.com/themes/green-phosphor-theme.html][Green Phosphor Theme | Emacs Themes]]
 ** [[http://orgmode.org/manual/Handling-links.html][Handling links - The Org Manual]] :website:
