@@ -121,6 +121,7 @@
 ** [[https://en.wikipedia.org/wiki/ICalendar][iCalendar - Wikipedia]] 
 ** [[https://developer.mozilla.org/en-US/docs/Web/API/WebVTT_API][mozilla webvtt]]
 ** [[https://www.w3.org/TR/webvtt1/][webvtt]]
+* n8n
 * nixos
 ** [[https://nixos.org/manual/nix/stable/introduction.html][Introduction]]
 ** [[https://nixos-and-flakes.thiscute.world][Nixos Flakes]]
