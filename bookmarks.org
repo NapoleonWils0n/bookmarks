@@ -123,6 +123,7 @@
 ** [[https://www.w3.org/TR/webvtt1/][webvtt]]
 * n8n
 ** [[https://docs.n8n.io/][n8n docs]]
+** [[https://docs.n8n.io/integrations/][n8n integrations]]
 * nixos
 ** [[https://nixos.org/manual/nix/stable/introduction.html][Introduction]]
 ** [[https://nixos-and-flakes.thiscute.world][Nixos Flakes]]
