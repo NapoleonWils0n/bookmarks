@@ -122,6 +122,7 @@
 ** [[https://developer.mozilla.org/en-US/docs/Web/API/WebVTT_API][mozilla webvtt]]
 ** [[https://www.w3.org/TR/webvtt1/][webvtt]]
 * n8n
+** [[https://docs.n8n.io/][n8n docs]]
 * nixos
 ** [[https://nixos.org/manual/nix/stable/introduction.html][Introduction]]
 ** [[https://nixos-and-flakes.thiscute.world][Nixos Flakes]]
